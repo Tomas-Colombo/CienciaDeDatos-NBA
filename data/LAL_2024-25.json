@@ -1,0 +1,3136 @@
+[
+  {
+    "gameId": "202504130POR",
+    "date": "2025-04-13T07:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 81,
+    "homeTeam": "POR",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 88.6,
+        "dRtg": 119.2,
+        "tsPercent": 0.47,
+        "fTr": 0.175,
+        "orbPercent": 31,
+        "drbPercent": 51.8,
+        "trbPercent": 42.9,
+        "astPercent": 67.7,
+        "stlPercent": 9.8,
+        "blkPercent": 20.4,
+        "tovPercent": 19.6
+      },
+      {
+        "team": "POR",
+        "oRtg": 119.2,
+        "dRtg": 88.6,
+        "tsPercent": 0.518,
+        "fTr": 0.219,
+        "orbPercent": 48.2,
+        "drbPercent": 69,
+        "trbPercent": 57.1,
+        "astPercent": 64.3,
+        "stlPercent": 7.7,
+        "blkPercent": 11.5,
+        "tovPercent": 13.2
+      }
+    ]
+  },
+  {
+    "gameId": "202504110LAL",
+    "date": "2025-04-11T14:30:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 109,
+    "homeTeam": "LAL",
+    "homePts": 140,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 103.1,
+        "dRtg": 132.5,
+        "tsPercent": 0.572,
+        "fTr": 0.133,
+        "orbPercent": 15.6,
+        "drbPercent": 88.2,
+        "trbPercent": 46.8,
+        "astPercent": 53.7,
+        "stlPercent": 7.6,
+        "blkPercent": 10,
+        "tovPercent": 16.6
+      },
+      {
+        "team": "LAL",
+        "oRtg": 132.5,
+        "dRtg": 103.1,
+        "tsPercent": 0.714,
+        "fTr": 0.287,
+        "orbPercent": 11.8,
+        "drbPercent": 84.4,
+        "trbPercent": 53.2,
+        "astPercent": 52.8,
+        "stlPercent": 10.4,
+        "blkPercent": 2.6,
+        "tovPercent": 11.7
+      }
+    ]
+  },
+  {
+    "gameId": "202504090DAL",
+    "date": "2025-04-09T11:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 112,
+    "homeTeam": "DAL",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 122,
+        "dRtg": 105.7,
+        "tsPercent": 0.564,
+        "fTr": 0.233,
+        "orbPercent": 34.1,
+        "drbPercent": 72.7,
+        "trbPercent": 50.6,
+        "astPercent": 52.4,
+        "stlPercent": 15.3,
+        "blkPercent": 0,
+        "tovPercent": 10.8
+      },
+      {
+        "team": "DAL",
+        "oRtg": 105.7,
+        "dRtg": 122,
+        "tsPercent": 0.591,
+        "fTr": 0.319,
+        "orbPercent": 27.3,
+        "drbPercent": 65.9,
+        "trbPercent": 49.4,
+        "astPercent": 83.3,
+        "stlPercent": 6.5,
+        "blkPercent": 11.1,
+        "tovPercent": 19.6
+      }
+    ]
+  },
+  {
+    "gameId": "202504080OKC",
+    "date": "2025-04-08T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 120,
+    "homeTeam": "OKC",
+    "homePts": 136,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 118.8,
+        "dRtg": 134.7,
+        "tsPercent": 0.623,
+        "fTr": 0.463,
+        "orbPercent": 29.3,
+        "drbPercent": 68.8,
+        "trbPercent": 50.6,
+        "astPercent": 56.8,
+        "stlPercent": 2,
+        "blkPercent": 9,
+        "tovPercent": 16.5
+      },
+      {
+        "team": "OKC",
+        "oRtg": 134.7,
+        "dRtg": 118.8,
+        "tsPercent": 0.603,
+        "fTr": 0.192,
+        "orbPercent": 31.3,
+        "drbPercent": 70.7,
+        "trbPercent": 49.4,
+        "astPercent": 50,
+        "stlPercent": 8.9,
+        "blkPercent": 12.5,
+        "tovPercent": 5.8
+      }
+    ]
+  },
+  {
+    "gameId": "202504060OKC",
+    "date": "2025-04-06T07:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 126,
+    "homeTeam": "OKC",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 133.6,
+        "dRtg": 105,
+        "tsPercent": 0.689,
+        "fTr": 0.202,
+        "orbPercent": 24.2,
+        "drbPercent": 79.5,
+        "trbPercent": 55.8,
+        "astPercent": 54.3,
+        "stlPercent": 6.4,
+        "blkPercent": 3.8,
+        "tovPercent": 15.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 105,
+        "dRtg": 133.6,
+        "tsPercent": 0.52,
+        "fTr": 0.133,
+        "orbPercent": 20.5,
+        "drbPercent": 75.8,
+        "trbPercent": 44.2,
+        "astPercent": 51.3,
+        "stlPercent": 9.5,
+        "blkPercent": 6.8,
+        "tovPercent": 6.8
+      }
+    ]
+  },
+  {
+    "gameId": "202504040LAL",
+    "date": "2025-04-04T14:30:00Z",
+    "visitorTeam": "NOP",
+    "visitorPts": 108,
+    "homeTeam": "LAL",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "NOP",
+        "oRtg": 116.9,
+        "dRtg": 134.2,
+        "tsPercent": 0.589,
+        "fTr": 0.268,
+        "orbPercent": 34.9,
+        "drbPercent": 74.2,
+        "trbPercent": 51.4,
+        "astPercent": 67.5,
+        "stlPercent": 10.8,
+        "blkPercent": 5.3,
+        "tovPercent": 15.6
+      },
+      {
+        "team": "LAL",
+        "oRtg": 134.2,
+        "dRtg": 116.9,
+        "tsPercent": 0.679,
+        "fTr": 0.354,
+        "orbPercent": 25.8,
+        "drbPercent": 65.1,
+        "trbPercent": 48.6,
+        "astPercent": 63.4,
+        "stlPercent": 7.6,
+        "blkPercent": 4.2,
+        "tovPercent": 12.5
+      }
+    ]
+  },
+  {
+    "gameId": "202504030LAL",
+    "date": "2025-04-03T14:00:00Z",
+    "visitorTeam": "GSW",
+    "visitorPts": 123,
+    "homeTeam": "LAL",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "GSW",
+        "oRtg": 136.1,
+        "dRtg": 128.3,
+        "tsPercent": 0.643,
+        "fTr": 0.378,
+        "orbPercent": 35.9,
+        "drbPercent": 69.6,
+        "trbPercent": 54.1,
+        "astPercent": 76.9,
+        "stlPercent": 5.5,
+        "blkPercent": 5.1,
+        "tovPercent": 12
+      },
+      {
+        "team": "LAL",
+        "oRtg": 128.3,
+        "dRtg": 136.1,
+        "tsPercent": 0.603,
+        "fTr": 0.267,
+        "orbPercent": 30.4,
+        "drbPercent": 64.1,
+        "trbPercent": 45.9,
+        "astPercent": 59,
+        "stlPercent": 5.5,
+        "blkPercent": 7.5,
+        "tovPercent": 9.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503310LAL",
+    "date": "2025-03-31T14:00:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 98,
+    "homeTeam": "LAL",
+    "homePts": 104,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 100.5,
+        "dRtg": 106.6,
+        "tsPercent": 0.508,
+        "fTr": 0.191,
+        "orbPercent": 22.2,
+        "drbPercent": 80.4,
+        "trbPercent": 53.1,
+        "astPercent": 70.3,
+        "stlPercent": 7.2,
+        "blkPercent": 11.6,
+        "tovPercent": 13.5
+      },
+      {
+        "team": "LAL",
+        "oRtg": 106.6,
+        "dRtg": 100.5,
+        "tsPercent": 0.532,
+        "fTr": 0.225,
+        "orbPercent": 19.6,
+        "drbPercent": 77.8,
+        "trbPercent": 46.9,
+        "astPercent": 62.9,
+        "stlPercent": 11.3,
+        "blkPercent": 10.5,
+        "tovPercent": 10.1
+      }
+    ]
+  },
+  {
+    "gameId": "202503290MEM",
+    "date": "2025-03-29T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 134,
+    "homeTeam": "MEM",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 129.2,
+        "dRtg": 122.4,
+        "tsPercent": 0.664,
+        "fTr": 0.303,
+        "orbPercent": 20,
+        "drbPercent": 79.1,
+        "trbPercent": 50.6,
+        "astPercent": 66.7,
+        "stlPercent": 6.7,
+        "blkPercent": 4.8,
+        "tovPercent": 11.4
+      },
+      {
+        "team": "MEM",
+        "oRtg": 122.4,
+        "dRtg": 129.2,
+        "tsPercent": 0.617,
+        "fTr": 0.189,
+        "orbPercent": 20.9,
+        "drbPercent": 80,
+        "trbPercent": 49.4,
+        "astPercent": 66,
+        "stlPercent": 6.7,
+        "blkPercent": 8.7,
+        "tovPercent": 10.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503270CHI",
+    "date": "2025-03-27T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 117,
+    "homeTeam": "CHI",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 114,
+        "dRtg": 115.9,
+        "tsPercent": 0.591,
+        "fTr": 0.198,
+        "orbPercent": 14,
+        "drbPercent": 75.6,
+        "trbPercent": 45.5,
+        "astPercent": 66.7,
+        "stlPercent": 7.8,
+        "blkPercent": 14.6,
+        "tovPercent": 10
+      },
+      {
+        "team": "CHI",
+        "oRtg": 115.9,
+        "dRtg": 114,
+        "tsPercent": 0.585,
+        "fTr": 0.239,
+        "orbPercent": 24.4,
+        "drbPercent": 86,
+        "trbPercent": 54.5,
+        "astPercent": 76.7,
+        "stlPercent": 3.9,
+        "blkPercent": 4,
+        "tovPercent": 12.9
+      }
+    ]
+  },
+  {
+    "gameId": "202503260IND",
+    "date": "2025-03-26T11:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 120,
+    "homeTeam": "IND",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 125.2,
+        "dRtg": 124.1,
+        "tsPercent": 0.67,
+        "fTr": 0.304,
+        "orbPercent": 21.6,
+        "drbPercent": 83.3,
+        "trbPercent": 54.4,
+        "astPercent": 63.4,
+        "stlPercent": 5.2,
+        "blkPercent": 5.9,
+        "tovPercent": 14.3
+      },
+      {
+        "team": "IND",
+        "oRtg": 124.1,
+        "dRtg": 125.2,
+        "tsPercent": 0.624,
+        "fTr": 0.218,
+        "orbPercent": 16.7,
+        "drbPercent": 78.4,
+        "trbPercent": 45.6,
+        "astPercent": 70.5,
+        "stlPercent": 9.4,
+        "blkPercent": 9.8,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503240ORL",
+    "date": "2025-03-24T11:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 106,
+    "homeTeam": "ORL",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 118.1,
+        "dRtg": 131.4,
+        "tsPercent": 0.574,
+        "fTr": 0.35,
+        "orbPercent": 26.2,
+        "drbPercent": 70,
+        "trbPercent": 47.6,
+        "astPercent": 51.4,
+        "stlPercent": 7.8,
+        "blkPercent": 2.2,
+        "tovPercent": 10.6
+      },
+      {
+        "team": "ORL",
+        "oRtg": 131.4,
+        "dRtg": 118.1,
+        "tsPercent": 0.62,
+        "fTr": 0.271,
+        "orbPercent": 30,
+        "drbPercent": 73.8,
+        "trbPercent": 52.4,
+        "astPercent": 59.5,
+        "stlPercent": 6.7,
+        "blkPercent": 8.3,
+        "tovPercent": 8.6
+      }
+    ]
+  },
+  {
+    "gameId": "202503220LAL",
+    "date": "2025-03-22T14:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 146,
+    "homeTeam": "LAL",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 141.4,
+        "dRtg": 111.3,
+        "tsPercent": 0.697,
+        "fTr": 0.208,
+        "orbPercent": 27.8,
+        "drbPercent": 78,
+        "trbPercent": 54.5,
+        "astPercent": 73.2,
+        "stlPercent": 16.5,
+        "blkPercent": 11.4,
+        "tovPercent": 8.7
+      },
+      {
+        "team": "LAL",
+        "oRtg": 111.3,
+        "dRtg": 141.4,
+        "tsPercent": 0.607,
+        "fTr": 0.259,
+        "orbPercent": 22,
+        "drbPercent": 72.2,
+        "trbPercent": 45.5,
+        "astPercent": 56.1,
+        "stlPercent": 7.7,
+        "blkPercent": 1.8,
+        "tovPercent": 18.2
+      }
+    ]
+  },
+  {
+    "gameId": "202503200LAL",
+    "date": "2025-03-20T14:30:00Z",
+    "visitorTeam": "MIL",
+    "visitorPts": 118,
+    "homeTeam": "LAL",
+    "homePts": 89,
+    "teamGameAdvStats": [
+      {
+        "team": "MIL",
+        "oRtg": 123.7,
+        "dRtg": 93.3,
+        "tsPercent": 0.596,
+        "fTr": 0.405,
+        "orbPercent": 21.7,
+        "drbPercent": 68.9,
+        "trbPercent": 45.1,
+        "astPercent": 60,
+        "stlPercent": 12.6,
+        "blkPercent": 8,
+        "tovPercent": 8.3
+      },
+      {
+        "team": "LAL",
+        "oRtg": 93.3,
+        "dRtg": 123.7,
+        "tsPercent": 0.5,
+        "fTr": 0.195,
+        "orbPercent": 31.1,
+        "drbPercent": 78.3,
+        "trbPercent": 54.9,
+        "astPercent": 76.5,
+        "stlPercent": 5.2,
+        "blkPercent": 8.2,
+        "tovPercent": 19.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503190LAL",
+    "date": "2025-03-19T14:00:00Z",
+    "visitorTeam": "DEN",
+    "visitorPts": 108,
+    "homeTeam": "LAL",
+    "homePts": 120,
+    "teamGameAdvStats": [
+      {
+        "team": "DEN",
+        "oRtg": 108,
+        "dRtg": 120,
+        "tsPercent": 0.561,
+        "fTr": 0.241,
+        "orbPercent": 28.6,
+        "drbPercent": 80.5,
+        "trbPercent": 54.2,
+        "astPercent": 61,
+        "stlPercent": 8,
+        "blkPercent": 8.9,
+        "tovPercent": 16.5
+      },
+      {
+        "team": "LAL",
+        "oRtg": 120,
+        "dRtg": 108,
+        "tsPercent": 0.629,
+        "fTr": 0.337,
+        "orbPercent": 19.5,
+        "drbPercent": 71.4,
+        "trbPercent": 45.8,
+        "astPercent": 59.5,
+        "stlPercent": 13,
+        "blkPercent": 6.3,
+        "tovPercent": 12.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503170LAL",
+    "date": "2025-03-17T14:30:00Z",
+    "visitorTeam": "SAS",
+    "visitorPts": 109,
+    "homeTeam": "LAL",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "SAS",
+        "oRtg": 109.3,
+        "dRtg": 125.3,
+        "tsPercent": 0.579,
+        "fTr": 0.159,
+        "orbPercent": 20.9,
+        "drbPercent": 81.4,
+        "trbPercent": 51.2,
+        "astPercent": 73.2,
+        "stlPercent": 6,
+        "blkPercent": 11.9,
+        "tovPercent": 15.3
+      },
+      {
+        "team": "LAL",
+        "oRtg": 125.3,
+        "dRtg": 109.3,
+        "tsPercent": 0.622,
+        "fTr": 0.267,
+        "orbPercent": 18.6,
+        "drbPercent": 79.1,
+        "trbPercent": 48.8,
+        "astPercent": 77.3,
+        "stlPercent": 13,
+        "blkPercent": 8,
+        "tovPercent": 8.2
+      }
+    ]
+  },
+  {
+    "gameId": "202503160LAL",
+    "date": "2025-03-16T07:30:00Z",
+    "visitorTeam": "PHX",
+    "visitorPts": 96,
+    "homeTeam": "LAL",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "PHO",
+        "oRtg": 101,
+        "dRtg": 112.5,
+        "tsPercent": 0.489,
+        "fTr": 0.236,
+        "orbPercent": 29.8,
+        "drbPercent": 84.1,
+        "trbPercent": 56,
+        "astPercent": 71.4,
+        "stlPercent": 4.2,
+        "blkPercent": 9.5,
+        "tovPercent": 12.5
+      },
+      {
+        "team": "LAL",
+        "oRtg": 112.5,
+        "dRtg": 101,
+        "tsPercent": 0.563,
+        "fTr": 0.395,
+        "orbPercent": 15.9,
+        "drbPercent": 70.2,
+        "trbPercent": 44,
+        "astPercent": 62.9,
+        "stlPercent": 7.4,
+        "blkPercent": 10.4,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503140DEN",
+    "date": "2025-03-14T13:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 126,
+    "homeTeam": "DEN",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 126.8,
+        "dRtg": 131.9,
+        "tsPercent": 0.562,
+        "fTr": 0.152,
+        "orbPercent": 38.8,
+        "drbPercent": 75.7,
+        "trbPercent": 54.7,
+        "astPercent": 65.3,
+        "stlPercent": 10.1,
+        "blkPercent": 3.7,
+        "tovPercent": 7.4
+      },
+      {
+        "team": "DEN",
+        "oRtg": 131.9,
+        "dRtg": 126.8,
+        "tsPercent": 0.644,
+        "fTr": 0.447,
+        "orbPercent": 24.3,
+        "drbPercent": 61.2,
+        "trbPercent": 45.3,
+        "astPercent": 68.2,
+        "stlPercent": 7,
+        "blkPercent": 7.7,
+        "tovPercent": 10.6
+      }
+    ]
+  },
+  {
+    "gameId": "202503130MIL",
+    "date": "2025-03-13T11:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 106,
+    "homeTeam": "MIL",
+    "homePts": 126,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 103.3,
+        "dRtg": 122.8,
+        "tsPercent": 0.558,
+        "fTr": 0.207,
+        "orbPercent": 10.9,
+        "drbPercent": 82.5,
+        "trbPercent": 44.2,
+        "astPercent": 47.4,
+        "stlPercent": 2.9,
+        "blkPercent": 8.7,
+        "tovPercent": 12.9
+      },
+      {
+        "team": "MIL",
+        "oRtg": 122.8,
+        "dRtg": 103.3,
+        "tsPercent": 0.627,
+        "fTr": 0.384,
+        "orbPercent": 17.5,
+        "drbPercent": 89.1,
+        "trbPercent": 55.8,
+        "astPercent": 73.2,
+        "stlPercent": 8.8,
+        "blkPercent": 17,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202503100BRK",
+    "date": "2025-03-10T11:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 108,
+    "homeTeam": "BKN",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 114.7,
+        "dRtg": 117.9,
+        "tsPercent": 0.578,
+        "fTr": 0.224,
+        "orbPercent": 20.5,
+        "drbPercent": 68.6,
+        "trbPercent": 47.8,
+        "astPercent": 83.8,
+        "stlPercent": 4.2,
+        "blkPercent": 8.9,
+        "tovPercent": 13.8
+      },
+      {
+        "team": "BRK",
+        "oRtg": 117.9,
+        "dRtg": 114.7,
+        "tsPercent": 0.538,
+        "fTr": 0.333,
+        "orbPercent": 31.4,
+        "drbPercent": 79.5,
+        "trbPercent": 52.2,
+        "astPercent": 59.5,
+        "stlPercent": 10.6,
+        "blkPercent": 13.3,
+        "tovPercent": 6.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503080BOS",
+    "date": "2025-03-08T13:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 101,
+    "homeTeam": "BOS",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 107.3,
+        "dRtg": 117.9,
+        "tsPercent": 0.542,
+        "fTr": 0.161,
+        "orbPercent": 22,
+        "drbPercent": 76.6,
+        "trbPercent": 51.1,
+        "astPercent": 46.2,
+        "stlPercent": 6.4,
+        "blkPercent": 2.2,
+        "tovPercent": 13.1
+      },
+      {
+        "team": "BOS",
+        "oRtg": 117.9,
+        "dRtg": 107.3,
+        "tsPercent": 0.584,
+        "fTr": 0.298,
+        "orbPercent": 23.4,
+        "drbPercent": 78,
+        "trbPercent": 48.9,
+        "astPercent": 60,
+        "stlPercent": 9.6,
+        "blkPercent": 10.6,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503060LAL",
+    "date": "2025-03-06T15:00:00Z",
+    "visitorTeam": "NYK",
+    "visitorPts": 109,
+    "homeTeam": "LAL",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "NYK",
+        "oRtg": 104.6,
+        "dRtg": 108.5,
+        "tsPercent": 0.504,
+        "fTr": 0.34,
+        "orbPercent": 27.5,
+        "drbPercent": 72.7,
+        "trbPercent": 48.4,
+        "astPercent": 54.1,
+        "stlPercent": 9.6,
+        "blkPercent": 4.3,
+        "tovPercent": 12.9
+      },
+      {
+        "team": "LAL",
+        "oRtg": 108.5,
+        "dRtg": 104.6,
+        "tsPercent": 0.558,
+        "fTr": 0.315,
+        "orbPercent": 27.3,
+        "drbPercent": 72.5,
+        "trbPercent": 51.6,
+        "astPercent": 65.8,
+        "stlPercent": 6.7,
+        "blkPercent": 7.8,
+        "tovPercent": 14.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503040LAL",
+    "date": "2025-03-04T15:30:00Z",
+    "visitorTeam": "NOP",
+    "visitorPts": 115,
+    "homeTeam": "LAL",
+    "homePts": 136,
+    "teamGameAdvStats": [
+      {
+        "team": "NOP",
+        "oRtg": 117,
+        "dRtg": 138.4,
+        "tsPercent": 0.562,
+        "fTr": 0.226,
+        "orbPercent": 22.7,
+        "drbPercent": 59.5,
+        "trbPercent": 40.7,
+        "astPercent": 63,
+        "stlPercent": 11.2,
+        "blkPercent": 7.9,
+        "tovPercent": 8.1
+      },
+      {
+        "team": "LAL",
+        "oRtg": 138.4,
+        "dRtg": 117,
+        "tsPercent": 0.667,
+        "fTr": 0.3,
+        "orbPercent": 40.5,
+        "drbPercent": 77.3,
+        "trbPercent": 59.3,
+        "astPercent": 66.7,
+        "stlPercent": 7.1,
+        "blkPercent": 8.5,
+        "tovPercent": 12.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503020LAL",
+    "date": "2025-03-02T14:30:00Z",
+    "visitorTeam": "LAC",
+    "visitorPts": 102,
+    "homeTeam": "LAL",
+    "homePts": 108,
+    "teamGameAdvStats": [
+      {
+        "team": "LAC",
+        "oRtg": 110.7,
+        "dRtg": 117.2,
+        "tsPercent": 0.534,
+        "fTr": 0.193,
+        "orbPercent": 25,
+        "drbPercent": 73.2,
+        "trbPercent": 49.4,
+        "astPercent": 63.2,
+        "stlPercent": 9.8,
+        "blkPercent": 2.9,
+        "tovPercent": 11.2
+      },
+      {
+        "team": "LAL",
+        "oRtg": 117.2,
+        "dRtg": 110.7,
+        "tsPercent": 0.629,
+        "fTr": 0.26,
+        "orbPercent": 26.8,
+        "drbPercent": 75,
+        "trbPercent": 50.6,
+        "astPercent": 55.3,
+        "stlPercent": 8.7,
+        "blkPercent": 12.2,
+        "tovPercent": 16.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502280LAL",
+    "date": "2025-02-28T15:00:00Z",
+    "visitorTeam": "LAC",
+    "visitorPts": 102,
+    "homeTeam": "LAL",
+    "homePts": 106,
+    "teamGameAdvStats": [
+      {
+        "team": "LAC",
+        "oRtg": 108.3,
+        "dRtg": 112.5,
+        "tsPercent": 0.53,
+        "fTr": 0.241,
+        "orbPercent": 34.1,
+        "drbPercent": 74.4,
+        "trbPercent": 53,
+        "astPercent": 64.1,
+        "stlPercent": 11.7,
+        "blkPercent": 2.1,
+        "tovPercent": 15.8
+      },
+      {
+        "team": "LAL",
+        "oRtg": 112.5,
+        "dRtg": 108.3,
+        "tsPercent": 0.591,
+        "fTr": 0.275,
+        "orbPercent": 25.6,
+        "drbPercent": 65.9,
+        "trbPercent": 47,
+        "astPercent": 48.7,
+        "stlPercent": 14.9,
+        "blkPercent": 10,
+        "tovPercent": 14.3
+      }
+    ]
+  },
+  {
+    "gameId": "202502270LAL",
+    "date": "2025-02-27T15:30:00Z",
+    "visitorTeam": "MIN",
+    "visitorPts": 102,
+    "homeTeam": "LAL",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "MIN",
+        "oRtg": 106.9,
+        "dRtg": 116.3,
+        "tsPercent": 0.534,
+        "fTr": 0.31,
+        "orbPercent": 21.7,
+        "drbPercent": 66,
+        "trbPercent": 44.1,
+        "astPercent": 71.4,
+        "stlPercent": 9.4,
+        "blkPercent": 7.3,
+        "tovPercent": 11.2
+      },
+      {
+        "team": "LAL",
+        "oRtg": 116.3,
+        "dRtg": 106.9,
+        "tsPercent": 0.543,
+        "fTr": 0.561,
+        "orbPercent": 34,
+        "drbPercent": 78.3,
+        "trbPercent": 55.9,
+        "astPercent": 61.8,
+        "stlPercent": 7.3,
+        "blkPercent": 4.7,
+        "tovPercent": 11.3
+      }
+    ]
+  },
+  {
+    "gameId": "202502250LAL",
+    "date": "2025-02-25T15:00:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 99,
+    "homeTeam": "LAL",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "DAL",
+        "oRtg": 101.9,
+        "dRtg": 110.1,
+        "tsPercent": 0.477,
+        "fTr": 0.133,
+        "orbPercent": 24.1,
+        "drbPercent": 70.5,
+        "trbPercent": 44.1,
+        "astPercent": 65.7,
+        "stlPercent": 7.2,
+        "blkPercent": 23.4,
+        "tovPercent": 10.4
+      },
+      {
+        "team": "LAL",
+        "oRtg": 110.1,
+        "dRtg": 101.9,
+        "tsPercent": 0.548,
+        "fTr": 0.276,
+        "orbPercent": 29.5,
+        "drbPercent": 75.9,
+        "trbPercent": 55.9,
+        "astPercent": 61.5,
+        "stlPercent": 7.2,
+        "blkPercent": 14.8,
+        "tovPercent": 12.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502220DEN",
+    "date": "2025-02-22T13:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 123,
+    "homeTeam": "DEN",
+    "homePts": 100,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 126.2,
+        "dRtg": 102.6,
+        "tsPercent": 0.634,
+        "fTr": 0.291,
+        "orbPercent": 21.4,
+        "drbPercent": 71.4,
+        "trbPercent": 46.4,
+        "astPercent": 62.8,
+        "stlPercent": 15.4,
+        "blkPercent": 20.5,
+        "tovPercent": 8.5
+      },
+      {
+        "team": "DEN",
+        "oRtg": 102.6,
+        "dRtg": 126.2,
+        "tsPercent": 0.531,
+        "fTr": 0.247,
+        "orbPercent": 28.6,
+        "drbPercent": 78.6,
+        "trbPercent": 53.6,
+        "astPercent": 82.4,
+        "stlPercent": 6.2,
+        "blkPercent": 2.2,
+        "tovPercent": 18.9
+      }
+    ]
+  },
+  {
+    "gameId": "202502200POR",
+    "date": "2025-02-20T15:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 110,
+    "homeTeam": "POR",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 106.3,
+        "dRtg": 98.6,
+        "tsPercent": 0.591,
+        "fTr": 0.305,
+        "orbPercent": 28.9,
+        "drbPercent": 86,
+        "trbPercent": 59.3,
+        "astPercent": 51.3,
+        "stlPercent": 6.8,
+        "blkPercent": 12.2,
+        "tovPercent": 20.5
+      },
+      {
+        "team": "POR",
+        "oRtg": 98.6,
+        "dRtg": 106.3,
+        "tsPercent": 0.535,
+        "fTr": 0.244,
+        "orbPercent": 14,
+        "drbPercent": 71.1,
+        "trbPercent": 40.7,
+        "astPercent": 71.1,
+        "stlPercent": 15.5,
+        "blkPercent": 14,
+        "tovPercent": 15.1
+      }
+    ]
+  },
+  {
+    "gameId": "202502190LAL",
+    "date": "2025-02-19T15:00:00Z",
+    "visitorTeam": "CHA",
+    "visitorPts": 100,
+    "homeTeam": "LAL",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "CHO",
+        "oRtg": 98,
+        "dRtg": 95,
+        "tsPercent": 0.508,
+        "fTr": 0.187,
+        "orbPercent": 19.1,
+        "drbPercent": 76,
+        "trbPercent": 48.5,
+        "astPercent": 60.6,
+        "stlPercent": 11.8,
+        "blkPercent": 10.3,
+        "tovPercent": 16.2
+      },
+      {
+        "team": "LAL",
+        "oRtg": 95,
+        "dRtg": 98,
+        "tsPercent": 0.509,
+        "fTr": 0.133,
+        "orbPercent": 24,
+        "drbPercent": 80.9,
+        "trbPercent": 51.5,
+        "astPercent": 78.4,
+        "stlPercent": 6.9,
+        "blkPercent": 10.5,
+        "tovPercent": 15.9
+      }
+    ]
+  },
+  {
+    "gameId": "202502120UTA",
+    "date": "2025-02-12T14:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 119,
+    "homeTeam": "UTA",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 117.4,
+        "dRtg": 129.2,
+        "tsPercent": 0.566,
+        "fTr": 0.326,
+        "orbPercent": 27.5,
+        "drbPercent": 73.8,
+        "trbPercent": 48.4,
+        "astPercent": 75.6,
+        "stlPercent": 4.9,
+        "blkPercent": 6.7,
+        "tovPercent": 11.7
+      },
+      {
+        "team": "UTA",
+        "oRtg": 129.2,
+        "dRtg": 117.4,
+        "tsPercent": 0.652,
+        "fTr": 0.384,
+        "orbPercent": 26.2,
+        "drbPercent": 72.5,
+        "trbPercent": 51.6,
+        "astPercent": 66.7,
+        "stlPercent": 9.9,
+        "blkPercent": 19,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502100LAL",
+    "date": "2025-02-10T15:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 113,
+    "homeTeam": "LAL",
+    "homePts": 132,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 111.7,
+        "dRtg": 130.4,
+        "tsPercent": 0.589,
+        "fTr": 0.321,
+        "orbPercent": 24.4,
+        "drbPercent": 73.7,
+        "trbPercent": 47,
+        "astPercent": 74.4,
+        "stlPercent": 5.9,
+        "blkPercent": 6,
+        "tovPercent": 16.5
+      },
+      {
+        "team": "LAL",
+        "oRtg": 130.4,
+        "dRtg": 111.7,
+        "tsPercent": 0.661,
+        "fTr": 0.196,
+        "orbPercent": 26.3,
+        "drbPercent": 75.6,
+        "trbPercent": 53,
+        "astPercent": 56,
+        "stlPercent": 10.9,
+        "blkPercent": 4.5,
+        "tovPercent": 11.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502080LAL",
+    "date": "2025-02-08T09:00:00Z",
+    "visitorTeam": "IND",
+    "visitorPts": 117,
+    "homeTeam": "LAL",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "IND",
+        "oRtg": 117.3,
+        "dRtg": 124.3,
+        "tsPercent": 0.579,
+        "fTr": 0.368,
+        "orbPercent": 22.9,
+        "drbPercent": 75,
+        "trbPercent": 45.2,
+        "astPercent": 73,
+        "stlPercent": 10,
+        "blkPercent": 3.6,
+        "tovPercent": 9.8
+      },
+      {
+        "team": "LAL",
+        "oRtg": 124.3,
+        "dRtg": 117.3,
+        "tsPercent": 0.632,
+        "fTr": 0.261,
+        "orbPercent": 25,
+        "drbPercent": 77.1,
+        "trbPercent": 54.8,
+        "astPercent": 63,
+        "stlPercent": 6,
+        "blkPercent": 6.1,
+        "tovPercent": 13.3
+      }
+    ]
+  },
+  {
+    "gameId": "202502060LAL",
+    "date": "2025-02-06T15:00:00Z",
+    "visitorTeam": "GSW",
+    "visitorPts": 112,
+    "homeTeam": "LAL",
+    "homePts": 120,
+    "teamGameAdvStats": [
+      {
+        "team": "GSW",
+        "oRtg": 108.4,
+        "dRtg": 116.1,
+        "tsPercent": 0.51,
+        "fTr": 0.198,
+        "orbPercent": 20,
+        "drbPercent": 81.1,
+        "trbPercent": 46,
+        "astPercent": 70.7,
+        "stlPercent": 7.7,
+        "blkPercent": 4.7,
+        "tovPercent": 9.9
+      },
+      {
+        "team": "LAL",
+        "oRtg": 116.1,
+        "dRtg": 108.4,
+        "tsPercent": 0.639,
+        "fTr": 0.462,
+        "orbPercent": 18.9,
+        "drbPercent": 80,
+        "trbPercent": 54,
+        "astPercent": 66.7,
+        "stlPercent": 8.7,
+        "blkPercent": 10.4,
+        "tovPercent": 13
+      }
+    ]
+  },
+  {
+    "gameId": "202502040LAC",
+    "date": "2025-02-04T15:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 122,
+    "homeTeam": "LAC",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 128.9,
+        "dRtg": 102.5,
+        "tsPercent": 0.669,
+        "fTr": 0.284,
+        "orbPercent": 27.8,
+        "drbPercent": 80,
+        "trbPercent": 58.1,
+        "astPercent": 73.3,
+        "stlPercent": 7.4,
+        "blkPercent": 6.3,
+        "tovPercent": 14.1
+      },
+      {
+        "team": "LAC",
+        "oRtg": 102.5,
+        "dRtg": 128.9,
+        "tsPercent": 0.498,
+        "fTr": 0.213,
+        "orbPercent": 20,
+        "drbPercent": 72.2,
+        "trbPercent": 41.9,
+        "astPercent": 88.2,
+        "stlPercent": 9.5,
+        "blkPercent": 11.4,
+        "tovPercent": 9.3
+      }
+    ]
+  },
+  {
+    "gameId": "202502010NYK",
+    "date": "2025-02-01T13:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 128,
+    "homeTeam": "NYK",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 128.8,
+        "dRtg": 112.7,
+        "tsPercent": 0.72,
+        "fTr": 0.222,
+        "orbPercent": 9.7,
+        "drbPercent": 68,
+        "trbPercent": 45.7,
+        "astPercent": 55.3,
+        "stlPercent": 9.1,
+        "blkPercent": 6,
+        "tovPercent": 14.4
+      },
+      {
+        "team": "NYK",
+        "oRtg": 112.7,
+        "dRtg": 128.8,
+        "tsPercent": 0.542,
+        "fTr": 0.2,
+        "orbPercent": 32,
+        "drbPercent": 90.3,
+        "trbPercent": 54.3,
+        "astPercent": 75,
+        "stlPercent": 7,
+        "blkPercent": 7.3,
+        "tovPercent": 11.9
+      }
+    ]
+  },
+  {
+    "gameId": "202501300WAS",
+    "date": "2025-01-30T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 134,
+    "homeTeam": "WAS",
+    "homePts": 96,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 132.3,
+        "dRtg": 94.8,
+        "tsPercent": 0.672,
+        "fTr": 0.244,
+        "orbPercent": 25.7,
+        "drbPercent": 76.5,
+        "trbPercent": 55.8,
+        "astPercent": 63.3,
+        "stlPercent": 8.9,
+        "blkPercent": 12.8,
+        "tovPercent": 9.9
+      },
+      {
+        "team": "WAS",
+        "oRtg": 94.8,
+        "dRtg": 132.3,
+        "tsPercent": 0.453,
+        "fTr": 0.374,
+        "orbPercent": 23.5,
+        "drbPercent": 74.3,
+        "trbPercent": 44.2,
+        "astPercent": 62.1,
+        "stlPercent": 4,
+        "blkPercent": 10.3,
+        "tovPercent": 12.4
+      }
+    ]
+  },
+  {
+    "gameId": "202501280PHI",
+    "date": "2025-01-28T12:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 104,
+    "homeTeam": "PHI",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 106.2,
+        "dRtg": 120.5,
+        "tsPercent": 0.633,
+        "fTr": 0.319,
+        "orbPercent": 11.4,
+        "drbPercent": 74.5,
+        "trbPercent": 47.6,
+        "astPercent": 67.6,
+        "stlPercent": 5.1,
+        "blkPercent": 5.3,
+        "tovPercent": 21.1
+      },
+      {
+        "team": "PHI",
+        "oRtg": 120.5,
+        "dRtg": 106.2,
+        "tsPercent": 0.578,
+        "fTr": 0.275,
+        "orbPercent": 25.5,
+        "drbPercent": 88.6,
+        "trbPercent": 52.4,
+        "astPercent": 46.5,
+        "stlPercent": 14.3,
+        "blkPercent": 10.3,
+        "tovPercent": 8.1
+      }
+    ]
+  },
+  {
+    "gameId": "202501270CHO",
+    "date": "2025-01-27T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 112,
+    "homeTeam": "CHA",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 113.9,
+        "dRtg": 108.8,
+        "tsPercent": 0.58,
+        "fTr": 0.279,
+        "orbPercent": 33.3,
+        "drbPercent": 78.3,
+        "trbPercent": 58.5,
+        "astPercent": 50,
+        "stlPercent": 9.2,
+        "blkPercent": 9.8,
+        "tovPercent": 16.4
+      },
+      {
+        "team": "CHO",
+        "oRtg": 108.8,
+        "dRtg": 113.9,
+        "tsPercent": 0.564,
+        "fTr": 0.207,
+        "orbPercent": 21.7,
+        "drbPercent": 66.7,
+        "trbPercent": 41.5,
+        "astPercent": 66.7,
+        "stlPercent": 11.2,
+        "blkPercent": 5.2,
+        "tovPercent": 12.9
+      }
+    ]
+  },
+  {
+    "gameId": "202501250GSW",
+    "date": "2025-01-25T13:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 118,
+    "homeTeam": "GSW",
+    "homePts": 108,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 123.7,
+        "dRtg": 113.2,
+        "tsPercent": 0.631,
+        "fTr": 0.198,
+        "orbPercent": 27,
+        "drbPercent": 74.4,
+        "trbPercent": 52.5,
+        "astPercent": 61.7,
+        "stlPercent": 8.4,
+        "blkPercent": 4.7,
+        "tovPercent": 12.2
+      },
+      {
+        "team": "GSW",
+        "oRtg": 113.2,
+        "dRtg": 123.7,
+        "tsPercent": 0.562,
+        "fTr": 0.18,
+        "orbPercent": 25.6,
+        "drbPercent": 73,
+        "trbPercent": 47.5,
+        "astPercent": 73.2,
+        "stlPercent": 10.5,
+        "blkPercent": 0,
+        "tovPercent": 12.7
+      }
+    ]
+  },
+  {
+    "gameId": "202501230LAL",
+    "date": "2025-01-23T15:00:00Z",
+    "visitorTeam": "BOS",
+    "visitorPts": 96,
+    "homeTeam": "LAL",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "BOS",
+        "oRtg": 102.3,
+        "dRtg": 124.6,
+        "tsPercent": 0.485,
+        "fTr": 0.198,
+        "orbPercent": 20.4,
+        "drbPercent": 75.6,
+        "trbPercent": 44.2,
+        "astPercent": 65.7,
+        "stlPercent": 5.3,
+        "blkPercent": 11.1,
+        "tovPercent": 6.6
+      },
+      {
+        "team": "LAL",
+        "oRtg": 124.6,
+        "dRtg": 102.3,
+        "tsPercent": 0.598,
+        "fTr": 0.225,
+        "orbPercent": 24.4,
+        "drbPercent": 79.6,
+        "trbPercent": 55.8,
+        "astPercent": 64.3,
+        "stlPercent": 4.3,
+        "blkPercent": 6,
+        "tovPercent": 9.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501210LAL",
+    "date": "2025-01-21T15:30:00Z",
+    "visitorTeam": "WAS",
+    "visitorPts": 88,
+    "homeTeam": "LAL",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "WAS",
+        "oRtg": 87.1,
+        "dRtg": 109.8,
+        "tsPercent": 0.437,
+        "fTr": 0.137,
+        "orbPercent": 17.3,
+        "drbPercent": 84.1,
+        "trbPercent": 47.9,
+        "astPercent": 73.5,
+        "stlPercent": 7.9,
+        "blkPercent": 14.3,
+        "tovPercent": 11.4
+      },
+      {
+        "team": "LAL",
+        "oRtg": 109.8,
+        "dRtg": 87.1,
+        "tsPercent": 0.567,
+        "fTr": 0.2,
+        "orbPercent": 15.9,
+        "drbPercent": 82.7,
+        "trbPercent": 52.1,
+        "astPercent": 69.8,
+        "stlPercent": 5.9,
+        "blkPercent": 19.2,
+        "tovPercent": 10.1
+      }
+    ]
+  },
+  {
+    "gameId": "202501190LAC",
+    "date": "2025-01-19T14:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 102,
+    "homeTeam": "LAC",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 107.8,
+        "dRtg": 122.6,
+        "tsPercent": 0.605,
+        "fTr": 0.25,
+        "orbPercent": 15.6,
+        "drbPercent": 71.8,
+        "trbPercent": 46.5,
+        "astPercent": 68.4,
+        "stlPercent": 6.3,
+        "blkPercent": 10.2,
+        "tovPercent": 16.8
+      },
+      {
+        "team": "LAC",
+        "oRtg": 122.6,
+        "dRtg": 107.8,
+        "tsPercent": 0.609,
+        "fTr": 0.157,
+        "orbPercent": 28.2,
+        "drbPercent": 84.4,
+        "trbPercent": 53.5,
+        "astPercent": 57.4,
+        "stlPercent": 12.7,
+        "blkPercent": 8.2,
+        "tovPercent": 12
+      }
+    ]
+  },
+  {
+    "gameId": "202501170LAL",
+    "date": "2025-01-17T15:30:00Z",
+    "visitorTeam": "BKN",
+    "visitorPts": 101,
+    "homeTeam": "LAL",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "BRK",
+        "oRtg": 111.2,
+        "dRtg": 112.3,
+        "tsPercent": 0.576,
+        "fTr": 0.159,
+        "orbPercent": 30,
+        "drbPercent": 84.6,
+        "trbPercent": 57,
+        "astPercent": 75.7,
+        "stlPercent": 5.5,
+        "blkPercent": 12.5,
+        "tovPercent": 16.2
+      },
+      {
+        "team": "LAL",
+        "oRtg": 112.3,
+        "dRtg": 111.2,
+        "tsPercent": 0.567,
+        "fTr": 0.22,
+        "orbPercent": 15.4,
+        "drbPercent": 70,
+        "trbPercent": 43,
+        "astPercent": 63.2,
+        "stlPercent": 6.6,
+        "blkPercent": 15.9,
+        "tovPercent": 10
+      }
+    ]
+  },
+  {
+    "gameId": "202501150LAL",
+    "date": "2025-01-15T15:00:00Z",
+    "visitorTeam": "MIA",
+    "visitorPts": 108,
+    "homeTeam": "LAL",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "MIA",
+        "oRtg": 113,
+        "dRtg": 122.4,
+        "tsPercent": 0.678,
+        "fTr": 0.205,
+        "orbPercent": 9.7,
+        "drbPercent": 85,
+        "trbPercent": 52.1,
+        "astPercent": 64.1,
+        "stlPercent": 3.1,
+        "blkPercent": 10.7,
+        "tovPercent": 20.1
+      },
+      {
+        "team": "LAL",
+        "oRtg": 122.4,
+        "dRtg": 113,
+        "tsPercent": 0.608,
+        "fTr": 0.156,
+        "orbPercent": 15,
+        "drbPercent": 90.3,
+        "trbPercent": 47.9,
+        "astPercent": 70.2,
+        "stlPercent": 12.6,
+        "blkPercent": 10.8,
+        "tovPercent": 6.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501130LAL",
+    "date": "2025-01-13T15:30:00Z",
+    "visitorTeam": "SAS",
+    "visitorPts": 126,
+    "homeTeam": "LAL",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "SAS",
+        "oRtg": 133.1,
+        "dRtg": 107.8,
+        "tsPercent": 0.638,
+        "fTr": 0.222,
+        "orbPercent": 32.4,
+        "drbPercent": 65.9,
+        "trbPercent": 50.6,
+        "astPercent": 62.5,
+        "stlPercent": 16.9,
+        "blkPercent": 11.6,
+        "tovPercent": 10
+      },
+      {
+        "team": "LAL",
+        "oRtg": 107.8,
+        "dRtg": 133.1,
+        "tsPercent": 0.542,
+        "fTr": 0.184,
+        "orbPercent": 34.1,
+        "drbPercent": 67.6,
+        "trbPercent": 49.4,
+        "astPercent": 61.5,
+        "stlPercent": 9.5,
+        "blkPercent": 7.3,
+        "tovPercent": 16.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501070DAL",
+    "date": "2025-01-07T12:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 97,
+    "homeTeam": "DAL",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 107.2,
+        "dRtg": 130.3,
+        "tsPercent": 0.567,
+        "fTr": 0.32,
+        "orbPercent": 13.2,
+        "drbPercent": 71.8,
+        "trbPercent": 42.9,
+        "astPercent": 58.8,
+        "stlPercent": 7.7,
+        "blkPercent": 12.5,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "DAL",
+        "oRtg": 130.3,
+        "dRtg": 107.2,
+        "tsPercent": 0.64,
+        "fTr": 0.163,
+        "orbPercent": 28.2,
+        "drbPercent": 86.8,
+        "trbPercent": 57.1,
+        "astPercent": 64.4,
+        "stlPercent": 7.7,
+        "blkPercent": 0,
+        "tovPercent": 12.4
+      }
+    ]
+  },
+  {
+    "gameId": "202501050HOU",
+    "date": "2025-01-05T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 115,
+    "homeTeam": "HOU",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 127.7,
+        "dRtg": 132.2,
+        "tsPercent": 0.637,
+        "fTr": 0.359,
+        "orbPercent": 24.4,
+        "drbPercent": 61.7,
+        "trbPercent": 44.3,
+        "astPercent": 68.4,
+        "stlPercent": 4.4,
+        "blkPercent": 8.5,
+        "tovPercent": 10
+      },
+      {
+        "team": "HOU",
+        "oRtg": 132.2,
+        "dRtg": 127.7,
+        "tsPercent": 0.554,
+        "fTr": 0.192,
+        "orbPercent": 38.3,
+        "drbPercent": 75.6,
+        "trbPercent": 55.7,
+        "astPercent": 40.4,
+        "stlPercent": 3.3,
+        "blkPercent": 9.5,
+        "tovPercent": 5.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501030LAL",
+    "date": "2025-01-03T15:30:00Z",
+    "visitorTeam": "ATL",
+    "visitorPts": 102,
+    "homeTeam": "LAL",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "ATL",
+        "oRtg": 103.4,
+        "dRtg": 120.6,
+        "tsPercent": 0.473,
+        "fTr": 0.18,
+        "orbPercent": 25,
+        "drbPercent": 60.5,
+        "trbPercent": 41.1,
+        "astPercent": 53.7,
+        "stlPercent": 10.1,
+        "blkPercent": 5.2,
+        "tovPercent": 6.9
+      },
+      {
+        "team": "LAL",
+        "oRtg": 120.6,
+        "dRtg": 103.4,
+        "tsPercent": 0.601,
+        "fTr": 0.284,
+        "orbPercent": 39.5,
+        "drbPercent": 75,
+        "trbPercent": 58.9,
+        "astPercent": 65.1,
+        "stlPercent": 4.1,
+        "blkPercent": 9.1,
+        "tovPercent": 16.1
+      }
+    ]
+  },
+  {
+    "gameId": "202501020LAL",
+    "date": "2025-01-02T15:30:00Z",
+    "visitorTeam": "POR",
+    "visitorPts": 106,
+    "homeTeam": "LAL",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "POR",
+        "oRtg": 110,
+        "dRtg": 118.3,
+        "tsPercent": 0.594,
+        "fTr": 0.263,
+        "orbPercent": 22.2,
+        "drbPercent": 69.4,
+        "trbPercent": 49.4,
+        "astPercent": 60,
+        "stlPercent": 6.2,
+        "blkPercent": 7.8,
+        "tovPercent": 16.8
+      },
+      {
+        "team": "LAL",
+        "oRtg": 118.3,
+        "dRtg": 110,
+        "tsPercent": 0.569,
+        "fTr": 0.149,
+        "orbPercent": 30.6,
+        "drbPercent": 77.8,
+        "trbPercent": 50.6,
+        "astPercent": 69.8,
+        "stlPercent": 8.3,
+        "blkPercent": 5.6,
+        "tovPercent": 11.5
+      }
+    ]
+  },
+  {
+    "gameId": "202412310LAL",
+    "date": "2024-12-31T14:00:00Z",
+    "visitorTeam": "CLE",
+    "visitorPts": 122,
+    "homeTeam": "LAL",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "CLE",
+        "oRtg": 121.3,
+        "dRtg": 109.4,
+        "tsPercent": 0.607,
+        "fTr": 0.183,
+        "orbPercent": 22.2,
+        "drbPercent": 82.6,
+        "trbPercent": 52.7,
+        "astPercent": 71.1,
+        "stlPercent": 5,
+        "blkPercent": 13.3,
+        "tovPercent": 9.9
+      },
+      {
+        "team": "LAL",
+        "oRtg": 109.4,
+        "dRtg": 121.3,
+        "tsPercent": 0.532,
+        "fTr": 0.2,
+        "orbPercent": 17.4,
+        "drbPercent": 77.8,
+        "trbPercent": 47.3,
+        "astPercent": 61.9,
+        "stlPercent": 7,
+        "blkPercent": 6.4,
+        "tovPercent": 8
+      }
+    ]
+  },
+  {
+    "gameId": "202412280LAL",
+    "date": "2024-12-28T15:30:00Z",
+    "visitorTeam": "SAC",
+    "visitorPts": 122,
+    "homeTeam": "LAL",
+    "homePts": 132,
+    "teamGameAdvStats": [
+      {
+        "team": "SAC",
+        "oRtg": 125.2,
+        "dRtg": 135.5,
+        "tsPercent": 0.583,
+        "fTr": 0.153,
+        "orbPercent": 31,
+        "drbPercent": 86.7,
+        "trbPercent": 54.2,
+        "astPercent": 76,
+        "stlPercent": 7.2,
+        "blkPercent": 3.9,
+        "tovPercent": 8.7
+      },
+      {
+        "team": "LAL",
+        "oRtg": 135.5,
+        "dRtg": 125.2,
+        "tsPercent": 0.721,
+        "fTr": 0.429,
+        "orbPercent": 13.3,
+        "drbPercent": 69,
+        "trbPercent": 45.8,
+        "astPercent": 71.7,
+        "stlPercent": 4.1,
+        "blkPercent": 5.2,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202412250GSW",
+    "date": "2024-12-25T13:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 115,
+    "homeTeam": "GSW",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 122.6,
+        "dRtg": 120.4,
+        "tsPercent": 0.581,
+        "fTr": 0.198,
+        "orbPercent": 25.6,
+        "drbPercent": 71.4,
+        "trbPercent": 48.2,
+        "astPercent": 73.2,
+        "stlPercent": 6.4,
+        "blkPercent": 9.1,
+        "tovPercent": 8.3
+      },
+      {
+        "team": "GSW",
+        "oRtg": 120.4,
+        "dRtg": 122.6,
+        "tsPercent": 0.586,
+        "fTr": 0.191,
+        "orbPercent": 28.6,
+        "drbPercent": 74.4,
+        "trbPercent": 51.8,
+        "astPercent": 63.4,
+        "stlPercent": 2.1,
+        "blkPercent": 16.3,
+        "tovPercent": 11.9
+      }
+    ]
+  },
+  {
+    "gameId": "202412230LAL",
+    "date": "2024-12-23T15:30:00Z",
+    "visitorTeam": "DET",
+    "visitorPts": 117,
+    "homeTeam": "LAL",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "DET",
+        "oRtg": 120.2,
+        "dRtg": 117.1,
+        "tsPercent": 0.601,
+        "fTr": 0.13,
+        "orbPercent": 23.8,
+        "drbPercent": 81.8,
+        "trbPercent": 49.3,
+        "astPercent": 51.1,
+        "stlPercent": 12.3,
+        "blkPercent": 11.4,
+        "tovPercent": 11
+      },
+      {
+        "team": "LAL",
+        "oRtg": 117.1,
+        "dRtg": 120.2,
+        "tsPercent": 0.671,
+        "fTr": 0.338,
+        "orbPercent": 18.2,
+        "drbPercent": 76.2,
+        "trbPercent": 50.7,
+        "astPercent": 70,
+        "stlPercent": 8.2,
+        "blkPercent": 4.8,
+        "tovPercent": 19
+      }
+    ]
+  },
+  {
+    "gameId": "202412210SAC",
+    "date": "2024-12-21T11:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 103,
+    "homeTeam": "SAC",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 106.4,
+        "dRtg": 102.3,
+        "tsPercent": 0.558,
+        "fTr": 0.253,
+        "orbPercent": 20.5,
+        "drbPercent": 78,
+        "trbPercent": 51.1,
+        "astPercent": 57.5,
+        "stlPercent": 10.3,
+        "blkPercent": 11.3,
+        "tovPercent": 13.2
+      },
+      {
+        "team": "SAC",
+        "oRtg": 102.3,
+        "dRtg": 106.4,
+        "tsPercent": 0.515,
+        "fTr": 0.156,
+        "orbPercent": 22,
+        "drbPercent": 79.5,
+        "trbPercent": 48.9,
+        "astPercent": 64.1,
+        "stlPercent": 10.3,
+        "blkPercent": 2.1,
+        "tovPercent": 12.7
+      }
+    ]
+  },
+  {
+    "gameId": "202412190SAC",
+    "date": "2024-12-19T15:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 113,
+    "homeTeam": "SAC",
+    "homePts": 100,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 110,
+        "dRtg": 97.3,
+        "tsPercent": 0.527,
+        "fTr": 0.319,
+        "orbPercent": 26.4,
+        "drbPercent": 90.7,
+        "trbPercent": 55.2,
+        "astPercent": 57.9,
+        "stlPercent": 7.8,
+        "blkPercent": 18.9,
+        "tovPercent": 10.8
+      },
+      {
+        "team": "SAC",
+        "oRtg": 97.3,
+        "dRtg": 110,
+        "tsPercent": 0.545,
+        "fTr": 0.268,
+        "orbPercent": 9.3,
+        "drbPercent": 73.6,
+        "trbPercent": 44.8,
+        "astPercent": 73,
+        "stlPercent": 6.8,
+        "blkPercent": 9.8,
+        "tovPercent": 14.9
+      }
+    ]
+  },
+  {
+    "gameId": "202412150LAL",
+    "date": "2024-12-15T14:30:00Z",
+    "visitorTeam": "MEM",
+    "visitorPts": 110,
+    "homeTeam": "LAL",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "MEM",
+        "oRtg": 100.5,
+        "dRtg": 106,
+        "tsPercent": 0.499,
+        "fTr": 0.309,
+        "orbPercent": 33.3,
+        "drbPercent": 76.7,
+        "trbPercent": 53.2,
+        "astPercent": 65.8,
+        "stlPercent": 9.1,
+        "blkPercent": 6.3,
+        "tovPercent": 16
+      },
+      {
+        "team": "LAL",
+        "oRtg": 106,
+        "dRtg": 100.5,
+        "tsPercent": 0.585,
+        "fTr": 0.476,
+        "orbPercent": 23.3,
+        "drbPercent": 66.7,
+        "trbPercent": 46.8,
+        "astPercent": 59,
+        "stlPercent": 9.1,
+        "blkPercent": 10.1,
+        "tovPercent": 18.8
+      }
+    ]
+  },
+  {
+    "gameId": "202412130MIN",
+    "date": "2024-12-13T13:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 87,
+    "homeTeam": "MIN",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 88.5,
+        "dRtg": 98.7,
+        "tsPercent": 0.465,
+        "fTr": 0.198,
+        "orbPercent": 28.8,
+        "drbPercent": 77.6,
+        "trbPercent": 52.5,
+        "astPercent": 51.5,
+        "stlPercent": 7.1,
+        "blkPercent": 10.9,
+        "tovPercent": 19.1
+      },
+      {
+        "team": "MIN",
+        "oRtg": 98.7,
+        "dRtg": 88.5,
+        "tsPercent": 0.497,
+        "fTr": 0.276,
+        "orbPercent": 22.4,
+        "drbPercent": 71.2,
+        "trbPercent": 47.5,
+        "astPercent": 51.4,
+        "stlPercent": 12.2,
+        "blkPercent": 9.8,
+        "tovPercent": 12.5
+      }
+    ]
+  },
+  {
+    "gameId": "202412080LAL",
+    "date": "2024-12-08T14:30:00Z",
+    "visitorTeam": "POR",
+    "visitorPts": 98,
+    "homeTeam": "LAL",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "POR",
+        "oRtg": 103.2,
+        "dRtg": 112.7,
+        "tsPercent": 0.526,
+        "fTr": 0.25,
+        "orbPercent": 27.3,
+        "drbPercent": 82.2,
+        "trbPercent": 55.1,
+        "astPercent": 48.6,
+        "stlPercent": 4.2,
+        "blkPercent": 6.1,
+        "tovPercent": 16.2
+      },
+      {
+        "team": "LAL",
+        "oRtg": 112.7,
+        "dRtg": 103.2,
+        "tsPercent": 0.58,
+        "fTr": 0.253,
+        "orbPercent": 17.8,
+        "drbPercent": 72.7,
+        "trbPercent": 44.9,
+        "astPercent": 65.8,
+        "stlPercent": 14.7,
+        "blkPercent": 14.6,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202412060ATL",
+    "date": "2024-12-06T12:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 132,
+    "homeTeam": "ATL",
+    "homePts": 134,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 116.8,
+        "dRtg": 118.6,
+        "tsPercent": 0.622,
+        "fTr": 0.162,
+        "orbPercent": 14,
+        "drbPercent": 75.6,
+        "trbPercent": 45.5,
+        "astPercent": 64.7,
+        "stlPercent": 9.7,
+        "blkPercent": 16.7,
+        "tovPercent": 12.4
+      },
+      {
+        "team": "ATL",
+        "oRtg": 118.6,
+        "dRtg": 116.8,
+        "tsPercent": 0.611,
+        "fTr": 0.22,
+        "orbPercent": 24.4,
+        "drbPercent": 86,
+        "trbPercent": 54.5,
+        "astPercent": 80,
+        "stlPercent": 8.9,
+        "blkPercent": 7.8,
+        "tovPercent": 13.4
+      }
+    ]
+  },
+  {
+    "gameId": "202412040MIA",
+    "date": "2024-12-04T12:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 93,
+    "homeTeam": "MIA",
+    "homePts": 134,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 97.3,
+        "dRtg": 140.3,
+        "tsPercent": 0.483,
+        "fTr": 0.216,
+        "orbPercent": 23.5,
+        "drbPercent": 64.9,
+        "trbPercent": 40.9,
+        "astPercent": 78.4,
+        "stlPercent": 9.4,
+        "blkPercent": 9.3,
+        "tovPercent": 11.9
+      },
+      {
+        "team": "MIA",
+        "oRtg": 140.3,
+        "dRtg": 97.3,
+        "tsPercent": 0.713,
+        "fTr": 0.1,
+        "orbPercent": 35.1,
+        "drbPercent": 76.5,
+        "trbPercent": 59.1,
+        "astPercent": 80.8,
+        "stlPercent": 11.5,
+        "blkPercent": 7.6,
+        "tovPercent": 14.6
+      }
+    ]
+  },
+  {
+    "gameId": "202412020MIN",
+    "date": "2024-12-02T13:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 80,
+    "homeTeam": "MIN",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 84.5,
+        "dRtg": 115.1,
+        "tsPercent": 0.47,
+        "fTr": 0.177,
+        "orbPercent": 20,
+        "drbPercent": 81.1,
+        "trbPercent": 47.6,
+        "astPercent": 59.4,
+        "stlPercent": 8.4,
+        "blkPercent": 4.3,
+        "tovPercent": 19.8
+      },
+      {
+        "team": "MIN",
+        "oRtg": 115.1,
+        "dRtg": 84.5,
+        "tsPercent": 0.622,
+        "fTr": 0.185,
+        "orbPercent": 18.9,
+        "drbPercent": 80,
+        "trbPercent": 52.4,
+        "astPercent": 75.6,
+        "stlPercent": 11.6,
+        "blkPercent": 4.2,
+        "tovPercent": 14.6
+      }
+    ]
+  },
+  {
+    "gameId": "202412010UTA",
+    "date": "2024-12-01T13:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 105,
+    "homeTeam": "UTA",
+    "homePts": 104,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 114.3,
+        "dRtg": 113.3,
+        "tsPercent": 0.53,
+        "fTr": 0.284,
+        "orbPercent": 21.7,
+        "drbPercent": 80,
+        "trbPercent": 48.8,
+        "astPercent": 59,
+        "stlPercent": 7.6,
+        "blkPercent": 10.3,
+        "tovPercent": 4.8
+      },
+      {
+        "team": "UTA",
+        "oRtg": 113.3,
+        "dRtg": 114.3,
+        "tsPercent": 0.604,
+        "fTr": 0.203,
+        "orbPercent": 20,
+        "drbPercent": 78.3,
+        "trbPercent": 51.2,
+        "astPercent": 67.5,
+        "stlPercent": 4.4,
+        "blkPercent": 7.3,
+        "tovPercent": 14.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411290LAL",
+    "date": "2024-11-29T15:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 101,
+    "homeTeam": "LAL",
+    "homePts": 93,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 110.4,
+        "dRtg": 101.7,
+        "tsPercent": 0.505,
+        "fTr": 0.172,
+        "orbPercent": 27.8,
+        "drbPercent": 80,
+        "trbPercent": 50,
+        "astPercent": 52.6,
+        "stlPercent": 13.1,
+        "blkPercent": 8.6,
+        "tovPercent": 9.1
+      },
+      {
+        "team": "LAL",
+        "oRtg": 101.7,
+        "dRtg": 110.4,
+        "tsPercent": 0.565,
+        "fTr": 0.288,
+        "orbPercent": 20,
+        "drbPercent": 72.2,
+        "trbPercent": 50,
+        "astPercent": 75.8,
+        "stlPercent": 4.4,
+        "blkPercent": 11.3,
+        "tovPercent": 17.1
+      }
+    ]
+  },
+  {
+    "gameId": "202411270SAS",
+    "date": "2024-11-27T13:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 119,
+    "homeTeam": "SAS",
+    "homePts": 101,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 126.7,
+        "dRtg": 107.5,
+        "tsPercent": 0.63,
+        "fTr": 0.111,
+        "orbPercent": 28.9,
+        "drbPercent": 76.1,
+        "trbPercent": 54.8,
+        "astPercent": 64.6,
+        "stlPercent": 8.5,
+        "blkPercent": 6.7,
+        "tovPercent": 12.1
+      },
+      {
+        "team": "SAS",
+        "oRtg": 107.5,
+        "dRtg": 126.7,
+        "tsPercent": 0.549,
+        "fTr": 0.188,
+        "orbPercent": 23.9,
+        "drbPercent": 71.1,
+        "trbPercent": 45.2,
+        "astPercent": 72.2,
+        "stlPercent": 7.5,
+        "blkPercent": 7.1,
+        "tovPercent": 14
+      }
+    ]
+  },
+  {
+    "gameId": "202411260PHO",
+    "date": "2024-11-26T15:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 100,
+    "homeTeam": "PHX",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 99.3,
+        "dRtg": 126.1,
+        "tsPercent": 0.521,
+        "fTr": 0.294,
+        "orbPercent": 15.6,
+        "drbPercent": 81.4,
+        "trbPercent": 47.7,
+        "astPercent": 67.6,
+        "stlPercent": 6.9,
+        "blkPercent": 10.5,
+        "tovPercent": 11.1
+      },
+      {
+        "team": "PHO",
+        "oRtg": 126.1,
+        "dRtg": 99.3,
+        "tsPercent": 0.614,
+        "fTr": 0.101,
+        "orbPercent": 18.6,
+        "drbPercent": 84.4,
+        "trbPercent": 52.3,
+        "astPercent": 60.8,
+        "stlPercent": 8.9,
+        "blkPercent": 5.9,
+        "tovPercent": 8
+      }
+    ]
+  },
+  {
+    "gameId": "202411230LAL",
+    "date": "2024-11-23T15:30:00Z",
+    "visitorTeam": "DEN",
+    "visitorPts": 127,
+    "homeTeam": "LAL",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "DEN",
+        "oRtg": 126.2,
+        "dRtg": 101.3,
+        "tsPercent": 0.703,
+        "fTr": 0.232,
+        "orbPercent": 23.5,
+        "drbPercent": 87,
+        "trbPercent": 60,
+        "astPercent": 74,
+        "stlPercent": 7,
+        "blkPercent": 3.8,
+        "tovPercent": 16.6
+      },
+      {
+        "team": "LAL",
+        "oRtg": 101.3,
+        "dRtg": 126.2,
+        "tsPercent": 0.542,
+        "fTr": 0.159,
+        "orbPercent": 13,
+        "drbPercent": 76.5,
+        "trbPercent": 40,
+        "astPercent": 69.2,
+        "stlPercent": 10.9,
+        "blkPercent": 6,
+        "tovPercent": 13.7
+      }
+    ]
+  },
+  {
+    "gameId": "202411210LAL",
+    "date": "2024-11-21T15:30:00Z",
+    "visitorTeam": "ORL",
+    "visitorPts": 119,
+    "homeTeam": "LAL",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "ORL",
+        "oRtg": 121.7,
+        "dRtg": 120.7,
+        "tsPercent": 0.594,
+        "fTr": 0.231,
+        "orbPercent": 35.7,
+        "drbPercent": 78.6,
+        "trbPercent": 57.1,
+        "astPercent": 72.1,
+        "stlPercent": 8.2,
+        "blkPercent": 8.9,
+        "tovPercent": 14.5
+      },
+      {
+        "team": "LAL",
+        "oRtg": 120.7,
+        "dRtg": 121.7,
+        "tsPercent": 0.599,
+        "fTr": 0.299,
+        "orbPercent": 21.4,
+        "drbPercent": 64.3,
+        "trbPercent": 42.9,
+        "astPercent": 47.7,
+        "stlPercent": 4.1,
+        "blkPercent": 11.8,
+        "tovPercent": 9.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411190LAL",
+    "date": "2024-11-19T15:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 118,
+    "homeTeam": "LAL",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 118.9,
+        "dRtg": 124.9,
+        "tsPercent": 0.6,
+        "fTr": 0.211,
+        "orbPercent": 28.2,
+        "drbPercent": 83.8,
+        "trbPercent": 55.3,
+        "astPercent": 62.2,
+        "stlPercent": 9.1,
+        "blkPercent": 0,
+        "tovPercent": 14
+      },
+      {
+        "team": "LAL",
+        "oRtg": 124.9,
+        "dRtg": 118.9,
+        "tsPercent": 0.675,
+        "fTr": 0.474,
+        "orbPercent": 16.2,
+        "drbPercent": 71.8,
+        "trbPercent": 44.7,
+        "astPercent": 71.4,
+        "stlPercent": 9.1,
+        "blkPercent": 9.3,
+        "tovPercent": 13.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411160NOP",
+    "date": "2024-11-16T13:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 104,
+    "homeTeam": "NOP",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 117.6,
+        "dRtg": 112,
+        "tsPercent": 0.537,
+        "fTr": 0.202,
+        "orbPercent": 34.7,
+        "drbPercent": 59.1,
+        "trbPercent": 46.2,
+        "astPercent": 61.5,
+        "stlPercent": 11.3,
+        "blkPercent": 5.6,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "NOP",
+        "oRtg": 112,
+        "dRtg": 117.6,
+        "tsPercent": 0.532,
+        "fTr": 0.277,
+        "orbPercent": 40.9,
+        "drbPercent": 65.3,
+        "trbPercent": 53.8,
+        "astPercent": 68.6,
+        "stlPercent": 7.9,
+        "blkPercent": 8.2,
+        "tovPercent": 15.4
+      }
+    ]
+  },
+  {
+    "gameId": "202411150SAS",
+    "date": "2024-11-15T12:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 120,
+    "homeTeam": "SAS",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 125.1,
+        "dRtg": 119.8,
+        "tsPercent": 0.611,
+        "fTr": 0.261,
+        "orbPercent": 25.6,
+        "drbPercent": 73.8,
+        "trbPercent": 50.6,
+        "astPercent": 61.4,
+        "stlPercent": 10.4,
+        "blkPercent": 7,
+        "tovPercent": 10.9
+      },
+      {
+        "team": "SAS",
+        "oRtg": 119.8,
+        "dRtg": 125.1,
+        "tsPercent": 0.605,
+        "fTr": 0.182,
+        "orbPercent": 26.2,
+        "drbPercent": 74.4,
+        "trbPercent": 49.4,
+        "astPercent": 74.4,
+        "stlPercent": 6.3,
+        "blkPercent": 8.8,
+        "tovPercent": 12
+      }
+    ]
+  },
+  {
+    "gameId": "202411130LAL",
+    "date": "2024-11-13T15:00:00Z",
+    "visitorTeam": "MEM",
+    "visitorPts": 123,
+    "homeTeam": "LAL",
+    "homePts": 128,
+    "teamGameAdvStats": [
+      {
+        "team": "MEM",
+        "oRtg": 116.9,
+        "dRtg": 121.7,
+        "tsPercent": 0.594,
+        "fTr": 0.371,
+        "orbPercent": 25.5,
+        "drbPercent": 80.6,
+        "trbPercent": 49.4,
+        "astPercent": 66.7,
+        "stlPercent": 10.5,
+        "blkPercent": 13.6,
+        "tovPercent": 11.9
+      },
+      {
+        "team": "LAL",
+        "oRtg": 121.7,
+        "dRtg": 116.9,
+        "tsPercent": 0.646,
+        "fTr": 0.376,
+        "orbPercent": 19.4,
+        "drbPercent": 74.5,
+        "trbPercent": 50.6,
+        "astPercent": 72.1,
+        "stlPercent": 6.7,
+        "blkPercent": 8.9,
+        "tovPercent": 15.4
+      }
+    ]
+  },
+  {
+    "gameId": "202411100LAL",
+    "date": "2024-11-10T14:30:00Z",
+    "visitorTeam": "TOR",
+    "visitorPts": 103,
+    "homeTeam": "LAL",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "TOR",
+        "oRtg": 112.8,
+        "dRtg": 134.7,
+        "tsPercent": 0.562,
+        "fTr": 0.268,
+        "orbPercent": 34.3,
+        "drbPercent": 73.7,
+        "trbPercent": 54.8,
+        "astPercent": 70.3,
+        "stlPercent": 2.2,
+        "blkPercent": 4.1,
+        "tovPercent": 16.4
+      },
+      {
+        "team": "LAL",
+        "oRtg": 134.7,
+        "dRtg": 112.8,
+        "tsPercent": 0.626,
+        "fTr": 0.326,
+        "orbPercent": 26.3,
+        "drbPercent": 65.7,
+        "trbPercent": 45.2,
+        "astPercent": 68.2,
+        "stlPercent": 9.9,
+        "blkPercent": 7.5,
+        "tovPercent": 4.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411080LAL",
+    "date": "2024-11-08T15:00:00Z",
+    "visitorTeam": "PHI",
+    "visitorPts": 106,
+    "homeTeam": "LAL",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "PHI",
+        "oRtg": 108.3,
+        "dRtg": 118.5,
+        "tsPercent": 0.499,
+        "fTr": 0.24,
+        "orbPercent": 24.5,
+        "drbPercent": 86.1,
+        "trbPercent": 49.4,
+        "astPercent": 71.8,
+        "stlPercent": 6.1,
+        "blkPercent": 8,
+        "tovPercent": 7
+      },
+      {
+        "team": "LAL",
+        "oRtg": 118.5,
+        "dRtg": 108.3,
+        "tsPercent": 0.636,
+        "fTr": 0.165,
+        "orbPercent": 13.9,
+        "drbPercent": 75.5,
+        "trbPercent": 50.6,
+        "astPercent": 63.6,
+        "stlPercent": 1,
+        "blkPercent": 22.8,
+        "tovPercent": 12.5
+      }
+    ]
+  },
+  {
+    "gameId": "202411060MEM",
+    "date": "2024-11-06T13:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 114,
+    "homeTeam": "MEM",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 109.9,
+        "dRtg": 126.3,
+        "tsPercent": 0.558,
+        "fTr": 0.226,
+        "orbPercent": 19.1,
+        "drbPercent": 70,
+        "trbPercent": 42.5,
+        "astPercent": 56.1,
+        "stlPercent": 9.6,
+        "blkPercent": 1.7,
+        "tovPercent": 9.7
+      },
+      {
+        "team": "MEM",
+        "oRtg": 126.3,
+        "dRtg": 109.9,
+        "tsPercent": 0.635,
+        "fTr": 0.247,
+        "orbPercent": 30,
+        "drbPercent": 80.9,
+        "trbPercent": 57.5,
+        "astPercent": 58.3,
+        "stlPercent": 4.8,
+        "blkPercent": 13.3,
+        "tovPercent": 14.9
+      }
+    ]
+  },
+  {
+    "gameId": "202411040DET",
+    "date": "2024-11-04T12:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 103,
+    "homeTeam": "DET",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 104.1,
+        "dRtg": 116.2,
+        "tsPercent": 0.532,
+        "fTr": 0.318,
+        "orbPercent": 15.6,
+        "drbPercent": 63.8,
+        "trbPercent": 40.2,
+        "astPercent": 75.7,
+        "stlPercent": 8.1,
+        "blkPercent": 1.6,
+        "tovPercent": 11.8
+      },
+      {
+        "team": "DET",
+        "oRtg": 116.2,
+        "dRtg": 104.1,
+        "tsPercent": 0.544,
+        "fTr": 0.229,
+        "orbPercent": 36.2,
+        "drbPercent": 84.4,
+        "trbPercent": 59.8,
+        "astPercent": 48.9,
+        "stlPercent": 6.1,
+        "blkPercent": 8.3,
+        "tovPercent": 10.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411010TOR",
+    "date": "2024-11-01T11:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 131,
+    "homeTeam": "TOR",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 126,
+        "dRtg": 120.2,
+        "tsPercent": 0.618,
+        "fTr": 0.466,
+        "orbPercent": 23.7,
+        "drbPercent": 69.4,
+        "trbPercent": 49.4,
+        "astPercent": 69,
+        "stlPercent": 5.8,
+        "blkPercent": 6.9,
+        "tovPercent": 8.6
+      },
+      {
+        "team": "TOR",
+        "oRtg": 120.2,
+        "dRtg": 126,
+        "tsPercent": 0.554,
+        "fTr": 0.121,
+        "orbPercent": 30.6,
+        "drbPercent": 76.3,
+        "trbPercent": 50.6,
+        "astPercent": 67.3,
+        "stlPercent": 3.8,
+        "blkPercent": 10.7,
+        "tovPercent": 8.9
+      }
+    ]
+  },
+  {
+    "gameId": "202410300CLE",
+    "date": "2024-10-30T11:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 110,
+    "homeTeam": "CLE",
+    "homePts": 134,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 104.5,
+        "dRtg": 127.3,
+        "tsPercent": 0.601,
+        "fTr": 0.429,
+        "orbPercent": 14.3,
+        "drbPercent": 84.2,
+        "trbPercent": 50.7,
+        "astPercent": 55.3,
+        "stlPercent": 5.7,
+        "blkPercent": 0,
+        "tovPercent": 18.7
+      },
+      {
+        "team": "CLE",
+        "oRtg": 127.3,
+        "dRtg": 104.5,
+        "tsPercent": 0.667,
+        "fTr": 0.082,
+        "orbPercent": 15.8,
+        "drbPercent": 85.7,
+        "trbPercent": 49.3,
+        "astPercent": 66.1,
+        "stlPercent": 13.3,
+        "blkPercent": 4.1,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202410280PHO",
+    "date": "2024-10-28T14:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 105,
+    "homeTeam": "PHX",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 107.5,
+        "dRtg": 111.6,
+        "tsPercent": 0.515,
+        "fTr": 0.191,
+        "orbPercent": 22.9,
+        "drbPercent": 79.5,
+        "trbPercent": 50,
+        "astPercent": 64.1,
+        "stlPercent": 5.1,
+        "blkPercent": 11.8,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "PHO",
+        "oRtg": 111.6,
+        "dRtg": 107.5,
+        "tsPercent": 0.569,
+        "fTr": 0.23,
+        "orbPercent": 20.5,
+        "drbPercent": 77.1,
+        "trbPercent": 50,
+        "astPercent": 52.5,
+        "stlPercent": 7.2,
+        "blkPercent": 17.7,
+        "tovPercent": 10.3
+      }
+    ]
+  },
+  {
+    "gameId": "202410260LAL",
+    "date": "2024-10-26T14:30:00Z",
+    "visitorTeam": "SAC",
+    "visitorPts": 127,
+    "homeTeam": "LAL",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "SAC",
+        "oRtg": 120.3,
+        "dRtg": 124.1,
+        "tsPercent": 0.641,
+        "fTr": 0.284,
+        "orbPercent": 13.5,
+        "drbPercent": 67.5,
+        "trbPercent": 41.6,
+        "astPercent": 71.1,
+        "stlPercent": 11.4,
+        "blkPercent": 8.6,
+        "tovPercent": 12.4
+      },
+      {
+        "team": "LAL",
+        "oRtg": 124.1,
+        "dRtg": 120.3,
+        "tsPercent": 0.639,
+        "fTr": 0.261,
+        "orbPercent": 32.5,
+        "drbPercent": 86.5,
+        "trbPercent": 58.4,
+        "astPercent": 66.7,
+        "stlPercent": 7.6,
+        "blkPercent": 6.8,
+        "tovPercent": 15.6
+      }
+    ]
+  },
+  {
+    "gameId": "202410250LAL",
+    "date": "2024-10-25T14:00:00Z",
+    "visitorTeam": "PHX",
+    "visitorPts": 116,
+    "homeTeam": "LAL",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "PHO",
+        "oRtg": 117.7,
+        "dRtg": 124.9,
+        "tsPercent": 0.648,
+        "fTr": 0.207,
+        "orbPercent": 13.9,
+        "drbPercent": 82.9,
+        "trbPercent": 47.9,
+        "astPercent": 83.3,
+        "stlPercent": 8.1,
+        "blkPercent": 8.3,
+        "tovPercent": 16
+      },
+      {
+        "team": "LAL",
+        "oRtg": 124.9,
+        "dRtg": 117.7,
+        "tsPercent": 0.667,
+        "fTr": 0.52,
+        "orbPercent": 17.1,
+        "drbPercent": 86.1,
+        "trbPercent": 52.1,
+        "astPercent": 82.5,
+        "stlPercent": 10.2,
+        "blkPercent": 11.1,
+        "tovPercent": 12.4
+      }
+    ]
+  },
+  {
+    "gameId": "202410220LAL",
+    "date": "2024-10-22T14:00:00Z",
+    "visitorTeam": "MIN",
+    "visitorPts": 103,
+    "homeTeam": "LAL",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "MIN",
+        "oRtg": 107.4,
+        "dRtg": 114.7,
+        "tsPercent": 0.532,
+        "fTr": 0.318,
+        "orbPercent": 27.9,
+        "drbPercent": 70,
+        "trbPercent": 50.5,
+        "astPercent": 48.6,
+        "stlPercent": 4.2,
+        "blkPercent": 1.5,
+        "tovPercent": 14.2
+      },
+      {
+        "team": "LAL",
+        "oRtg": 114.7,
+        "dRtg": 107.4,
+        "tsPercent": 0.519,
+        "fTr": 0.263,
+        "orbPercent": 30,
+        "drbPercent": 72.1,
+        "trbPercent": 49.5,
+        "astPercent": 52.4,
+        "stlPercent": 7.3,
+        "blkPercent": 18.2,
+        "tovPercent": 6.2
+      }
+    ]
+  },
+  {
+    "gameId": "202404160NOP",
+    "date": "2024-04-16T11:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 110,
+    "homeTeam": "NOP",
+    "homePts": 106,
+    "teamGameAdvStats": []
+  },
+  {
+    "gameId": "202404140NOP",
+    "date": "2024-04-14T07:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 124,
+    "homeTeam": "NOP",
+    "homePts": 108,
+    "teamGameAdvStats": []
+  }
+]

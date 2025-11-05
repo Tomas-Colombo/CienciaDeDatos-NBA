@@ -1,0 +1,3165 @@
+[
+  {
+    "gameId": "202504130NOP",
+    "date": "2025-04-13T07:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 115,
+    "homeTeam": "NOP",
+    "homePts": 100,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 114.1,
+        "dRtg": 99.3,
+        "tsPercent": 0.523,
+        "fTr": 0.276,
+        "orbPercent": 32.1,
+        "drbPercent": 77.1,
+        "trbPercent": 53.5,
+        "astPercent": 39,
+        "stlPercent": 7.9,
+        "blkPercent": 7.5,
+        "tovPercent": 8.3
+      },
+      {
+        "team": "NOP",
+        "oRtg": 99.3,
+        "dRtg": 114.1,
+        "tsPercent": 0.48,
+        "fTr": 0.33,
+        "orbPercent": 22.9,
+        "drbPercent": 67.9,
+        "trbPercent": 46.5,
+        "astPercent": 62.9,
+        "stlPercent": 6,
+        "blkPercent": 7.8,
+        "tovPercent": 11.1
+      }
+    ]
+  },
+  {
+    "gameId": "202504110UTA",
+    "date": "2025-04-11T13:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 145,
+    "homeTeam": "UTA",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 134.6,
+        "dRtg": 103.1,
+        "tsPercent": 0.686,
+        "fTr": 0.13,
+        "orbPercent": 11.6,
+        "drbPercent": 68.9,
+        "trbPercent": 45.2,
+        "astPercent": 73.2,
+        "stlPercent": 11.1,
+        "blkPercent": 10,
+        "tovPercent": 8.6
+      },
+      {
+        "team": "UTA",
+        "oRtg": 103.1,
+        "dRtg": 134.6,
+        "tsPercent": 0.496,
+        "fTr": 0.194,
+        "orbPercent": 31.1,
+        "drbPercent": 88.4,
+        "trbPercent": 54.8,
+        "astPercent": 59,
+        "stlPercent": 6.5,
+        "blkPercent": 6.4,
+        "tovPercent": 12.5
+      }
+    ]
+  },
+  {
+    "gameId": "202504090PHO",
+    "date": "2025-04-09T14:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 125,
+    "homeTeam": "PHX",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 125.4,
+        "dRtg": 112.4,
+        "tsPercent": 0.639,
+        "fTr": 0.314,
+        "orbPercent": 21.6,
+        "drbPercent": 80,
+        "trbPercent": 53.7,
+        "astPercent": 53.3,
+        "stlPercent": 11,
+        "blkPercent": 4.4,
+        "tovPercent": 10.9
+      },
+      {
+        "team": "PHO",
+        "oRtg": 112.4,
+        "dRtg": 125.4,
+        "tsPercent": 0.587,
+        "fTr": 0.218,
+        "orbPercent": 20,
+        "drbPercent": 78.4,
+        "trbPercent": 46.3,
+        "astPercent": 73.8,
+        "stlPercent": 10,
+        "blkPercent": 5.4,
+        "tovPercent": 13.6
+      }
+    ]
+  },
+  {
+    "gameId": "202504080OKC",
+    "date": "2025-04-08T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 120,
+    "homeTeam": "OKC",
+    "homePts": 136,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 118.8,
+        "dRtg": 134.7,
+        "tsPercent": 0.623,
+        "fTr": 0.463,
+        "orbPercent": 29.3,
+        "drbPercent": 68.8,
+        "trbPercent": 50.6,
+        "astPercent": 56.8,
+        "stlPercent": 2,
+        "blkPercent": 9,
+        "tovPercent": 16.5
+      },
+      {
+        "team": "OKC",
+        "oRtg": 134.7,
+        "dRtg": 118.8,
+        "tsPercent": 0.603,
+        "fTr": 0.192,
+        "orbPercent": 31.3,
+        "drbPercent": 70.7,
+        "trbPercent": 49.4,
+        "astPercent": 50,
+        "stlPercent": 8.9,
+        "blkPercent": 12.5,
+        "tovPercent": 5.8
+      }
+    ]
+  },
+  {
+    "gameId": "202504060OKC",
+    "date": "2025-04-06T07:30:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 126,
+    "homeTeam": "OKC",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 133.6,
+        "dRtg": 105,
+        "tsPercent": 0.689,
+        "fTr": 0.202,
+        "orbPercent": 24.2,
+        "drbPercent": 79.5,
+        "trbPercent": 55.8,
+        "astPercent": 54.3,
+        "stlPercent": 6.4,
+        "blkPercent": 3.8,
+        "tovPercent": 15.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 105,
+        "dRtg": 133.6,
+        "tsPercent": 0.52,
+        "fTr": 0.133,
+        "orbPercent": 20.5,
+        "drbPercent": 75.8,
+        "trbPercent": 44.2,
+        "astPercent": 51.3,
+        "stlPercent": 9.5,
+        "blkPercent": 6.8,
+        "tovPercent": 6.8
+      }
+    ]
+  },
+  {
+    "gameId": "202504040HOU",
+    "date": "2025-04-04T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 111,
+    "homeTeam": "HOU",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 110.2,
+        "dRtg": 124.1,
+        "tsPercent": 0.581,
+        "fTr": 0.169,
+        "orbPercent": 17.1,
+        "drbPercent": 65,
+        "trbPercent": 40.7,
+        "astPercent": 55.8,
+        "stlPercent": 7,
+        "blkPercent": 9.5,
+        "tovPercent": 13.6
+      },
+      {
+        "team": "HOU",
+        "oRtg": 124.1,
+        "dRtg": 110.2,
+        "tsPercent": 0.604,
+        "fTr": 0.283,
+        "orbPercent": 35,
+        "drbPercent": 82.9,
+        "trbPercent": 59.3,
+        "astPercent": 53.3,
+        "stlPercent": 9.9,
+        "blkPercent": 9.3,
+        "tovPercent": 12.7
+      }
+    ]
+  },
+  {
+    "gameId": "202504020OKC",
+    "date": "2025-04-02T13:30:00Z",
+    "visitorTeam": "DET",
+    "visitorPts": 103,
+    "homeTeam": "OKC",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "DET",
+        "oRtg": 100.2,
+        "dRtg": 115.8,
+        "tsPercent": 0.515,
+        "fTr": 0.281,
+        "orbPercent": 25,
+        "drbPercent": 71.1,
+        "trbPercent": 48.3,
+        "astPercent": 55.6,
+        "stlPercent": 4.9,
+        "blkPercent": 12.1,
+        "tovPercent": 16
+      },
+      {
+        "team": "OKC",
+        "oRtg": 115.8,
+        "dRtg": 100.2,
+        "tsPercent": 0.543,
+        "fTr": 0.323,
+        "orbPercent": 28.9,
+        "drbPercent": 75,
+        "trbPercent": 51.7,
+        "astPercent": 59.5,
+        "stlPercent": 11.7,
+        "blkPercent": 19.6,
+        "tovPercent": 8.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503310OKC",
+    "date": "2025-03-31T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 117,
+    "homeTeam": "OKC",
+    "homePts": 145,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 105.3,
+        "dRtg": 130.5,
+        "tsPercent": 0.557,
+        "fTr": 0.163,
+        "orbPercent": 22.2,
+        "drbPercent": 78.6,
+        "trbPercent": 49.4,
+        "astPercent": 65.9,
+        "stlPercent": 6.3,
+        "blkPercent": 12.7,
+        "tovPercent": 16
+      },
+      {
+        "team": "OKC",
+        "oRtg": 130.5,
+        "dRtg": 105.3,
+        "tsPercent": 0.671,
+        "fTr": 0.235,
+        "orbPercent": 21.4,
+        "drbPercent": 77.8,
+        "trbPercent": 50.6,
+        "astPercent": 75,
+        "stlPercent": 9.9,
+        "blkPercent": 12.8,
+        "tovPercent": 11.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503290OKC",
+    "date": "2025-03-29T12:00:00Z",
+    "visitorTeam": "IND",
+    "visitorPts": 111,
+    "homeTeam": "OKC",
+    "homePts": 132,
+    "teamGameAdvStats": [
+      {
+        "team": "IND",
+        "oRtg": 107.9,
+        "dRtg": 128.3,
+        "tsPercent": 0.564,
+        "fTr": 0.299,
+        "orbPercent": 17,
+        "drbPercent": 81.4,
+        "trbPercent": 47.8,
+        "astPercent": 69.2,
+        "stlPercent": 5.8,
+        "blkPercent": 10.3,
+        "tovPercent": 11.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 128.3,
+        "dRtg": 107.9,
+        "tsPercent": 0.634,
+        "fTr": 0.245,
+        "orbPercent": 18.6,
+        "drbPercent": 83,
+        "trbPercent": 52.2,
+        "astPercent": 54.2,
+        "stlPercent": 8.8,
+        "blkPercent": 8.9,
+        "tovPercent": 8.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503270OKC",
+    "date": "2025-03-27T12:00:00Z",
+    "visitorTeam": "MEM",
+    "visitorPts": 104,
+    "homeTeam": "OKC",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "MEM",
+        "oRtg": 101.2,
+        "dRtg": 121.6,
+        "tsPercent": 0.583,
+        "fTr": 0.291,
+        "orbPercent": 11.6,
+        "drbPercent": 81.6,
+        "trbPercent": 44.4,
+        "astPercent": 84.8,
+        "stlPercent": 8.8,
+        "blkPercent": 6.8,
+        "tovPercent": 17.6
+      },
+      {
+        "team": "OKC",
+        "oRtg": 121.6,
+        "dRtg": 101.2,
+        "tsPercent": 0.611,
+        "fTr": 0.311,
+        "orbPercent": 18.4,
+        "drbPercent": 88.4,
+        "trbPercent": 55.6,
+        "astPercent": 63.6,
+        "stlPercent": 8.8,
+        "blkPercent": 10.8,
+        "tovPercent": 10.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503250SAC",
+    "date": "2025-03-25T14:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 121,
+    "homeTeam": "SAC",
+    "homePts": 105,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 120.2,
+        "dRtg": 104.3,
+        "tsPercent": 0.666,
+        "fTr": 0.244,
+        "orbPercent": 16.2,
+        "drbPercent": 90.2,
+        "trbPercent": 59.1,
+        "astPercent": 69.8,
+        "stlPercent": 7,
+        "blkPercent": 13.6,
+        "tovPercent": 15.8
+      },
+      {
+        "team": "SAC",
+        "oRtg": 104.3,
+        "dRtg": 120.2,
+        "tsPercent": 0.545,
+        "fTr": 0.132,
+        "orbPercent": 9.8,
+        "drbPercent": 83.8,
+        "trbPercent": 40.9,
+        "astPercent": 86.5,
+        "stlPercent": 9.9,
+        "blkPercent": 14,
+        "tovPercent": 10.3
+      }
+    ]
+  },
+  {
+    "gameId": "202503230LAC",
+    "date": "2025-03-23T13:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 103,
+    "homeTeam": "LAC",
+    "homePts": 101,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 108,
+        "dRtg": 105.9,
+        "tsPercent": 0.511,
+        "fTr": 0.217,
+        "orbPercent": 21.3,
+        "drbPercent": 74.4,
+        "trbPercent": 46.7,
+        "astPercent": 75.7,
+        "stlPercent": 9.4,
+        "blkPercent": 14.3,
+        "tovPercent": 8.2
+      },
+      {
+        "team": "LAC",
+        "oRtg": 105.9,
+        "dRtg": 108,
+        "tsPercent": 0.535,
+        "fTr": 0.341,
+        "orbPercent": 25.6,
+        "drbPercent": 78.7,
+        "trbPercent": 53.3,
+        "astPercent": 57.1,
+        "stlPercent": 6.3,
+        "blkPercent": 14,
+        "tovPercent": 12.9
+      }
+    ]
+  },
+  {
+    "gameId": "202503210OKC",
+    "date": "2025-03-21T12:00:00Z",
+    "visitorTeam": "CHA",
+    "visitorPts": 106,
+    "homeTeam": "OKC",
+    "homePts": 141,
+    "teamGameAdvStats": [
+      {
+        "team": "CHO",
+        "oRtg": 111,
+        "dRtg": 147.7,
+        "tsPercent": 0.618,
+        "fTr": 0.163,
+        "orbPercent": 15.4,
+        "drbPercent": 69.7,
+        "trbPercent": 40.3,
+        "astPercent": 78.4,
+        "stlPercent": 6.3,
+        "blkPercent": 7.3,
+        "tovPercent": 15.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 147.7,
+        "dRtg": 111,
+        "tsPercent": 0.695,
+        "fTr": 0.181,
+        "orbPercent": 30.3,
+        "drbPercent": 84.6,
+        "trbPercent": 59.7,
+        "astPercent": 53.7,
+        "stlPercent": 10.5,
+        "blkPercent": 17.9,
+        "tovPercent": 8.1
+      }
+    ]
+  },
+  {
+    "gameId": "202503190OKC",
+    "date": "2025-03-19T12:00:00Z",
+    "visitorTeam": "PHI",
+    "visitorPts": 100,
+    "homeTeam": "OKC",
+    "homePts": 133,
+    "teamGameAdvStats": [
+      {
+        "team": "PHI",
+        "oRtg": 100.5,
+        "dRtg": 133.7,
+        "tsPercent": 0.49,
+        "fTr": 0.168,
+        "orbPercent": 21.4,
+        "drbPercent": 72.5,
+        "trbPercent": 42.7,
+        "astPercent": 68.6,
+        "stlPercent": 8,
+        "blkPercent": 7.9,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "OKC",
+        "oRtg": 133.7,
+        "dRtg": 100.5,
+        "tsPercent": 0.673,
+        "fTr": 0.222,
+        "orbPercent": 27.5,
+        "drbPercent": 78.6,
+        "trbPercent": 57.3,
+        "astPercent": 76.6,
+        "stlPercent": 10.1,
+        "blkPercent": 13.2,
+        "tovPercent": 12.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503160MIL",
+    "date": "2025-03-16T13:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 121,
+    "homeTeam": "MIL",
+    "homePts": 105,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 125,
+        "dRtg": 108.5,
+        "tsPercent": 0.605,
+        "fTr": 0.281,
+        "orbPercent": 24.2,
+        "drbPercent": 82.4,
+        "trbPercent": 59.5,
+        "astPercent": 65.2,
+        "stlPercent": 3.1,
+        "blkPercent": 6.1,
+        "tovPercent": 9.1
+      },
+      {
+        "team": "MIL",
+        "oRtg": 108.5,
+        "dRtg": 125,
+        "tsPercent": 0.538,
+        "fTr": 0.398,
+        "orbPercent": 17.6,
+        "drbPercent": 75.8,
+        "trbPercent": 40.5,
+        "astPercent": 63.6,
+        "stlPercent": 7.2,
+        "blkPercent": 13.3,
+        "tovPercent": 8.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503150DET",
+    "date": "2025-03-15T11:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 113,
+    "homeTeam": "DET",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 109.1,
+        "dRtg": 103.3,
+        "tsPercent": 0.573,
+        "fTr": 0.247,
+        "orbPercent": 23.3,
+        "drbPercent": 85,
+        "trbPercent": 53,
+        "astPercent": 39.5,
+        "stlPercent": 10.6,
+        "blkPercent": 14.5,
+        "tovPercent": 15.4
+      },
+      {
+        "team": "DET",
+        "oRtg": 103.3,
+        "dRtg": 109.1,
+        "tsPercent": 0.571,
+        "fTr": 0.148,
+        "orbPercent": 15,
+        "drbPercent": 76.7,
+        "trbPercent": 47,
+        "astPercent": 69,
+        "stlPercent": 7.7,
+        "blkPercent": 5.5,
+        "tovPercent": 15.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503120BOS",
+    "date": "2025-03-12T11:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 118,
+    "homeTeam": "BOS",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 125.1,
+        "dRtg": 118.7,
+        "tsPercent": 0.606,
+        "fTr": 0.427,
+        "orbPercent": 29.7,
+        "drbPercent": 68.8,
+        "trbPercent": 51.8,
+        "astPercent": 47.5,
+        "stlPercent": 7.4,
+        "blkPercent": 6.5,
+        "tovPercent": 11
+      },
+      {
+        "team": "BOS",
+        "oRtg": 118.7,
+        "dRtg": 125.1,
+        "tsPercent": 0.564,
+        "fTr": 0.128,
+        "orbPercent": 31.3,
+        "drbPercent": 70.3,
+        "trbPercent": 48.2,
+        "astPercent": 61,
+        "stlPercent": 9.5,
+        "blkPercent": 13.3,
+        "tovPercent": 11.6
+      }
+    ]
+  },
+  {
+    "gameId": "202503100OKC",
+    "date": "2025-03-10T12:00:00Z",
+    "visitorTeam": "DEN",
+    "visitorPts": 140,
+    "homeTeam": "OKC",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "DEN",
+        "oRtg": 141.6,
+        "dRtg": 128.4,
+        "tsPercent": 0.738,
+        "fTr": 0.233,
+        "orbPercent": 27.3,
+        "drbPercent": 72.3,
+        "trbPercent": 53.8,
+        "astPercent": 61.5,
+        "stlPercent": 6.1,
+        "blkPercent": 9.4,
+        "tovPercent": 11.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 128.4,
+        "dRtg": 141.6,
+        "tsPercent": 0.593,
+        "fTr": 0.16,
+        "orbPercent": 27.7,
+        "drbPercent": 72.7,
+        "trbPercent": 46.3,
+        "astPercent": 61.7,
+        "stlPercent": 9.1,
+        "blkPercent": 11.1,
+        "tovPercent": 9.3
+      }
+    ]
+  },
+  {
+    "gameId": "202503090OKC",
+    "date": "2025-03-09T06:00:00Z",
+    "visitorTeam": "DEN",
+    "visitorPts": 103,
+    "homeTeam": "OKC",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "DEN",
+        "oRtg": 105.1,
+        "dRtg": 129.5,
+        "tsPercent": 0.487,
+        "fTr": 0.206,
+        "orbPercent": 23.3,
+        "drbPercent": 77.3,
+        "trbPercent": 46.2,
+        "astPercent": 55,
+        "stlPercent": 3.1,
+        "blkPercent": 10.7,
+        "tovPercent": 7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 129.5,
+        "dRtg": 105.1,
+        "tsPercent": 0.605,
+        "fTr": 0.266,
+        "orbPercent": 22.7,
+        "drbPercent": 76.7,
+        "trbPercent": 53.8,
+        "astPercent": 54.3,
+        "stlPercent": 5.1,
+        "blkPercent": 24.6,
+        "tovPercent": 4.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503070OKC",
+    "date": "2025-03-07T13:00:00Z",
+    "visitorTeam": "POR",
+    "visitorPts": 89,
+    "homeTeam": "OKC",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "POR",
+        "oRtg": 88.6,
+        "dRtg": 106.5,
+        "tsPercent": 0.432,
+        "fTr": 0.189,
+        "orbPercent": 26.4,
+        "drbPercent": 90.7,
+        "trbPercent": 55.2,
+        "astPercent": 45.5,
+        "stlPercent": 6,
+        "blkPercent": 8.7,
+        "tovPercent": 14.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 106.5,
+        "dRtg": 88.6,
+        "tsPercent": 0.585,
+        "fTr": 0.202,
+        "orbPercent": 9.3,
+        "drbPercent": 73.6,
+        "trbPercent": 44.8,
+        "astPercent": 64.1,
+        "stlPercent": 11.9,
+        "blkPercent": 15.4,
+        "tovPercent": 12.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503050MEM",
+    "date": "2025-03-05T14:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 120,
+    "homeTeam": "MEM",
+    "homePts": 103,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 117.4,
+        "dRtg": 100.7,
+        "tsPercent": 0.629,
+        "fTr": 0.218,
+        "orbPercent": 7.3,
+        "drbPercent": 76.6,
+        "trbPercent": 44.3,
+        "astPercent": 61.4,
+        "stlPercent": 9.8,
+        "blkPercent": 7,
+        "tovPercent": 10.3
+      },
+      {
+        "team": "MEM",
+        "oRtg": 100.7,
+        "dRtg": 117.4,
+        "tsPercent": 0.512,
+        "fTr": 0.242,
+        "orbPercent": 23.4,
+        "drbPercent": 92.7,
+        "trbPercent": 55.7,
+        "astPercent": 56.8,
+        "stlPercent": 8.8,
+        "blkPercent": 2,
+        "tovPercent": 13.7
+      }
+    ]
+  },
+  {
+    "gameId": "202503030OKC",
+    "date": "2025-03-03T13:00:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 128,
+    "homeTeam": "OKC",
+    "homePts": 137,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 120.4,
+        "dRtg": 128.9,
+        "tsPercent": 0.59,
+        "fTr": 0.168,
+        "orbPercent": 30,
+        "drbPercent": 70.8,
+        "trbPercent": 50,
+        "astPercent": 40.8,
+        "stlPercent": 7.5,
+        "blkPercent": 11.7,
+        "tovPercent": 12.9
+      },
+      {
+        "team": "OKC",
+        "oRtg": 128.9,
+        "dRtg": 120.4,
+        "tsPercent": 0.629,
+        "fTr": 0.278,
+        "orbPercent": 29.2,
+        "drbPercent": 70,
+        "trbPercent": 50,
+        "astPercent": 64.6,
+        "stlPercent": 10.3,
+        "blkPercent": 9.1,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202503020SAS",
+    "date": "2025-03-02T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 146,
+    "homeTeam": "SAS",
+    "homePts": 132,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 142.2,
+        "dRtg": 128.5,
+        "tsPercent": 0.665,
+        "fTr": 0.198,
+        "orbPercent": 29.3,
+        "drbPercent": 84.6,
+        "trbPercent": 56.3,
+        "astPercent": 61.8,
+        "stlPercent": 6.8,
+        "blkPercent": 12.5,
+        "tovPercent": 6
+      },
+      {
+        "team": "SAS",
+        "oRtg": 128.5,
+        "dRtg": 142.2,
+        "tsPercent": 0.673,
+        "fTr": 0.176,
+        "orbPercent": 15.4,
+        "drbPercent": 70.7,
+        "trbPercent": 43.8,
+        "astPercent": 70.6,
+        "stlPercent": 1.9,
+        "blkPercent": 5.3,
+        "tovPercent": 11.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502280ATL",
+    "date": "2025-02-28T12:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 135,
+    "homeTeam": "ATL",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 127.1,
+        "dRtg": 112.1,
+        "tsPercent": 0.635,
+        "fTr": 0.119,
+        "orbPercent": 20,
+        "drbPercent": 77.3,
+        "trbPercent": 48.3,
+        "astPercent": 72.5,
+        "stlPercent": 9.4,
+        "blkPercent": 1.9,
+        "tovPercent": 10.1
+      },
+      {
+        "team": "ATL",
+        "oRtg": 112.1,
+        "dRtg": 127.1,
+        "tsPercent": 0.606,
+        "fTr": 0.261,
+        "orbPercent": 22.7,
+        "drbPercent": 80,
+        "trbPercent": 51.7,
+        "astPercent": 62.8,
+        "stlPercent": 7.5,
+        "blkPercent": 9.8,
+        "tovPercent": 16.2
+      }
+    ]
+  },
+  {
+    "gameId": "202502260BRK",
+    "date": "2025-02-26T12:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 129,
+    "homeTeam": "BKN",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 129.9,
+        "dRtg": 121.9,
+        "tsPercent": 0.628,
+        "fTr": 0.322,
+        "orbPercent": 28.2,
+        "drbPercent": 65.4,
+        "trbPercent": 49.5,
+        "astPercent": 56.3,
+        "stlPercent": 10.1,
+        "blkPercent": 12.5,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "BRK",
+        "oRtg": 121.9,
+        "dRtg": 129.9,
+        "tsPercent": 0.582,
+        "fTr": 0.269,
+        "orbPercent": 34.6,
+        "drbPercent": 71.8,
+        "trbPercent": 50.5,
+        "astPercent": 81.6,
+        "stlPercent": 7.1,
+        "blkPercent": 8.3,
+        "tovPercent": 12.6
+      }
+    ]
+  },
+  {
+    "gameId": "202502240OKC",
+    "date": "2025-02-24T13:00:00Z",
+    "visitorTeam": "MIN",
+    "visitorPts": 131,
+    "homeTeam": "OKC",
+    "homePts": 128,
+    "teamGameAdvStats": [
+      {
+        "team": "MIN",
+        "oRtg": 117.2,
+        "dRtg": 114.5,
+        "tsPercent": 0.574,
+        "fTr": 0.402,
+        "orbPercent": 22.9,
+        "drbPercent": 72.9,
+        "trbPercent": 50.5,
+        "astPercent": 65.9,
+        "stlPercent": 5.4,
+        "blkPercent": 8.8,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 114.5,
+        "dRtg": 117.2,
+        "tsPercent": 0.539,
+        "fTr": 0.274,
+        "orbPercent": 27.1,
+        "drbPercent": 77.1,
+        "trbPercent": 49.5,
+        "astPercent": 60,
+        "stlPercent": 8.9,
+        "blkPercent": 12.3,
+        "tovPercent": 8.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502230MIN",
+    "date": "2025-02-23T14:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 130,
+    "homeTeam": "MIN",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 133.7,
+        "dRtg": 126.5,
+        "tsPercent": 0.686,
+        "fTr": 0.233,
+        "orbPercent": 19.4,
+        "drbPercent": 66.7,
+        "trbPercent": 45.7,
+        "astPercent": 66.7,
+        "stlPercent": 9.3,
+        "blkPercent": 18.2,
+        "tovPercent": 12.1
+      },
+      {
+        "team": "MIN",
+        "oRtg": 126.5,
+        "dRtg": 133.7,
+        "tsPercent": 0.607,
+        "fTr": 0.315,
+        "orbPercent": 33.3,
+        "drbPercent": 80.6,
+        "trbPercent": 54.3,
+        "astPercent": 59,
+        "stlPercent": 6.2,
+        "blkPercent": 9.8,
+        "tovPercent": 11.4
+      }
+    ]
+  },
+  {
+    "gameId": "202502210UTA",
+    "date": "2025-02-21T14:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 130,
+    "homeTeam": "UTA",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 130.2,
+        "dRtg": 107.1,
+        "tsPercent": 0.614,
+        "fTr": 0.206,
+        "orbPercent": 37,
+        "drbPercent": 70.8,
+        "trbPercent": 54.3,
+        "astPercent": 82.6,
+        "stlPercent": 10,
+        "blkPercent": 20.4,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "UTA",
+        "oRtg": 107.1,
+        "dRtg": 130.2,
+        "tsPercent": 0.546,
+        "fTr": 0.2,
+        "orbPercent": 29.2,
+        "drbPercent": 63,
+        "trbPercent": 45.7,
+        "astPercent": 65.9,
+        "stlPercent": 7,
+        "blkPercent": 3.7,
+        "tovPercent": 17.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502130MIN",
+    "date": "2025-02-13T13:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 101,
+    "homeTeam": "MIN",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 106.4,
+        "dRtg": 122.3,
+        "tsPercent": 0.512,
+        "fTr": 0.273,
+        "orbPercent": 26.1,
+        "drbPercent": 64.9,
+        "trbPercent": 47.6,
+        "astPercent": 67.6,
+        "stlPercent": 4.2,
+        "blkPercent": 13.2,
+        "tovPercent": 9.2
+      },
+      {
+        "team": "MIN",
+        "oRtg": 122.3,
+        "dRtg": 106.4,
+        "tsPercent": 0.534,
+        "fTr": 0.222,
+        "orbPercent": 35.1,
+        "drbPercent": 73.9,
+        "trbPercent": 52.4,
+        "astPercent": 66.7,
+        "stlPercent": 5.3,
+        "blkPercent": 3.4,
+        "tovPercent": 8.4
+      }
+    ]
+  },
+  {
+    "gameId": "202502120OKC",
+    "date": "2025-02-12T13:00:00Z",
+    "visitorTeam": "MIA",
+    "visitorPts": 101,
+    "homeTeam": "OKC",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "MIA",
+        "oRtg": 105.8,
+        "dRtg": 120.4,
+        "tsPercent": 0.561,
+        "fTr": 0.316,
+        "orbPercent": 25,
+        "drbPercent": 76.1,
+        "trbPercent": 52.3,
+        "astPercent": 66.7,
+        "stlPercent": 7.3,
+        "blkPercent": 10.2,
+        "tovPercent": 15.1
+      },
+      {
+        "team": "OKC",
+        "oRtg": 120.4,
+        "dRtg": 105.8,
+        "tsPercent": 0.594,
+        "fTr": 0.227,
+        "orbPercent": 23.9,
+        "drbPercent": 75,
+        "trbPercent": 47.7,
+        "astPercent": 51.2,
+        "stlPercent": 10.5,
+        "blkPercent": 6.7,
+        "tovPercent": 11.8
+      }
+    ]
+  },
+  {
+    "gameId": "202502100OKC",
+    "date": "2025-02-10T13:00:00Z",
+    "visitorTeam": "NOP",
+    "visitorPts": 101,
+    "homeTeam": "OKC",
+    "homePts": 137,
+    "teamGameAdvStats": [
+      {
+        "team": "NOP",
+        "oRtg": 99.2,
+        "dRtg": 134.5,
+        "tsPercent": 0.535,
+        "fTr": 0.341,
+        "orbPercent": 25.5,
+        "drbPercent": 75,
+        "trbPercent": 48.3,
+        "astPercent": 52.8,
+        "stlPercent": 3.9,
+        "blkPercent": 10,
+        "tovPercent": 19.6
+      },
+      {
+        "team": "OKC",
+        "oRtg": 134.5,
+        "dRtg": 99.2,
+        "tsPercent": 0.671,
+        "fTr": 0.168,
+        "orbPercent": 25,
+        "drbPercent": 74.5,
+        "trbPercent": 51.7,
+        "astPercent": 59.2,
+        "stlPercent": 14.7,
+        "blkPercent": 14.5,
+        "tovPercent": 9.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502080MEM",
+    "date": "2025-02-08T13:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 125,
+    "homeTeam": "MEM",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 128.5,
+        "dRtg": 115.1,
+        "tsPercent": 0.547,
+        "fTr": 0.2,
+        "orbPercent": 41.2,
+        "drbPercent": 77.3,
+        "trbPercent": 57.9,
+        "astPercent": 64.4,
+        "stlPercent": 5.1,
+        "blkPercent": 9.4,
+        "tovPercent": 7.3
+      },
+      {
+        "team": "MEM",
+        "oRtg": 115.1,
+        "dRtg": 128.5,
+        "tsPercent": 0.57,
+        "fTr": 0.481,
+        "orbPercent": 22.7,
+        "drbPercent": 58.8,
+        "trbPercent": 42.1,
+        "astPercent": 58.3,
+        "stlPercent": 7.2,
+        "blkPercent": 14.3,
+        "tovPercent": 11.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502070OKC",
+    "date": "2025-02-07T13:00:00Z",
+    "visitorTeam": "TOR",
+    "visitorPts": 109,
+    "homeTeam": "OKC",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "TOR",
+        "oRtg": 114.7,
+        "dRtg": 127.3,
+        "tsPercent": 0.549,
+        "fTr": 0.209,
+        "orbPercent": 29.8,
+        "drbPercent": 71.8,
+        "trbPercent": 48.8,
+        "astPercent": 79.5,
+        "stlPercent": 9.5,
+        "blkPercent": 11.3,
+        "tovPercent": 10.8
+      },
+      {
+        "team": "OKC",
+        "oRtg": 127.3,
+        "dRtg": 114.7,
+        "tsPercent": 0.62,
+        "fTr": 0.369,
+        "orbPercent": 28.2,
+        "drbPercent": 70.2,
+        "trbPercent": 51.2,
+        "astPercent": 60.5,
+        "stlPercent": 10.5,
+        "blkPercent": 14,
+        "tovPercent": 10.9
+      }
+    ]
+  },
+  {
+    "gameId": "202502050OKC",
+    "date": "2025-02-05T14:30:00Z",
+    "visitorTeam": "PHX",
+    "visitorPts": 109,
+    "homeTeam": "OKC",
+    "homePts": 140,
+    "teamGameAdvStats": [
+      {
+        "team": "PHO",
+        "oRtg": 108.1,
+        "dRtg": 138.8,
+        "tsPercent": 0.645,
+        "fTr": 0.471,
+        "orbPercent": 9.4,
+        "drbPercent": 65.3,
+        "trbPercent": 43.2,
+        "astPercent": 72.7,
+        "stlPercent": 3,
+        "blkPercent": 3.3,
+        "tovPercent": 20.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 138.8,
+        "dRtg": 108.1,
+        "tsPercent": 0.615,
+        "fTr": 0.265,
+        "orbPercent": 34.7,
+        "drbPercent": 90.6,
+        "trbPercent": 56.8,
+        "astPercent": 46.2,
+        "stlPercent": 14.9,
+        "blkPercent": 11.8,
+        "tovPercent": 5
+      }
+    ]
+  },
+  {
+    "gameId": "202502030OKC",
+    "date": "2025-02-03T13:00:00Z",
+    "visitorTeam": "MIL",
+    "visitorPts": 96,
+    "homeTeam": "OKC",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "MIL",
+        "oRtg": 92.6,
+        "dRtg": 120.6,
+        "tsPercent": 0.469,
+        "fTr": 0.226,
+        "orbPercent": 18,
+        "drbPercent": 66.7,
+        "trbPercent": 40.2,
+        "astPercent": 68.6,
+        "stlPercent": 11.6,
+        "blkPercent": 5.2,
+        "tovPercent": 12.8
+      },
+      {
+        "team": "OKC",
+        "oRtg": 120.6,
+        "dRtg": 92.6,
+        "tsPercent": 0.61,
+        "fTr": 0.081,
+        "orbPercent": 33.3,
+        "drbPercent": 82,
+        "trbPercent": 59.8,
+        "astPercent": 54.9,
+        "stlPercent": 8.7,
+        "blkPercent": 9.3,
+        "tovPercent": 14.2
+      }
+    ]
+  },
+  {
+    "gameId": "202502010OKC",
+    "date": "2025-02-01T13:00:00Z",
+    "visitorTeam": "SAC",
+    "visitorPts": 110,
+    "homeTeam": "OKC",
+    "homePts": 144,
+    "teamGameAdvStats": [
+      {
+        "team": "SAC",
+        "oRtg": 103.9,
+        "dRtg": 136,
+        "tsPercent": 0.494,
+        "fTr": 0.26,
+        "orbPercent": 15.3,
+        "drbPercent": 58.3,
+        "trbPercent": 34.6,
+        "astPercent": 62.5,
+        "stlPercent": 7.6,
+        "blkPercent": 8.2,
+        "tovPercent": 6.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 136,
+        "dRtg": 103.9,
+        "tsPercent": 0.631,
+        "fTr": 0.15,
+        "orbPercent": 41.7,
+        "drbPercent": 84.7,
+        "trbPercent": 65.4,
+        "astPercent": 64.9,
+        "stlPercent": 4.7,
+        "blkPercent": 10.7,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202501290GSW",
+    "date": "2025-01-29T15:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 109,
+    "homeTeam": "GSW",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 108,
+        "dRtg": 114.9,
+        "tsPercent": 0.495,
+        "fTr": 0.253,
+        "orbPercent": 32.7,
+        "drbPercent": 82.5,
+        "trbPercent": 54.3,
+        "astPercent": 52.5,
+        "stlPercent": 7.9,
+        "blkPercent": 7,
+        "tovPercent": 11.3
+      },
+      {
+        "team": "GSW",
+        "oRtg": 114.9,
+        "dRtg": 108,
+        "tsPercent": 0.622,
+        "fTr": 0.346,
+        "orbPercent": 17.5,
+        "drbPercent": 67.3,
+        "trbPercent": 45.7,
+        "astPercent": 75,
+        "stlPercent": 5.9,
+        "blkPercent": 11.7,
+        "tovPercent": 13.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501260POR",
+    "date": "2025-01-26T11:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 118,
+    "homeTeam": "POR",
+    "homePts": 108,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 127.4,
+        "dRtg": 116.6,
+        "tsPercent": 0.58,
+        "fTr": 0.326,
+        "orbPercent": 31.1,
+        "drbPercent": 69,
+        "trbPercent": 49.4,
+        "astPercent": 57.1,
+        "stlPercent": 7.6,
+        "blkPercent": 7.3,
+        "tovPercent": 8.1
+      },
+      {
+        "team": "POR",
+        "oRtg": 116.6,
+        "dRtg": 127.4,
+        "tsPercent": 0.579,
+        "fTr": 0.346,
+        "orbPercent": 31,
+        "drbPercent": 68.9,
+        "trbPercent": 50.6,
+        "astPercent": 63.6,
+        "stlPercent": 2.2,
+        "blkPercent": 10.2,
+        "tovPercent": 13.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501230OKC",
+    "date": "2025-01-23T13:00:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 121,
+    "homeTeam": "OKC",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "DAL",
+        "oRtg": 121,
+        "dRtg": 115,
+        "tsPercent": 0.673,
+        "fTr": 0.486,
+        "orbPercent": 24.2,
+        "drbPercent": 81.4,
+        "trbPercent": 56.6,
+        "astPercent": 64.1,
+        "stlPercent": 9,
+        "blkPercent": 5.9,
+        "tovPercent": 18.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 115,
+        "dRtg": 121,
+        "tsPercent": 0.589,
+        "fTr": 0.25,
+        "orbPercent": 18.6,
+        "drbPercent": 75.8,
+        "trbPercent": 43.4,
+        "astPercent": 61.9,
+        "stlPercent": 9,
+        "blkPercent": 9.3,
+        "tovPercent": 11.7
+      }
+    ]
+  },
+  {
+    "gameId": "202501220OKC",
+    "date": "2025-01-22T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 114,
+    "homeTeam": "OKC",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 113.1,
+        "dRtg": 122,
+        "tsPercent": 0.567,
+        "fTr": 0.267,
+        "orbPercent": 46.9,
+        "drbPercent": 69,
+        "trbPercent": 57.1,
+        "astPercent": 59.5,
+        "stlPercent": 3,
+        "blkPercent": 10.7,
+        "tovPercent": 21.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 122,
+        "dRtg": 113.1,
+        "tsPercent": 0.58,
+        "fTr": 0.263,
+        "orbPercent": 31,
+        "drbPercent": 53.1,
+        "trbPercent": 42.9,
+        "astPercent": 45.5,
+        "stlPercent": 14.9,
+        "blkPercent": 7.5,
+        "tovPercent": 9.4
+      }
+    ]
+  },
+  {
+    "gameId": "202501190OKC",
+    "date": "2025-01-19T12:00:00Z",
+    "visitorTeam": "BKN",
+    "visitorPts": 101,
+    "homeTeam": "OKC",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "BRK",
+        "oRtg": 104.6,
+        "dRtg": 131.5,
+        "tsPercent": 0.53,
+        "fTr": 0.218,
+        "orbPercent": 25.5,
+        "drbPercent": 78.4,
+        "trbPercent": 48.8,
+        "astPercent": 67.6,
+        "stlPercent": 5.2,
+        "blkPercent": 6.8,
+        "tovPercent": 15.1
+      },
+      {
+        "team": "OKC",
+        "oRtg": 131.5,
+        "dRtg": 104.6,
+        "tsPercent": 0.685,
+        "fTr": 0.149,
+        "orbPercent": 21.6,
+        "drbPercent": 74.5,
+        "trbPercent": 51.2,
+        "astPercent": 77.1,
+        "stlPercent": 8.3,
+        "blkPercent": 11.4,
+        "tovPercent": 11.5
+      }
+    ]
+  },
+  {
+    "gameId": "202501170DAL",
+    "date": "2025-01-17T13:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 98,
+    "homeTeam": "DAL",
+    "homePts": 106,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 103.9,
+        "dRtg": 112.3,
+        "tsPercent": 0.509,
+        "fTr": 0.132,
+        "orbPercent": 27.5,
+        "drbPercent": 84.2,
+        "trbPercent": 51.7,
+        "astPercent": 68.6,
+        "stlPercent": 7.4,
+        "blkPercent": 5.9,
+        "tovPercent": 13.5
+      },
+      {
+        "team": "DAL",
+        "oRtg": 112.3,
+        "dRtg": 103.9,
+        "tsPercent": 0.626,
+        "fTr": 0.293,
+        "orbPercent": 15.8,
+        "drbPercent": 72.5,
+        "trbPercent": 48.3,
+        "astPercent": 67.6,
+        "stlPercent": 11.7,
+        "blkPercent": 15.6,
+        "tovPercent": 16.7
+      }
+    ]
+  },
+  {
+    "gameId": "202501160OKC",
+    "date": "2025-01-16T12:30:00Z",
+    "visitorTeam": "CLE",
+    "visitorPts": 114,
+    "homeTeam": "OKC",
+    "homePts": 134,
+    "teamGameAdvStats": [
+      {
+        "team": "CLE",
+        "oRtg": 107.2,
+        "dRtg": 126,
+        "tsPercent": 0.574,
+        "fTr": 0.233,
+        "orbPercent": 26.2,
+        "drbPercent": 82.6,
+        "trbPercent": 55.7,
+        "astPercent": 76.2,
+        "stlPercent": 1.9,
+        "blkPercent": 9.6,
+        "tovPercent": 17.5
+      },
+      {
+        "team": "OKC",
+        "oRtg": 126,
+        "dRtg": 107.2,
+        "tsPercent": 0.61,
+        "fTr": 0.105,
+        "orbPercent": 17.4,
+        "drbPercent": 73.8,
+        "trbPercent": 44.3,
+        "astPercent": 47.2,
+        "stlPercent": 11.3,
+        "blkPercent": 10.4,
+        "tovPercent": 6
+      }
+    ]
+  },
+  {
+    "gameId": "202501140PHI",
+    "date": "2025-01-14T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 118,
+    "homeTeam": "PHI",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 121.2,
+        "dRtg": 104.8,
+        "tsPercent": 0.664,
+        "fTr": 0.222,
+        "orbPercent": 29.4,
+        "drbPercent": 71.8,
+        "trbPercent": 52.1,
+        "astPercent": 71.1,
+        "stlPercent": 10.3,
+        "blkPercent": 10,
+        "tovPercent": 16.8
+      },
+      {
+        "team": "PHI",
+        "oRtg": 104.8,
+        "dRtg": 121.2,
+        "tsPercent": 0.55,
+        "fTr": 0.238,
+        "orbPercent": 28.2,
+        "drbPercent": 70.6,
+        "trbPercent": 47.9,
+        "astPercent": 62.2,
+        "stlPercent": 10.3,
+        "blkPercent": 2.2,
+        "tovPercent": 19.2
+      }
+    ]
+  },
+  {
+    "gameId": "202501120WAS",
+    "date": "2025-01-12T11:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 136,
+    "homeTeam": "WAS",
+    "homePts": 95,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 130.1,
+        "dRtg": 90.8,
+        "tsPercent": 0.616,
+        "fTr": 0.368,
+        "orbPercent": 32.6,
+        "drbPercent": 83.7,
+        "trbPercent": 58.9,
+        "astPercent": 57.8,
+        "stlPercent": 10.5,
+        "blkPercent": 10.8,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "WAS",
+        "oRtg": 90.8,
+        "dRtg": 130.1,
+        "tsPercent": 0.487,
+        "fTr": 0.398,
+        "orbPercent": 16.3,
+        "drbPercent": 67.4,
+        "trbPercent": 41.1,
+        "astPercent": 71.4,
+        "stlPercent": 5.7,
+        "blkPercent": 10,
+        "tovPercent": 15.6
+      }
+    ]
+  },
+  {
+    "gameId": "202501100NYK",
+    "date": "2025-01-10T12:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 126,
+    "homeTeam": "NYK",
+    "homePts": 101,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 126.2,
+        "dRtg": 101.2,
+        "tsPercent": 0.65,
+        "fTr": 0.202,
+        "orbPercent": 22.9,
+        "drbPercent": 70.4,
+        "trbPercent": 51.7,
+        "astPercent": 41.7,
+        "stlPercent": 9,
+        "blkPercent": 13.8,
+        "tovPercent": 13.4
+      },
+      {
+        "team": "NYK",
+        "oRtg": 101.2,
+        "dRtg": 126.2,
+        "tsPercent": 0.476,
+        "fTr": 0.24,
+        "orbPercent": 29.6,
+        "drbPercent": 77.1,
+        "trbPercent": 48.3,
+        "astPercent": 48.6,
+        "stlPercent": 7,
+        "blkPercent": 4.8,
+        "tovPercent": 10.2
+      }
+    ]
+  },
+  {
+    "gameId": "202501080CLE",
+    "date": "2025-01-08T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 122,
+    "homeTeam": "CLE",
+    "homePts": 129,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 121.3,
+        "dRtg": 128.2,
+        "tsPercent": 0.626,
+        "fTr": 0.189,
+        "orbPercent": 24.3,
+        "drbPercent": 70.7,
+        "trbPercent": 48.7,
+        "astPercent": 72.9,
+        "stlPercent": 8.9,
+        "blkPercent": 9.3,
+        "tovPercent": 11.8
+      },
+      {
+        "team": "CLE",
+        "oRtg": 128.2,
+        "dRtg": 121.3,
+        "tsPercent": 0.633,
+        "fTr": 0.3,
+        "orbPercent": 29.3,
+        "drbPercent": 75.7,
+        "trbPercent": 51.3,
+        "astPercent": 76.6,
+        "stlPercent": 7,
+        "blkPercent": 3.4,
+        "tovPercent": 12.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501050OKC",
+    "date": "2025-01-05T08:30:00Z",
+    "visitorTeam": "BOS",
+    "visitorPts": 92,
+    "homeTeam": "OKC",
+    "homePts": 105,
+    "teamGameAdvStats": [
+      {
+        "team": "BOS",
+        "oRtg": 94.7,
+        "dRtg": 108,
+        "tsPercent": 0.481,
+        "fTr": 0.282,
+        "orbPercent": 24.5,
+        "drbPercent": 80,
+        "trbPercent": 51.1,
+        "astPercent": 54.8,
+        "stlPercent": 6.2,
+        "blkPercent": 10.2,
+        "tovPercent": 14.3
+      },
+      {
+        "team": "OKC",
+        "oRtg": 108,
+        "dRtg": 94.7,
+        "tsPercent": 0.566,
+        "fTr": 0.149,
+        "orbPercent": 20,
+        "drbPercent": 75.5,
+        "trbPercent": 48.9,
+        "astPercent": 56.4,
+        "stlPercent": 11.3,
+        "blkPercent": 15.4,
+        "tovPercent": 14.7
+      }
+    ]
+  },
+  {
+    "gameId": "202501030OKC",
+    "date": "2025-01-03T13:00:00Z",
+    "visitorTeam": "NYK",
+    "visitorPts": 107,
+    "homeTeam": "OKC",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "NYK",
+        "oRtg": 110.4,
+        "dRtg": 120.7,
+        "tsPercent": 0.549,
+        "fTr": 0.189,
+        "orbPercent": 24.4,
+        "drbPercent": 81.6,
+        "trbPercent": 50.6,
+        "astPercent": 51.2,
+        "stlPercent": 7.2,
+        "blkPercent": 3.5,
+        "tovPercent": 11
+      },
+      {
+        "team": "OKC",
+        "oRtg": 120.7,
+        "dRtg": 110.4,
+        "tsPercent": 0.627,
+        "fTr": 0.25,
+        "orbPercent": 18.4,
+        "drbPercent": 75.6,
+        "trbPercent": 49.4,
+        "astPercent": 62.8,
+        "stlPercent": 9.3,
+        "blkPercent": 12.1,
+        "tovPercent": 12.2
+      }
+    ]
+  },
+  {
+    "gameId": "202501020OKC",
+    "date": "2025-01-02T13:00:00Z",
+    "visitorTeam": "LAC",
+    "visitorPts": 98,
+    "homeTeam": "OKC",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "LAC",
+        "oRtg": 100.1,
+        "dRtg": 118.5,
+        "tsPercent": 0.554,
+        "fTr": 0.21,
+        "orbPercent": 24.4,
+        "drbPercent": 89.7,
+        "trbPercent": 56.3,
+        "astPercent": 65.8,
+        "stlPercent": 6.1,
+        "blkPercent": 2.1,
+        "tovPercent": 18.4
+      },
+      {
+        "team": "OKC",
+        "oRtg": 118.5,
+        "dRtg": 100.1,
+        "tsPercent": 0.612,
+        "fTr": 0.233,
+        "orbPercent": 10.3,
+        "drbPercent": 75.6,
+        "trbPercent": 43.8,
+        "astPercent": 67.4,
+        "stlPercent": 11.2,
+        "blkPercent": 6.1,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202412310OKC",
+    "date": "2024-12-31T13:00:00Z",
+    "visitorTeam": "MIN",
+    "visitorPts": 105,
+    "homeTeam": "OKC",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "MIN",
+        "oRtg": 107.2,
+        "dRtg": 115.3,
+        "tsPercent": 0.623,
+        "fTr": 0.152,
+        "orbPercent": 26.3,
+        "drbPercent": 78.6,
+        "trbPercent": 53.8,
+        "astPercent": 53.8,
+        "stlPercent": 3.1,
+        "blkPercent": 13.2,
+        "tovPercent": 22.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 115.3,
+        "dRtg": 107.2,
+        "tsPercent": 0.57,
+        "fTr": 0.258,
+        "orbPercent": 21.4,
+        "drbPercent": 73.7,
+        "trbPercent": 46.3,
+        "astPercent": 59.5,
+        "stlPercent": 16.3,
+        "blkPercent": 4.9,
+        "tovPercent": 10.8
+      }
+    ]
+  },
+  {
+    "gameId": "202412290OKC",
+    "date": "2024-12-29T12:00:00Z",
+    "visitorTeam": "MEM",
+    "visitorPts": 106,
+    "homeTeam": "OKC",
+    "homePts": 130,
+    "teamGameAdvStats": [
+      {
+        "team": "MEM",
+        "oRtg": 99.4,
+        "dRtg": 121.9,
+        "tsPercent": 0.499,
+        "fTr": 0.216,
+        "orbPercent": 30.8,
+        "drbPercent": 79.5,
+        "trbPercent": 53.1,
+        "astPercent": 81.1,
+        "stlPercent": 5.6,
+        "blkPercent": 6.8,
+        "tovPercent": 16.5
+      },
+      {
+        "team": "OKC",
+        "oRtg": 121.9,
+        "dRtg": 99.4,
+        "tsPercent": 0.6,
+        "fTr": 0.117,
+        "orbPercent": 20.5,
+        "drbPercent": 69.2,
+        "trbPercent": 46.9,
+        "astPercent": 67.3,
+        "stlPercent": 9.4,
+        "blkPercent": 19.6,
+        "tovPercent": 8.5
+      }
+    ]
+  },
+  {
+    "gameId": "202412280CHO",
+    "date": "2024-12-28T11:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 106,
+    "homeTeam": "CHA",
+    "homePts": 94,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 105.5,
+        "dRtg": 93.6,
+        "tsPercent": 0.563,
+        "fTr": 0.159,
+        "orbPercent": 20,
+        "drbPercent": 83.3,
+        "trbPercent": 52.7,
+        "astPercent": 69,
+        "stlPercent": 9,
+        "blkPercent": 2.2,
+        "tovPercent": 15.3
+      },
+      {
+        "team": "CHO",
+        "oRtg": 93.6,
+        "dRtg": 105.5,
+        "tsPercent": 0.509,
+        "fTr": 0.35,
+        "orbPercent": 16.7,
+        "drbPercent": 80,
+        "trbPercent": 47.3,
+        "astPercent": 58.6,
+        "stlPercent": 9,
+        "blkPercent": 10,
+        "tovPercent": 16.3
+      }
+    ]
+  },
+  {
+    "gameId": "202412260IND",
+    "date": "2024-12-26T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 120,
+    "homeTeam": "IND",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 123.3,
+        "dRtg": 117.2,
+        "tsPercent": 0.568,
+        "fTr": 0.253,
+        "orbPercent": 18.4,
+        "drbPercent": 76.6,
+        "trbPercent": 46.9,
+        "astPercent": 45.5,
+        "stlPercent": 4.1,
+        "blkPercent": 7.5,
+        "tovPercent": 2.8
+      },
+      {
+        "team": "IND",
+        "oRtg": 117.2,
+        "dRtg": 123.3,
+        "tsPercent": 0.578,
+        "fTr": 0.247,
+        "orbPercent": 23.4,
+        "drbPercent": 81.6,
+        "trbPercent": 53.1,
+        "astPercent": 66.7,
+        "stlPercent": 1,
+        "blkPercent": 13.8,
+        "tovPercent": 10
+      }
+    ]
+  },
+  {
+    "gameId": "202412230OKC",
+    "date": "2024-12-23T13:00:00Z",
+    "visitorTeam": "WAS",
+    "visitorPts": 105,
+    "homeTeam": "OKC",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "WAS",
+        "oRtg": 100.3,
+        "dRtg": 117.5,
+        "tsPercent": 0.526,
+        "fTr": 0.22,
+        "orbPercent": 24.5,
+        "drbPercent": 66.7,
+        "trbPercent": 46.4,
+        "astPercent": 69.4,
+        "stlPercent": 6.7,
+        "blkPercent": 11.8,
+        "tovPercent": 16
+      },
+      {
+        "team": "OKC",
+        "oRtg": 117.5,
+        "dRtg": 100.3,
+        "tsPercent": 0.532,
+        "fTr": 0.208,
+        "orbPercent": 33.3,
+        "drbPercent": 75.5,
+        "trbPercent": 53.6,
+        "astPercent": 53.2,
+        "stlPercent": 14.3,
+        "blkPercent": 18.8,
+        "tovPercent": 9.4
+      }
+    ]
+  },
+  {
+    "gameId": "202412200MIA",
+    "date": "2024-12-20T13:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 104,
+    "homeTeam": "MIA",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 106.4,
+        "dRtg": 99.2,
+        "tsPercent": 0.556,
+        "fTr": 0.198,
+        "orbPercent": 26.1,
+        "drbPercent": 83.7,
+        "trbPercent": 53.9,
+        "astPercent": 61.5,
+        "stlPercent": 8.2,
+        "blkPercent": 11.6,
+        "tovPercent": 13
+      },
+      {
+        "team": "MIA",
+        "oRtg": 99.2,
+        "dRtg": 106.4,
+        "tsPercent": 0.528,
+        "fTr": 0.241,
+        "orbPercent": 16.3,
+        "drbPercent": 73.9,
+        "trbPercent": 46.1,
+        "astPercent": 55.6,
+        "stlPercent": 9.2,
+        "blkPercent": 5.8,
+        "tovPercent": 17.1
+      }
+    ]
+  },
+  {
+    "gameId": "202412190ORL",
+    "date": "2024-12-19T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 105,
+    "homeTeam": "ORL",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 108.9,
+        "dRtg": 102.7,
+        "tsPercent": 0.583,
+        "fTr": 0.193,
+        "orbPercent": 11.8,
+        "drbPercent": 73.7,
+        "trbPercent": 44.4,
+        "astPercent": 57.5,
+        "stlPercent": 15.6,
+        "blkPercent": 14,
+        "tovPercent": 12.6
+      },
+      {
+        "team": "ORL",
+        "oRtg": 102.7,
+        "dRtg": 108.9,
+        "tsPercent": 0.556,
+        "fTr": 0.321,
+        "orbPercent": 26.3,
+        "drbPercent": 88.2,
+        "trbPercent": 55.6,
+        "astPercent": 71.4,
+        "stlPercent": 6.2,
+        "blkPercent": 11.5,
+        "tovPercent": 18.3
+      }
+    ]
+  },
+  {
+    "gameId": "202412170OKC",
+    "date": "2024-12-17T13:30:00Z",
+    "visitorTeam": "MIL",
+    "visitorPts": 97,
+    "homeTeam": "OKC",
+    "homePts": 81,
+    "teamGameAdvStats": [
+      {
+        "team": "MIL",
+        "oRtg": 100.3,
+        "dRtg": 83.8,
+        "tsPercent": 0.545,
+        "fTr": 0.222,
+        "orbPercent": 20,
+        "drbPercent": 86,
+        "trbPercent": 54.7,
+        "astPercent": 73.5,
+        "stlPercent": 6.2,
+        "blkPercent": 7.4,
+        "tovPercent": 17.6
+      },
+      {
+        "team": "OKC",
+        "oRtg": 83.8,
+        "dRtg": 100.3,
+        "tsPercent": 0.423,
+        "fTr": 0.256,
+        "orbPercent": 14,
+        "drbPercent": 80,
+        "trbPercent": 45.3,
+        "astPercent": 44.8,
+        "stlPercent": 10.3,
+        "blkPercent": 12.2,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202412140OKC",
+    "date": "2024-12-14T13:30:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 96,
+    "homeTeam": "OKC",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 96.1,
+        "dRtg": 111.1,
+        "tsPercent": 0.449,
+        "fTr": 0.26,
+        "orbPercent": 32.8,
+        "drbPercent": 88.2,
+        "trbPercent": 53.3,
+        "astPercent": 48.6,
+        "stlPercent": 7,
+        "blkPercent": 6,
+        "tovPercent": 13
+      },
+      {
+        "team": "OKC",
+        "oRtg": 111.1,
+        "dRtg": 96.1,
+        "tsPercent": 0.59,
+        "fTr": 0.4,
+        "orbPercent": 11.8,
+        "drbPercent": 67.2,
+        "trbPercent": 46.7,
+        "astPercent": 52.8,
+        "stlPercent": 12,
+        "blkPercent": 8,
+        "tovPercent": 11.3
+      }
+    ]
+  },
+  {
+    "gameId": "202412100OKC",
+    "date": "2024-12-10T14:30:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 104,
+    "homeTeam": "OKC",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "DAL",
+        "oRtg": 104.8,
+        "dRtg": 119,
+        "tsPercent": 0.589,
+        "fTr": 0.238,
+        "orbPercent": 16.7,
+        "drbPercent": 68.5,
+        "trbPercent": 45.8,
+        "astPercent": 65.8,
+        "stlPercent": 10.1,
+        "blkPercent": 3.9,
+        "tovPercent": 17.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 119,
+        "dRtg": 104.8,
+        "tsPercent": 0.567,
+        "fTr": 0.069,
+        "orbPercent": 31.5,
+        "drbPercent": 83.3,
+        "trbPercent": 54.2,
+        "astPercent": 63,
+        "stlPercent": 14.1,
+        "blkPercent": 11.4,
+        "tovPercent": 11.9
+      }
+    ]
+  },
+  {
+    "gameId": "202412070NOP",
+    "date": "2024-12-07T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 119,
+    "homeTeam": "NOP",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 118.1,
+        "dRtg": 108.2,
+        "tsPercent": 0.631,
+        "fTr": 0.247,
+        "orbPercent": 27,
+        "drbPercent": 81.4,
+        "trbPercent": 56.3,
+        "astPercent": 60,
+        "stlPercent": 12.9,
+        "blkPercent": 7.1,
+        "tovPercent": 17.5
+      },
+      {
+        "team": "NOP",
+        "oRtg": 108.2,
+        "dRtg": 118.1,
+        "tsPercent": 0.6,
+        "fTr": 0.342,
+        "orbPercent": 18.6,
+        "drbPercent": 73,
+        "trbPercent": 43.8,
+        "astPercent": 65.8,
+        "stlPercent": 14.9,
+        "blkPercent": 11.3,
+        "tovPercent": 16.5
+      }
+    ]
+  },
+  {
+    "gameId": "202412050TOR",
+    "date": "2024-12-05T12:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 129,
+    "homeTeam": "TOR",
+    "homePts": 92,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 126,
+        "dRtg": 89.8,
+        "tsPercent": 0.589,
+        "fTr": 0.167,
+        "orbPercent": 25,
+        "drbPercent": 77.8,
+        "trbPercent": 51.9,
+        "astPercent": 57.1,
+        "stlPercent": 14.6,
+        "blkPercent": 24.4,
+        "tovPercent": 5.2
+      },
+      {
+        "team": "TOR",
+        "oRtg": 89.8,
+        "dRtg": 126,
+        "tsPercent": 0.466,
+        "fTr": 0.222,
+        "orbPercent": 22.2,
+        "drbPercent": 75,
+        "trbPercent": 48.1,
+        "astPercent": 75,
+        "stlPercent": 4.9,
+        "blkPercent": 12.7,
+        "tovPercent": 16.8
+      }
+    ]
+  },
+  {
+    "gameId": "202412030OKC",
+    "date": "2024-12-03T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 106,
+    "homeTeam": "OKC",
+    "homePts": 133,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 111.6,
+        "dRtg": 140,
+        "tsPercent": 0.665,
+        "fTr": 0.314,
+        "orbPercent": 36.7,
+        "drbPercent": 62.5,
+        "trbPercent": 51.4,
+        "astPercent": 55.3,
+        "stlPercent": 3.2,
+        "blkPercent": 10.9,
+        "tovPercent": 26.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 140,
+        "dRtg": 111.6,
+        "tsPercent": 0.622,
+        "fTr": 0.108,
+        "orbPercent": 37.5,
+        "drbPercent": 63.3,
+        "trbPercent": 48.6,
+        "astPercent": 60.4,
+        "stlPercent": 18.9,
+        "blkPercent": 8.6,
+        "tovPercent": 7
+      }
+    ]
+  },
+  {
+    "gameId": "202412010HOU",
+    "date": "2024-12-01T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 116,
+    "homeTeam": "HOU",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 117,
+        "dRtg": 120.1,
+        "tsPercent": 0.552,
+        "fTr": 0.266,
+        "orbPercent": 23.4,
+        "drbPercent": 70,
+        "trbPercent": 47.4,
+        "astPercent": 71.4,
+        "stlPercent": 5,
+        "blkPercent": 7.3,
+        "tovPercent": 6.3
+      },
+      {
+        "team": "HOU",
+        "oRtg": 120.1,
+        "dRtg": 117,
+        "tsPercent": 0.545,
+        "fTr": 0.424,
+        "orbPercent": 30,
+        "drbPercent": 76.6,
+        "trbPercent": 52.6,
+        "astPercent": 52.6,
+        "stlPercent": 3,
+        "blkPercent": 10.9,
+        "tovPercent": 8.4
+      }
+    ]
+  },
+  {
+    "gameId": "202411290LAL",
+    "date": "2024-11-29T15:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 101,
+    "homeTeam": "LAL",
+    "homePts": 93,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 110.4,
+        "dRtg": 101.7,
+        "tsPercent": 0.505,
+        "fTr": 0.172,
+        "orbPercent": 27.8,
+        "drbPercent": 80,
+        "trbPercent": 50,
+        "astPercent": 52.6,
+        "stlPercent": 13.1,
+        "blkPercent": 8.6,
+        "tovPercent": 9.1
+      },
+      {
+        "team": "LAL",
+        "oRtg": 101.7,
+        "dRtg": 110.4,
+        "tsPercent": 0.565,
+        "fTr": 0.288,
+        "orbPercent": 20,
+        "drbPercent": 72.2,
+        "trbPercent": 50,
+        "astPercent": 75.8,
+        "stlPercent": 4.4,
+        "blkPercent": 11.3,
+        "tovPercent": 17.1
+      }
+    ]
+  },
+  {
+    "gameId": "202411270GSW",
+    "date": "2024-11-27T15:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 105,
+    "homeTeam": "GSW",
+    "homePts": 101,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 103.7,
+        "dRtg": 99.8,
+        "tsPercent": 0.544,
+        "fTr": 0.306,
+        "orbPercent": 17,
+        "drbPercent": 69,
+        "trbPercent": 45.7,
+        "astPercent": 66.7,
+        "stlPercent": 9.9,
+        "blkPercent": 18.8,
+        "tovPercent": 12.7
+      },
+      {
+        "team": "GSW",
+        "oRtg": 99.8,
+        "dRtg": 103.7,
+        "tsPercent": 0.471,
+        "fTr": 0.214,
+        "orbPercent": 31,
+        "drbPercent": 83,
+        "trbPercent": 54.3,
+        "astPercent": 71.4,
+        "stlPercent": 6.9,
+        "blkPercent": 12.5,
+        "tovPercent": 13
+      }
+    ]
+  },
+  {
+    "gameId": "202411250SAC",
+    "date": "2024-11-25T15:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 130,
+    "homeTeam": "SAC",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 133.1,
+        "dRtg": 111.6,
+        "tsPercent": 0.67,
+        "fTr": 0.291,
+        "orbPercent": 33.3,
+        "drbPercent": 78.6,
+        "trbPercent": 58.7,
+        "astPercent": 58.3,
+        "stlPercent": 6.1,
+        "blkPercent": 5.5,
+        "tovPercent": 13.4
+      },
+      {
+        "team": "SAC",
+        "oRtg": 111.6,
+        "dRtg": 133.1,
+        "tsPercent": 0.561,
+        "fTr": 0.264,
+        "orbPercent": 21.4,
+        "drbPercent": 66.7,
+        "trbPercent": 41.3,
+        "astPercent": 57.1,
+        "stlPercent": 10.2,
+        "blkPercent": 7.3,
+        "tovPercent": 11
+      }
+    ]
+  },
+  {
+    "gameId": "202411200OKC",
+    "date": "2024-11-20T13:00:00Z",
+    "visitorTeam": "POR",
+    "visitorPts": 99,
+    "homeTeam": "OKC",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "POR",
+        "oRtg": 101.9,
+        "dRtg": 112.2,
+        "tsPercent": 0.542,
+        "fTr": 0.354,
+        "orbPercent": 34,
+        "drbPercent": 68.8,
+        "trbPercent": 51.6,
+        "astPercent": 56.3,
+        "stlPercent": 6.2,
+        "blkPercent": 11.7,
+        "tovPercent": 20.8
+      },
+      {
+        "team": "OKC",
+        "oRtg": 112.2,
+        "dRtg": 101.9,
+        "tsPercent": 0.539,
+        "fTr": 0.253,
+        "orbPercent": 31.3,
+        "drbPercent": 66,
+        "trbPercent": 48.4,
+        "astPercent": 60,
+        "stlPercent": 14.4,
+        "blkPercent": 19.5,
+        "tovPercent": 12.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411190SAS",
+    "date": "2024-11-19T14:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 104,
+    "homeTeam": "SAS",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 102.3,
+        "dRtg": 108.2,
+        "tsPercent": 0.504,
+        "fTr": 0.07,
+        "orbPercent": 25.5,
+        "drbPercent": 81,
+        "trbPercent": 50.5,
+        "astPercent": 58.5,
+        "stlPercent": 15.7,
+        "blkPercent": 10.8,
+        "tovPercent": 12
+      },
+      {
+        "team": "SAS",
+        "oRtg": 108.2,
+        "dRtg": 102.3,
+        "tsPercent": 0.602,
+        "fTr": 0.229,
+        "orbPercent": 19,
+        "drbPercent": 74.5,
+        "trbPercent": 49.5,
+        "astPercent": 82.1,
+        "stlPercent": 4.9,
+        "blkPercent": 10.6,
+        "tovPercent": 18.7
+      }
+    ]
+  },
+  {
+    "gameId": "202411170OKC",
+    "date": "2024-11-17T12:00:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 121,
+    "homeTeam": "OKC",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "DAL",
+        "oRtg": 127.1,
+        "dRtg": 125,
+        "tsPercent": 0.606,
+        "fTr": 0.429,
+        "orbPercent": 45,
+        "drbPercent": 83.3,
+        "trbPercent": 64.6,
+        "astPercent": 45,
+        "stlPercent": 4.2,
+        "blkPercent": 11.1,
+        "tovPercent": 13.8
+      },
+      {
+        "team": "OKC",
+        "oRtg": 125,
+        "dRtg": 127.1,
+        "tsPercent": 0.607,
+        "fTr": 0.287,
+        "orbPercent": 16.7,
+        "drbPercent": 55,
+        "trbPercent": 35.4,
+        "astPercent": 67.4,
+        "stlPercent": 11.6,
+        "blkPercent": 8.8,
+        "tovPercent": 7.5
+      }
+    ]
+  },
+  {
+    "gameId": "202411150OKC",
+    "date": "2024-11-15T13:00:00Z",
+    "visitorTeam": "PHX",
+    "visitorPts": 83,
+    "homeTeam": "OKC",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "PHO",
+        "oRtg": 87.3,
+        "dRtg": 104.1,
+        "tsPercent": 0.448,
+        "fTr": 0.533,
+        "orbPercent": 21.6,
+        "drbPercent": 75,
+        "trbPercent": 48.5,
+        "astPercent": 77.3,
+        "stlPercent": 6.3,
+        "blkPercent": 7.8,
+        "tovPercent": 15.5
+      },
+      {
+        "team": "OKC",
+        "oRtg": 104.1,
+        "dRtg": 87.3,
+        "tsPercent": 0.5,
+        "fTr": 0.198,
+        "orbPercent": 25,
+        "drbPercent": 78.4,
+        "trbPercent": 51.5,
+        "astPercent": 58.3,
+        "stlPercent": 6.3,
+        "blkPercent": 28.9,
+        "tovPercent": 10
+      }
+    ]
+  },
+  {
+    "gameId": "202411130OKC",
+    "date": "2024-11-13T12:30:00Z",
+    "visitorTeam": "NOP",
+    "visitorPts": 88,
+    "homeTeam": "OKC",
+    "homePts": 106,
+    "teamGameAdvStats": [
+      {
+        "team": "NOP",
+        "oRtg": 94.1,
+        "dRtg": 113.3,
+        "tsPercent": 0.471,
+        "fTr": 0.198,
+        "orbPercent": 44.7,
+        "drbPercent": 88.1,
+        "trbPercent": 65.2,
+        "astPercent": 61.8,
+        "stlPercent": 3.2,
+        "blkPercent": 8.2,
+        "tovPercent": 20.4
+      },
+      {
+        "team": "OKC",
+        "oRtg": 113.3,
+        "dRtg": 94.1,
+        "tsPercent": 0.558,
+        "fTr": 0.182,
+        "orbPercent": 11.9,
+        "drbPercent": 55.3,
+        "trbPercent": 34.8,
+        "astPercent": 51.3,
+        "stlPercent": 17.1,
+        "blkPercent": 14.3,
+        "tovPercent": 6.9
+      }
+    ]
+  },
+  {
+    "gameId": "202411110OKC",
+    "date": "2024-11-11T13:00:00Z",
+    "visitorTeam": "LAC",
+    "visitorPts": 128,
+    "homeTeam": "OKC",
+    "homePts": 134,
+    "teamGameAdvStats": [
+      {
+        "team": "LAC",
+        "oRtg": 128,
+        "dRtg": 134,
+        "tsPercent": 0.69,
+        "fTr": 0.363,
+        "orbPercent": 42.9,
+        "drbPercent": 78,
+        "trbPercent": 61.8,
+        "astPercent": 70.5,
+        "stlPercent": 5,
+        "blkPercent": 11.1,
+        "tovPercent": 20.6
+      },
+      {
+        "team": "OKC",
+        "oRtg": 134,
+        "dRtg": 128,
+        "tsPercent": 0.663,
+        "fTr": 0.253,
+        "orbPercent": 22,
+        "drbPercent": 57.1,
+        "trbPercent": 38.2,
+        "astPercent": 66,
+        "stlPercent": 16,
+        "blkPercent": 11.6,
+        "tovPercent": 9.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411100OKC",
+    "date": "2024-11-10T12:00:00Z",
+    "visitorTeam": "GSW",
+    "visitorPts": 127,
+    "homeTeam": "OKC",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "GSW",
+        "oRtg": 129.1,
+        "dRtg": 117.9,
+        "tsPercent": 0.641,
+        "fTr": 0.258,
+        "orbPercent": 32.5,
+        "drbPercent": 70.2,
+        "trbPercent": 52.9,
+        "astPercent": 77.8,
+        "stlPercent": 8.1,
+        "blkPercent": 4.9,
+        "tovPercent": 13.1
+      },
+      {
+        "team": "OKC",
+        "oRtg": 117.9,
+        "dRtg": 129.1,
+        "tsPercent": 0.55,
+        "fTr": 0.277,
+        "orbPercent": 29.8,
+        "drbPercent": 67.5,
+        "trbPercent": 47.1,
+        "astPercent": 59.5,
+        "stlPercent": 4.1,
+        "blkPercent": 13,
+        "tovPercent": 9.4
+      }
+    ]
+  },
+  {
+    "gameId": "202411080OKC",
+    "date": "2024-11-08T13:00:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 107,
+    "homeTeam": "OKC",
+    "homePts": 126,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 105.1,
+        "dRtg": 123.7,
+        "tsPercent": 0.527,
+        "fTr": 0.289,
+        "orbPercent": 29.2,
+        "drbPercent": 82.9,
+        "trbPercent": 53.9,
+        "astPercent": 48.7,
+        "stlPercent": 6.9,
+        "blkPercent": 5.7,
+        "tovPercent": 14.4
+      },
+      {
+        "team": "OKC",
+        "oRtg": 123.7,
+        "dRtg": 105.1,
+        "tsPercent": 0.629,
+        "fTr": 0.256,
+        "orbPercent": 17.1,
+        "drbPercent": 70.8,
+        "trbPercent": 46.1,
+        "astPercent": 52.2,
+        "stlPercent": 8.8,
+        "blkPercent": 13.3,
+        "tovPercent": 9.9
+      }
+    ]
+  },
+  {
+    "gameId": "202411060DEN",
+    "date": "2024-11-06T14:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 122,
+    "homeTeam": "DEN",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 113.3,
+        "dRtg": 115.2,
+        "tsPercent": 0.554,
+        "fTr": 0.23,
+        "orbPercent": 23.6,
+        "drbPercent": 72.3,
+        "trbPercent": 46.1,
+        "astPercent": 65.9,
+        "stlPercent": 13.9,
+        "blkPercent": 11.8,
+        "tovPercent": 11.3
+      },
+      {
+        "team": "DEN",
+        "oRtg": 115.2,
+        "dRtg": 113.3,
+        "tsPercent": 0.599,
+        "fTr": 0.371,
+        "orbPercent": 27.7,
+        "drbPercent": 76.4,
+        "trbPercent": 53.9,
+        "astPercent": 81,
+        "stlPercent": 7.4,
+        "blkPercent": 10,
+        "tovPercent": 14.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411040OKC",
+    "date": "2024-11-04T14:15:00Z",
+    "visitorTeam": "ORL",
+    "visitorPts": 86,
+    "homeTeam": "OKC",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "ORL",
+        "oRtg": 84,
+        "dRtg": 99.6,
+        "tsPercent": 0.458,
+        "fTr": 0.329,
+        "orbPercent": 15.9,
+        "drbPercent": 87.2,
+        "trbPercent": 49.4,
+        "astPercent": 69,
+        "stlPercent": 11.7,
+        "blkPercent": 9.3,
+        "tovPercent": 16.8
+      },
+      {
+        "team": "OKC",
+        "oRtg": 99.6,
+        "dRtg": 84,
+        "tsPercent": 0.554,
+        "fTr": 0.188,
+        "orbPercent": 12.8,
+        "drbPercent": 84.1,
+        "trbPercent": 50.6,
+        "astPercent": 59,
+        "stlPercent": 11.7,
+        "blkPercent": 8.3,
+        "tovPercent": 15.6
+      }
+    ]
+  },
+  {
+    "gameId": "202411020LAC",
+    "date": "2024-11-02T14:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 105,
+    "homeTeam": "LAC",
+    "homePts": 92,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 104.5,
+        "dRtg": 91.6,
+        "tsPercent": 0.568,
+        "fTr": 0.226,
+        "orbPercent": 7,
+        "drbPercent": 79.2,
+        "trbPercent": 45.1,
+        "astPercent": 69.4,
+        "stlPercent": 10.9,
+        "blkPercent": 6.8,
+        "tovPercent": 11.5
+      },
+      {
+        "team": "LAC",
+        "oRtg": 91.6,
+        "dRtg": 104.5,
+        "tsPercent": 0.509,
+        "fTr": 0.329,
+        "orbPercent": 20.8,
+        "drbPercent": 93,
+        "trbPercent": 54.9,
+        "astPercent": 71.9,
+        "stlPercent": 10,
+        "blkPercent": 15.6,
+        "tovPercent": 19.6
+      }
+    ]
+  },
+  {
+    "gameId": "202411010POR",
+    "date": "2024-11-01T14:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 137,
+    "homeTeam": "POR",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 136.5,
+        "dRtg": 113.6,
+        "tsPercent": 0.663,
+        "fTr": 0.2,
+        "orbPercent": 35.9,
+        "drbPercent": 73.8,
+        "trbPercent": 55.6,
+        "astPercent": 60.8,
+        "stlPercent": 13.9,
+        "blkPercent": 18.8,
+        "tovPercent": 11.2
+      },
+      {
+        "team": "POR",
+        "oRtg": 113.6,
+        "dRtg": 136.5,
+        "tsPercent": 0.59,
+        "fTr": 0.373,
+        "orbPercent": 26.2,
+        "drbPercent": 64.1,
+        "trbPercent": 44.4,
+        "astPercent": 69.2,
+        "stlPercent": 8,
+        "blkPercent": 10.9,
+        "tovPercent": 16.4
+      }
+    ]
+  },
+  {
+    "gameId": "202410300OKC",
+    "date": "2024-10-30T13:30:00Z",
+    "visitorTeam": "SAS",
+    "visitorPts": 93,
+    "homeTeam": "OKC",
+    "homePts": 105,
+    "teamGameAdvStats": [
+      {
+        "team": "SAS",
+        "oRtg": 94.1,
+        "dRtg": 106.2,
+        "tsPercent": 0.513,
+        "fTr": 0.153,
+        "orbPercent": 27.7,
+        "drbPercent": 88.6,
+        "trbPercent": 57.1,
+        "astPercent": 62.9,
+        "stlPercent": 6.1,
+        "blkPercent": 12.5,
+        "tovPercent": 19.5
+      },
+      {
+        "team": "OKC",
+        "oRtg": 106.2,
+        "dRtg": 94.1,
+        "tsPercent": 0.567,
+        "fTr": 0.09,
+        "orbPercent": 11.4,
+        "drbPercent": 72.3,
+        "trbPercent": 42.9,
+        "astPercent": 68.3,
+        "stlPercent": 18.2,
+        "blkPercent": 12.2,
+        "tovPercent": 13.1
+      }
+    ]
+  },
+  {
+    "gameId": "202410270OKC",
+    "date": "2024-10-27T11:00:00Z",
+    "visitorTeam": "ATL",
+    "visitorPts": 104,
+    "homeTeam": "OKC",
+    "homePts": 128,
+    "teamGameAdvStats": [
+      {
+        "team": "ATL",
+        "oRtg": 102.7,
+        "dRtg": 126.4,
+        "tsPercent": 0.501,
+        "fTr": 0.319,
+        "orbPercent": 33.3,
+        "drbPercent": 74.4,
+        "trbPercent": 52.1,
+        "astPercent": 66.7,
+        "stlPercent": 6.9,
+        "blkPercent": 8.2,
+        "tovPercent": 16.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 126.4,
+        "dRtg": 102.7,
+        "tsPercent": 0.621,
+        "fTr": 0.36,
+        "orbPercent": 25.6,
+        "drbPercent": 66.7,
+        "trbPercent": 47.9,
+        "astPercent": 59.1,
+        "stlPercent": 12.8,
+        "blkPercent": 20,
+        "tovPercent": 8.8
+      }
+    ]
+  },
+  {
+    "gameId": "202410260CHI",
+    "date": "2024-10-26T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 114,
+    "homeTeam": "CHI",
+    "homePts": 95,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 99.5,
+        "dRtg": 82.9,
+        "tsPercent": 0.492,
+        "fTr": 0.187,
+        "orbPercent": 15.3,
+        "drbPercent": 80.4,
+        "trbPercent": 47,
+        "astPercent": 46.7,
+        "stlPercent": 13.1,
+        "blkPercent": 12.8,
+        "tovPercent": 7.9
+      },
+      {
+        "team": "CHI",
+        "oRtg": 82.9,
+        "dRtg": 99.5,
+        "tsPercent": 0.467,
+        "fTr": 0.239,
+        "orbPercent": 19.6,
+        "drbPercent": 84.7,
+        "trbPercent": 53,
+        "astPercent": 71.9,
+        "stlPercent": 5.2,
+        "blkPercent": 3,
+        "tovPercent": 20.4
+      }
+    ]
+  },
+  {
+    "gameId": "202410240DEN",
+    "date": "2024-10-24T14:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 102,
+    "homeTeam": "DEN",
+    "homePts": 87,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 101.7,
+        "dRtg": 86.8,
+        "tsPercent": 0.48,
+        "fTr": 0.119,
+        "orbPercent": 24.5,
+        "drbPercent": 67.9,
+        "trbPercent": 46.2,
+        "astPercent": 53.5,
+        "stlPercent": 9,
+        "blkPercent": 21.7,
+        "tovPercent": 10.1
+      },
+      {
+        "team": "DEN",
+        "oRtg": 86.8,
+        "dRtg": 101.7,
+        "tsPercent": 0.418,
+        "fTr": 0.143,
+        "orbPercent": 32.1,
+        "drbPercent": 75.5,
+        "trbPercent": 53.8,
+        "astPercent": 82.9,
+        "stlPercent": 11,
+        "blkPercent": 10.8,
+        "tovPercent": 13.3
+      }
+    ]
+  },
+  {
+    "gameId": "202404140OKC",
+    "date": "2024-04-14T07:30:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 86,
+    "homeTeam": "OKC",
+    "homePts": 135,
+    "teamGameAdvStats": []
+  }
+]

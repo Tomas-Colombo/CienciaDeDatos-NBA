@@ -1,0 +1,3165 @@
+[
+  {
+    "gameId": "202504160CHI",
+    "date": "2025-04-16T11:30:00Z",
+    "visitorTeam": "MIA",
+    "visitorPts": 109,
+    "homeTeam": "CHI",
+    "homePts": 90,
+    "teamGameAdvStats": [
+      {
+        "team": "MIA",
+        "oRtg": 111.3,
+        "dRtg": 91.9,
+        "tsPercent": 0.588,
+        "fTr": 0.265,
+        "orbPercent": 22.5,
+        "drbPercent": 83.7,
+        "trbPercent": 54.2,
+        "astPercent": 73.2,
+        "stlPercent": 10.2,
+        "blkPercent": 15.2,
+        "tovPercent": 13.9
+      },
+      {
+        "team": "CHI",
+        "oRtg": 91.9,
+        "dRtg": 111.3,
+        "tsPercent": 0.497,
+        "fTr": 0.205,
+        "orbPercent": 16.3,
+        "drbPercent": 77.5,
+        "trbPercent": 45.8,
+        "astPercent": 45.5,
+        "stlPercent": 9.2,
+        "blkPercent": 8.3,
+        "tovPercent": 16.6
+      }
+    ]
+  },
+  {
+    "gameId": "202504130PHI",
+    "date": "2025-04-13T05:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 122,
+    "homeTeam": "PHI",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 114.6,
+        "dRtg": 95.8,
+        "tsPercent": 0.546,
+        "fTr": 0.194,
+        "orbPercent": 28.3,
+        "drbPercent": 81.5,
+        "trbPercent": 55.1,
+        "astPercent": 61.7,
+        "stlPercent": 9.4,
+        "blkPercent": 8,
+        "tovPercent": 10.4
+      },
+      {
+        "team": "PHI",
+        "oRtg": 95.8,
+        "dRtg": 114.6,
+        "tsPercent": 0.494,
+        "fTr": 0.223,
+        "orbPercent": 18.5,
+        "drbPercent": 71.7,
+        "trbPercent": 44.9,
+        "astPercent": 55.6,
+        "stlPercent": 6.6,
+        "blkPercent": 9.5,
+        "tovPercent": 12.7
+      }
+    ]
+  },
+  {
+    "gameId": "202504110CHI",
+    "date": "2025-04-11T12:00:00Z",
+    "visitorTeam": "WAS",
+    "visitorPts": 89,
+    "homeTeam": "CHI",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "WAS",
+        "oRtg": 87.4,
+        "dRtg": 116.8,
+        "tsPercent": 0.462,
+        "fTr": 0.132,
+        "orbPercent": 16.3,
+        "drbPercent": 71.7,
+        "trbPercent": 43.2,
+        "astPercent": 74.3,
+        "stlPercent": 6.9,
+        "blkPercent": 9.6,
+        "tovPercent": 15.8
+      },
+      {
+        "team": "CHI",
+        "oRtg": 116.8,
+        "dRtg": 87.4,
+        "tsPercent": 0.579,
+        "fTr": 0.237,
+        "orbPercent": 28.3,
+        "drbPercent": 83.7,
+        "trbPercent": 56.8,
+        "astPercent": 74.4,
+        "stlPercent": 7.9,
+        "blkPercent": 14,
+        "tovPercent": 11.2
+      }
+    ]
+  },
+  {
+    "gameId": "202504090CHI",
+    "date": "2025-04-09T12:00:00Z",
+    "visitorTeam": "MIA",
+    "visitorPts": 111,
+    "homeTeam": "CHI",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "MIA",
+        "oRtg": 112.2,
+        "dRtg": 120.3,
+        "tsPercent": 0.558,
+        "fTr": 0.185,
+        "orbPercent": 23.4,
+        "drbPercent": 73.7,
+        "trbPercent": 45.9,
+        "astPercent": 63.6,
+        "stlPercent": 11.1,
+        "blkPercent": 5.8,
+        "tovPercent": 11.6
+      },
+      {
+        "team": "CHI",
+        "oRtg": 120.3,
+        "dRtg": 112.2,
+        "tsPercent": 0.628,
+        "fTr": 0.146,
+        "orbPercent": 26.3,
+        "drbPercent": 76.6,
+        "trbPercent": 54.1,
+        "astPercent": 71.7,
+        "stlPercent": 8.1,
+        "blkPercent": 11.9,
+        "tovPercent": 14.5
+      }
+    ]
+  },
+  {
+    "gameId": "202504080CLE",
+    "date": "2025-04-08T11:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 113,
+    "homeTeam": "CLE",
+    "homePts": 135,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 112.7,
+        "dRtg": 134.6,
+        "tsPercent": 0.599,
+        "fTr": 0.221,
+        "orbPercent": 29.3,
+        "drbPercent": 67.3,
+        "trbPercent": 50,
+        "astPercent": 63.4,
+        "stlPercent": 9,
+        "blkPercent": 6,
+        "tovPercent": 17.5
+      },
+      {
+        "team": "CLE",
+        "oRtg": 134.6,
+        "dRtg": 112.7,
+        "tsPercent": 0.638,
+        "fTr": 0.13,
+        "orbPercent": 32.7,
+        "drbPercent": 70.7,
+        "trbPercent": 50,
+        "astPercent": 68.6,
+        "stlPercent": 13,
+        "blkPercent": 7,
+        "tovPercent": 11
+      }
+    ]
+  },
+  {
+    "gameId": "202504060CHO",
+    "date": "2025-04-06T05:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 131,
+    "homeTeam": "CHA",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 128.9,
+        "dRtg": 115.1,
+        "tsPercent": 0.663,
+        "fTr": 0.337,
+        "orbPercent": 22.5,
+        "drbPercent": 78,
+        "trbPercent": 50.6,
+        "astPercent": 56.5,
+        "stlPercent": 7.9,
+        "blkPercent": 1.8,
+        "tovPercent": 11.6
+      },
+      {
+        "team": "CHO",
+        "oRtg": 115.1,
+        "dRtg": 128.9,
+        "tsPercent": 0.585,
+        "fTr": 0.4,
+        "orbPercent": 22,
+        "drbPercent": 77.5,
+        "trbPercent": 49.4,
+        "astPercent": 61,
+        "stlPercent": 6.9,
+        "blkPercent": 4,
+        "tovPercent": 12.3
+      }
+    ]
+  },
+  {
+    "gameId": "202504040CHI",
+    "date": "2025-04-04T12:00:00Z",
+    "visitorTeam": "POR",
+    "visitorPts": 113,
+    "homeTeam": "CHI",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "POR",
+        "oRtg": 106.6,
+        "dRtg": 111.4,
+        "tsPercent": 0.46,
+        "fTr": 0.157,
+        "orbPercent": 27.5,
+        "drbPercent": 76.1,
+        "trbPercent": 47,
+        "astPercent": 52.3,
+        "stlPercent": 6.6,
+        "blkPercent": 8.3,
+        "tovPercent": 3.9
+      },
+      {
+        "team": "CHI",
+        "oRtg": 111.4,
+        "dRtg": 106.6,
+        "tsPercent": 0.586,
+        "fTr": 0.356,
+        "orbPercent": 23.9,
+        "drbPercent": 72.5,
+        "trbPercent": 53,
+        "astPercent": 61,
+        "stlPercent": 1.9,
+        "blkPercent": 11,
+        "tovPercent": 15.2
+      }
+    ]
+  },
+  {
+    "gameId": "202504010CHI",
+    "date": "2025-04-01T12:00:00Z",
+    "visitorTeam": "TOR",
+    "visitorPts": 118,
+    "homeTeam": "CHI",
+    "homePts": 137,
+    "teamGameAdvStats": [
+      {
+        "team": "TOR",
+        "oRtg": 116.7,
+        "dRtg": 135.5,
+        "tsPercent": 0.579,
+        "fTr": 0.113,
+        "orbPercent": 18.8,
+        "drbPercent": 72.2,
+        "trbPercent": 41.7,
+        "astPercent": 79.5,
+        "stlPercent": 6.9,
+        "blkPercent": 5.6,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "CHI",
+        "oRtg": 135.5,
+        "dRtg": 116.7,
+        "tsPercent": 0.686,
+        "fTr": 0.307,
+        "orbPercent": 27.8,
+        "drbPercent": 81.3,
+        "trbPercent": 58.3,
+        "astPercent": 72,
+        "stlPercent": 9.9,
+        "blkPercent": 3.8,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202503310OKC",
+    "date": "2025-03-31T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 117,
+    "homeTeam": "OKC",
+    "homePts": 145,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 105.3,
+        "dRtg": 130.5,
+        "tsPercent": 0.557,
+        "fTr": 0.163,
+        "orbPercent": 22.2,
+        "drbPercent": 78.6,
+        "trbPercent": 49.4,
+        "astPercent": 65.9,
+        "stlPercent": 6.3,
+        "blkPercent": 12.7,
+        "tovPercent": 16
+      },
+      {
+        "team": "OKC",
+        "oRtg": 130.5,
+        "dRtg": 105.3,
+        "tsPercent": 0.671,
+        "fTr": 0.235,
+        "orbPercent": 21.4,
+        "drbPercent": 77.8,
+        "trbPercent": 50.6,
+        "astPercent": 75,
+        "stlPercent": 9.9,
+        "blkPercent": 12.8,
+        "tovPercent": 11.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503290CHI",
+    "date": "2025-03-29T12:00:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 120,
+    "homeTeam": "CHI",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "DAL",
+        "oRtg": 113,
+        "dRtg": 112,
+        "tsPercent": 0.544,
+        "fTr": 0.208,
+        "orbPercent": 15.4,
+        "drbPercent": 73.3,
+        "trbPercent": 42.3,
+        "astPercent": 59.6,
+        "stlPercent": 8.5,
+        "blkPercent": 13.8,
+        "tovPercent": 5.2
+      },
+      {
+        "team": "CHI",
+        "oRtg": 112,
+        "dRtg": 113,
+        "tsPercent": 0.586,
+        "fTr": 0.264,
+        "orbPercent": 26.7,
+        "drbPercent": 84.6,
+        "trbPercent": 57.7,
+        "astPercent": 72.1,
+        "stlPercent": 3.8,
+        "blkPercent": 4.2,
+        "tovPercent": 15.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503270CHI",
+    "date": "2025-03-27T12:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 117,
+    "homeTeam": "CHI",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 114,
+        "dRtg": 115.9,
+        "tsPercent": 0.591,
+        "fTr": 0.198,
+        "orbPercent": 14,
+        "drbPercent": 75.6,
+        "trbPercent": 45.5,
+        "astPercent": 66.7,
+        "stlPercent": 7.8,
+        "blkPercent": 14.6,
+        "tovPercent": 10
+      },
+      {
+        "team": "CHI",
+        "oRtg": 115.9,
+        "dRtg": 114,
+        "tsPercent": 0.585,
+        "fTr": 0.239,
+        "orbPercent": 24.4,
+        "drbPercent": 86,
+        "trbPercent": 54.5,
+        "astPercent": 76.7,
+        "stlPercent": 3.9,
+        "blkPercent": 4,
+        "tovPercent": 12.9
+      }
+    ]
+  },
+  {
+    "gameId": "202503240DEN",
+    "date": "2025-03-24T13:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 129,
+    "homeTeam": "DEN",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 130.2,
+        "dRtg": 120.1,
+        "tsPercent": 0.63,
+        "fTr": 0.286,
+        "orbPercent": 25.5,
+        "drbPercent": 64.6,
+        "trbPercent": 45.3,
+        "astPercent": 68.9,
+        "stlPercent": 8.1,
+        "blkPercent": 8.2,
+        "tovPercent": 8.9
+      },
+      {
+        "team": "DEN",
+        "oRtg": 120.1,
+        "dRtg": 130.2,
+        "tsPercent": 0.553,
+        "fTr": 0.247,
+        "orbPercent": 35.4,
+        "drbPercent": 74.5,
+        "trbPercent": 54.7,
+        "astPercent": 73.9,
+        "stlPercent": 5,
+        "blkPercent": 17.3,
+        "tovPercent": 10
+      }
+    ]
+  },
+  {
+    "gameId": "202503220LAL",
+    "date": "2025-03-22T14:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 146,
+    "homeTeam": "LAL",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 141.4,
+        "dRtg": 111.3,
+        "tsPercent": 0.697,
+        "fTr": 0.208,
+        "orbPercent": 27.8,
+        "drbPercent": 78,
+        "trbPercent": 54.5,
+        "astPercent": 73.2,
+        "stlPercent": 16.5,
+        "blkPercent": 11.4,
+        "tovPercent": 8.7
+      },
+      {
+        "team": "LAL",
+        "oRtg": 111.3,
+        "dRtg": 141.4,
+        "tsPercent": 0.607,
+        "fTr": 0.259,
+        "orbPercent": 22,
+        "drbPercent": 72.2,
+        "trbPercent": 45.5,
+        "astPercent": 56.1,
+        "stlPercent": 7.7,
+        "blkPercent": 1.8,
+        "tovPercent": 18.2
+      }
+    ]
+  },
+  {
+    "gameId": "202503200SAC",
+    "date": "2025-03-20T14:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 128,
+    "homeTeam": "SAC",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 133.1,
+        "dRtg": 120.6,
+        "tsPercent": 0.657,
+        "fTr": 0.302,
+        "orbPercent": 30.8,
+        "drbPercent": 75.7,
+        "trbPercent": 52.6,
+        "astPercent": 71.1,
+        "stlPercent": 9.4,
+        "blkPercent": 4.3,
+        "tovPercent": 12.6
+      },
+      {
+        "team": "SAC",
+        "oRtg": 120.6,
+        "dRtg": 133.1,
+        "tsPercent": 0.603,
+        "fTr": 0.267,
+        "orbPercent": 24.3,
+        "drbPercent": 69.2,
+        "trbPercent": 47.4,
+        "astPercent": 65.9,
+        "stlPercent": 4.2,
+        "blkPercent": 9.8,
+        "tovPercent": 11.1
+      }
+    ]
+  },
+  {
+    "gameId": "202503190PHO",
+    "date": "2025-03-19T14:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 121,
+    "homeTeam": "PHX",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 121.6,
+        "dRtg": 127.6,
+        "tsPercent": 0.635,
+        "fTr": 0.133,
+        "orbPercent": 19.5,
+        "drbPercent": 71.1,
+        "trbPercent": 46.5,
+        "astPercent": 59.2,
+        "stlPercent": 7,
+        "blkPercent": 14.3,
+        "tovPercent": 12
+      },
+      {
+        "team": "PHO",
+        "oRtg": 127.6,
+        "dRtg": 121.6,
+        "tsPercent": 0.606,
+        "fTr": 0.208,
+        "orbPercent": 28.9,
+        "drbPercent": 80.5,
+        "trbPercent": 53.5,
+        "astPercent": 72.3,
+        "stlPercent": 9,
+        "blkPercent": 11.5,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202503170UTA",
+    "date": "2025-03-17T13:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 111,
+    "homeTeam": "UTA",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 105.1,
+        "dRtg": 91.8,
+        "tsPercent": 0.533,
+        "fTr": 0.165,
+        "orbPercent": 17,
+        "drbPercent": 90.9,
+        "trbPercent": 50.5,
+        "astPercent": 69,
+        "stlPercent": 11.4,
+        "blkPercent": 6.8,
+        "tovPercent": 9.6
+      },
+      {
+        "team": "UTA",
+        "oRtg": 91.8,
+        "dRtg": 105.1,
+        "tsPercent": 0.507,
+        "fTr": 0.256,
+        "orbPercent": 9.1,
+        "drbPercent": 83,
+        "trbPercent": 49.5,
+        "astPercent": 57.1,
+        "stlPercent": 3.8,
+        "blkPercent": 7.7,
+        "tovPercent": 15.1
+      }
+    ]
+  },
+  {
+    "gameId": "202503150HOU",
+    "date": "2025-03-15T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 114,
+    "homeTeam": "HOU",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 110.2,
+        "dRtg": 113.1,
+        "tsPercent": 0.57,
+        "fTr": 0.172,
+        "orbPercent": 11.6,
+        "drbPercent": 66,
+        "trbPercent": 40,
+        "astPercent": 55.8,
+        "stlPercent": 5.8,
+        "blkPercent": 9.3,
+        "tovPercent": 9.9
+      },
+      {
+        "team": "HOU",
+        "oRtg": 113.1,
+        "dRtg": 110.2,
+        "tsPercent": 0.535,
+        "fTr": 0.265,
+        "orbPercent": 34,
+        "drbPercent": 88.4,
+        "trbPercent": 60,
+        "astPercent": 54.5,
+        "stlPercent": 3.9,
+        "blkPercent": 10.9,
+        "tovPercent": 11.3
+      }
+    ]
+  },
+  {
+    "gameId": "202503130CHI",
+    "date": "2025-03-13T12:00:00Z",
+    "visitorTeam": "BKN",
+    "visitorPts": 110,
+    "homeTeam": "CHI",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "BRK",
+        "oRtg": 116.4,
+        "dRtg": 122.7,
+        "tsPercent": 0.529,
+        "fTr": 0.188,
+        "orbPercent": 30.6,
+        "drbPercent": 72.9,
+        "trbPercent": 51.5,
+        "astPercent": 74.4,
+        "stlPercent": 6.3,
+        "blkPercent": 13.2,
+        "tovPercent": 8
+      },
+      {
+        "team": "CHI",
+        "oRtg": 122.7,
+        "dRtg": 116.4,
+        "tsPercent": 0.572,
+        "fTr": 0.289,
+        "orbPercent": 27.1,
+        "drbPercent": 69.4,
+        "trbPercent": 48.5,
+        "astPercent": 58.5,
+        "stlPercent": 8.5,
+        "blkPercent": 6.5,
+        "tovPercent": 7.3
+      }
+    ]
+  },
+  {
+    "gameId": "202503100CHI",
+    "date": "2025-03-10T12:00:00Z",
+    "visitorTeam": "IND",
+    "visitorPts": 103,
+    "homeTeam": "CHI",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "IND",
+        "oRtg": 94.6,
+        "dRtg": 111.1,
+        "tsPercent": 0.471,
+        "fTr": 0.188,
+        "orbPercent": 14.8,
+        "drbPercent": 75.6,
+        "trbPercent": 41.1,
+        "astPercent": 75,
+        "stlPercent": 12.9,
+        "blkPercent": 6.2,
+        "tovPercent": 8.4
+      },
+      {
+        "team": "CHI",
+        "oRtg": 111.1,
+        "dRtg": 94.6,
+        "tsPercent": 0.581,
+        "fTr": 0.143,
+        "orbPercent": 24.4,
+        "drbPercent": 85.2,
+        "trbPercent": 58.9,
+        "astPercent": 61.2,
+        "stlPercent": 3.7,
+        "blkPercent": 9.8,
+        "tovPercent": 14.7
+      }
+    ]
+  },
+  {
+    "gameId": "202503080MIA",
+    "date": "2025-03-08T13:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 114,
+    "homeTeam": "MIA",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 109.6,
+        "dRtg": 104.8,
+        "tsPercent": 0.573,
+        "fTr": 0.295,
+        "orbPercent": 11.9,
+        "drbPercent": 86.8,
+        "trbPercent": 53.7,
+        "astPercent": 67.5,
+        "stlPercent": 5.8,
+        "blkPercent": 7.4,
+        "tovPercent": 9.1
+      },
+      {
+        "team": "MIA",
+        "oRtg": 104.8,
+        "dRtg": 109.6,
+        "tsPercent": 0.517,
+        "fTr": 0.196,
+        "orbPercent": 13.2,
+        "drbPercent": 88.1,
+        "trbPercent": 46.3,
+        "astPercent": 61,
+        "stlPercent": 6.7,
+        "blkPercent": 10.9,
+        "tovPercent": 7.9
+      }
+    ]
+  },
+  {
+    "gameId": "202503060ORL",
+    "date": "2025-03-06T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 125,
+    "homeTeam": "ORL",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 121.6,
+        "dRtg": 119.7,
+        "tsPercent": 0.63,
+        "fTr": 0.349,
+        "orbPercent": 35.1,
+        "drbPercent": 79.5,
+        "trbPercent": 59.3,
+        "astPercent": 58.1,
+        "stlPercent": 4.9,
+        "blkPercent": 13,
+        "tovPercent": 16.1
+      },
+      {
+        "team": "ORL",
+        "oRtg": 119.7,
+        "dRtg": 121.6,
+        "tsPercent": 0.588,
+        "fTr": 0.46,
+        "orbPercent": 20.5,
+        "drbPercent": 64.9,
+        "trbPercent": 40.7,
+        "astPercent": 65,
+        "stlPercent": 9.7,
+        "blkPercent": 10.9,
+        "tovPercent": 10.3
+      }
+    ]
+  },
+  {
+    "gameId": "202503040CHI",
+    "date": "2025-03-04T13:00:00Z",
+    "visitorTeam": "CLE",
+    "visitorPts": 139,
+    "homeTeam": "CHI",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "CLE",
+        "oRtg": 128.8,
+        "dRtg": 108.4,
+        "tsPercent": 0.618,
+        "fTr": 0.337,
+        "orbPercent": 21.6,
+        "drbPercent": 80.8,
+        "trbPercent": 51.5,
+        "astPercent": 58.7,
+        "stlPercent": 3.7,
+        "blkPercent": 6.5,
+        "tovPercent": 7.4
+      },
+      {
+        "team": "CHI",
+        "oRtg": 108.4,
+        "dRtg": 128.8,
+        "tsPercent": 0.516,
+        "fTr": 0.16,
+        "orbPercent": 19.2,
+        "drbPercent": 78.4,
+        "trbPercent": 48.5,
+        "astPercent": 68.1,
+        "stlPercent": 5.6,
+        "blkPercent": 12,
+        "tovPercent": 5.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503020IND",
+    "date": "2025-03-02T10:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 112,
+    "homeTeam": "IND",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 114.1,
+        "dRtg": 129.4,
+        "tsPercent": 0.584,
+        "fTr": 0.205,
+        "orbPercent": 27.9,
+        "drbPercent": 85.7,
+        "trbPercent": 53.8,
+        "astPercent": 54.5,
+        "stlPercent": 6.1,
+        "blkPercent": 9.3,
+        "tovPercent": 12.7
+      },
+      {
+        "team": "IND",
+        "oRtg": 129.4,
+        "dRtg": 114.1,
+        "tsPercent": 0.669,
+        "fTr": 0.207,
+        "orbPercent": 14.3,
+        "drbPercent": 72.1,
+        "trbPercent": 46.2,
+        "astPercent": 70.8,
+        "stlPercent": 7.1,
+        "blkPercent": 7.3,
+        "tovPercent": 11.2
+      }
+    ]
+  },
+  {
+    "gameId": "202502280CHI",
+    "date": "2025-02-28T13:00:00Z",
+    "visitorTeam": "TOR",
+    "visitorPts": 115,
+    "homeTeam": "CHI",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "TOR",
+        "oRtg": 104.3,
+        "dRtg": 113.4,
+        "tsPercent": 0.514,
+        "fTr": 0.194,
+        "orbPercent": 31.4,
+        "drbPercent": 77.8,
+        "trbPercent": 53.1,
+        "astPercent": 69.8,
+        "stlPercent": 3.6,
+        "blkPercent": 5.8,
+        "tovPercent": 13.2
+      },
+      {
+        "team": "CHI",
+        "oRtg": 113.4,
+        "dRtg": 104.3,
+        "tsPercent": 0.558,
+        "fTr": 0.248,
+        "orbPercent": 22.2,
+        "drbPercent": 68.6,
+        "trbPercent": 46.9,
+        "astPercent": 71.1,
+        "stlPercent": 10,
+        "blkPercent": 6.1,
+        "tovPercent": 11.8
+      }
+    ]
+  },
+  {
+    "gameId": "202502260CHI",
+    "date": "2025-02-26T13:00:00Z",
+    "visitorTeam": "LAC",
+    "visitorPts": 122,
+    "homeTeam": "CHI",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "LAC",
+        "oRtg": 126.4,
+        "dRtg": 121.2,
+        "tsPercent": 0.66,
+        "fTr": 0.2,
+        "orbPercent": 29.7,
+        "drbPercent": 68.8,
+        "trbPercent": 51.8,
+        "astPercent": 75,
+        "stlPercent": 9.3,
+        "blkPercent": 19.2,
+        "tovPercent": 14
+      },
+      {
+        "team": "CHI",
+        "oRtg": 121.2,
+        "dRtg": 126.4,
+        "tsPercent": 0.592,
+        "fTr": 0.117,
+        "orbPercent": 31.3,
+        "drbPercent": 70.3,
+        "trbPercent": 48.2,
+        "astPercent": 76.1,
+        "stlPercent": 9.3,
+        "blkPercent": 2.1,
+        "tovPercent": 14.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502240PHI",
+    "date": "2025-02-24T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 142,
+    "homeTeam": "PHI",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 134.1,
+        "dRtg": 103.9,
+        "tsPercent": 0.677,
+        "fTr": 0.404,
+        "orbPercent": 23.8,
+        "drbPercent": 69.4,
+        "trbPercent": 48.4,
+        "astPercent": 71.1,
+        "stlPercent": 10.4,
+        "blkPercent": 10.9,
+        "tovPercent": 12.5
+      },
+      {
+        "team": "PHI",
+        "oRtg": 103.9,
+        "dRtg": 134.1,
+        "tsPercent": 0.51,
+        "fTr": 0.305,
+        "orbPercent": 30.6,
+        "drbPercent": 76.2,
+        "trbPercent": 51.6,
+        "astPercent": 51.4,
+        "stlPercent": 10.4,
+        "blkPercent": 10.2,
+        "tovPercent": 13.6
+      }
+    ]
+  },
+  {
+    "gameId": "202502220CHI",
+    "date": "2025-02-22T10:00:00Z",
+    "visitorTeam": "PHX",
+    "visitorPts": 121,
+    "homeTeam": "CHI",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "PHO",
+        "oRtg": 119.4,
+        "dRtg": 115.4,
+        "tsPercent": 0.597,
+        "fTr": 0.315,
+        "orbPercent": 19,
+        "drbPercent": 78.8,
+        "trbPercent": 52.1,
+        "astPercent": 67.4,
+        "stlPercent": 6.9,
+        "blkPercent": 6.7,
+        "tovPercent": 9.8
+      },
+      {
+        "team": "CHI",
+        "oRtg": 115.4,
+        "dRtg": 119.4,
+        "tsPercent": 0.555,
+        "fTr": 0.173,
+        "orbPercent": 21.2,
+        "drbPercent": 81,
+        "trbPercent": 47.9,
+        "astPercent": 70.7,
+        "stlPercent": 8.9,
+        "blkPercent": 6.8,
+        "tovPercent": 7.9
+      }
+    ]
+  },
+  {
+    "gameId": "202502200NYK",
+    "date": "2025-02-20T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 111,
+    "homeTeam": "NYK",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 100.5,
+        "dRtg": 102.3,
+        "tsPercent": 0.513,
+        "fTr": 0.117,
+        "orbPercent": 20,
+        "drbPercent": 80.8,
+        "trbPercent": 49.5,
+        "astPercent": 58.5,
+        "stlPercent": 5.4,
+        "blkPercent": 9.8,
+        "tovPercent": 12.2
+      },
+      {
+        "team": "NYK",
+        "oRtg": 102.3,
+        "dRtg": 100.5,
+        "tsPercent": 0.507,
+        "fTr": 0.093,
+        "orbPercent": 19.2,
+        "drbPercent": 80,
+        "trbPercent": 50.5,
+        "astPercent": 60.9,
+        "stlPercent": 9.1,
+        "blkPercent": 12.7,
+        "tovPercent": 10.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502120CHI",
+    "date": "2025-02-12T13:00:00Z",
+    "visitorTeam": "DET",
+    "visitorPts": 128,
+    "homeTeam": "CHI",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "DET",
+        "oRtg": 122.4,
+        "dRtg": 105.2,
+        "tsPercent": 0.619,
+        "fTr": 0.398,
+        "orbPercent": 30.8,
+        "drbPercent": 77.8,
+        "trbPercent": 56,
+        "astPercent": 66.7,
+        "stlPercent": 7.6,
+        "blkPercent": 13.3,
+        "tovPercent": 14.1
+      },
+      {
+        "team": "CHI",
+        "oRtg": 105.2,
+        "dRtg": 122.4,
+        "tsPercent": 0.554,
+        "fTr": 0.349,
+        "orbPercent": 22.2,
+        "drbPercent": 69.2,
+        "trbPercent": 44,
+        "astPercent": 62.2,
+        "stlPercent": 8.6,
+        "blkPercent": 11.1,
+        "tovPercent": 15.4
+      }
+    ]
+  },
+  {
+    "gameId": "202502110CHI",
+    "date": "2025-02-11T13:00:00Z",
+    "visitorTeam": "DET",
+    "visitorPts": 132,
+    "homeTeam": "CHI",
+    "homePts": 92,
+    "teamGameAdvStats": [
+      {
+        "team": "DET",
+        "oRtg": 123.5,
+        "dRtg": 86.1,
+        "tsPercent": 0.649,
+        "fTr": 0.135,
+        "orbPercent": 21.1,
+        "drbPercent": 77,
+        "trbPercent": 55.6,
+        "astPercent": 58.8,
+        "stlPercent": 9.4,
+        "blkPercent": 15.1,
+        "tovPercent": 12.9
+      },
+      {
+        "team": "CHI",
+        "oRtg": 86.1,
+        "dRtg": 123.5,
+        "tsPercent": 0.425,
+        "fTr": 0.19,
+        "orbPercent": 23,
+        "drbPercent": 78.9,
+        "trbPercent": 44.4,
+        "astPercent": 62.9,
+        "stlPercent": 8.4,
+        "blkPercent": 3.6,
+        "tovPercent": 12.9
+      }
+    ]
+  },
+  {
+    "gameId": "202502080CHI",
+    "date": "2025-02-08T13:00:00Z",
+    "visitorTeam": "GSW",
+    "visitorPts": 132,
+    "homeTeam": "CHI",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "GSW",
+        "oRtg": 133.9,
+        "dRtg": 112.6,
+        "tsPercent": 0.648,
+        "fTr": 0.3,
+        "orbPercent": 39,
+        "drbPercent": 82.4,
+        "trbPercent": 58.7,
+        "astPercent": 75.6,
+        "stlPercent": 8.1,
+        "blkPercent": 17.5,
+        "tovPercent": 12.8
+      },
+      {
+        "team": "CHI",
+        "oRtg": 112.6,
+        "dRtg": 133.9,
+        "tsPercent": 0.599,
+        "fTr": 0.392,
+        "orbPercent": 17.6,
+        "drbPercent": 61,
+        "trbPercent": 41.3,
+        "astPercent": 68.6,
+        "stlPercent": 8.1,
+        "blkPercent": 9.5,
+        "tovPercent": 15.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502050MIN",
+    "date": "2025-02-05T13:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 108,
+    "homeTeam": "MIN",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 114,
+        "dRtg": 134.1,
+        "tsPercent": 0.583,
+        "fTr": 0.265,
+        "orbPercent": 14.3,
+        "drbPercent": 54.9,
+        "trbPercent": 36.6,
+        "astPercent": 62.5,
+        "stlPercent": 9.5,
+        "blkPercent": 9.8,
+        "tovPercent": 10.6
+      },
+      {
+        "team": "MIN",
+        "oRtg": 134.1,
+        "dRtg": 114,
+        "tsPercent": 0.576,
+        "fTr": 0.286,
+        "orbPercent": 45.1,
+        "drbPercent": 85.7,
+        "trbPercent": 63.4,
+        "astPercent": 64.3,
+        "stlPercent": 6.3,
+        "blkPercent": 17,
+        "tovPercent": 9.1
+      }
+    ]
+  },
+  {
+    "gameId": "202502040CHI",
+    "date": "2025-02-04T13:00:00Z",
+    "visitorTeam": "MIA",
+    "visitorPts": 124,
+    "homeTeam": "CHI",
+    "homePts": 133,
+    "teamGameAdvStats": [
+      {
+        "team": "MIA",
+        "oRtg": 121.3,
+        "dRtg": 130.2,
+        "tsPercent": 0.611,
+        "fTr": 0.289,
+        "orbPercent": 23.4,
+        "drbPercent": 82.5,
+        "trbPercent": 50.6,
+        "astPercent": 67.4,
+        "stlPercent": 3.9,
+        "blkPercent": 6,
+        "tovPercent": 12.1
+      },
+      {
+        "team": "CHI",
+        "oRtg": 130.2,
+        "dRtg": 121.3,
+        "tsPercent": 0.661,
+        "fTr": 0.242,
+        "orbPercent": 17.5,
+        "drbPercent": 76.6,
+        "trbPercent": 49.4,
+        "astPercent": 72.9,
+        "stlPercent": 3.9,
+        "blkPercent": 6.5,
+        "tovPercent": 9
+      }
+    ]
+  },
+  {
+    "gameId": "202502020DET",
+    "date": "2025-02-02T08:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 119,
+    "homeTeam": "DET",
+    "homePts": 127,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 113.2,
+        "dRtg": 120.8,
+        "tsPercent": 0.608,
+        "fTr": 0.225,
+        "orbPercent": 24.4,
+        "drbPercent": 80.5,
+        "trbPercent": 51.2,
+        "astPercent": 68.3,
+        "stlPercent": 6.7,
+        "blkPercent": 5.8,
+        "tovPercent": 17
+      },
+      {
+        "team": "DET",
+        "oRtg": 120.8,
+        "dRtg": 113.2,
+        "tsPercent": 0.606,
+        "fTr": 0.131,
+        "orbPercent": 19.5,
+        "drbPercent": 75.6,
+        "trbPercent": 48.8,
+        "astPercent": 70.4,
+        "stlPercent": 13.3,
+        "blkPercent": 13.5,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202501310TOR",
+    "date": "2025-01-31T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 122,
+    "homeTeam": "TOR",
+    "homePts": 106,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 122.3,
+        "dRtg": 106.3,
+        "tsPercent": 0.632,
+        "fTr": 0.191,
+        "orbPercent": 19.6,
+        "drbPercent": 86,
+        "trbPercent": 54.2,
+        "astPercent": 75.6,
+        "stlPercent": 4,
+        "blkPercent": 14.5,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "TOR",
+        "oRtg": 106.3,
+        "dRtg": 122.3,
+        "tsPercent": 0.51,
+        "fTr": 0.293,
+        "orbPercent": 14,
+        "drbPercent": 80.4,
+        "trbPercent": 45.8,
+        "astPercent": 69.2,
+        "stlPercent": 6,
+        "blkPercent": 16.3,
+        "tovPercent": 6.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501290BOS",
+    "date": "2025-01-29T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 100,
+    "homeTeam": "BOS",
+    "homePts": 122,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 100.1,
+        "dRtg": 122.2,
+        "tsPercent": 0.514,
+        "fTr": 0.13,
+        "orbPercent": 20.4,
+        "drbPercent": 86,
+        "trbPercent": 51.1,
+        "astPercent": 75.7,
+        "stlPercent": 3,
+        "blkPercent": 16.3,
+        "tovPercent": 13.4
+      },
+      {
+        "team": "BOS",
+        "oRtg": 122.2,
+        "dRtg": 100.1,
+        "tsPercent": 0.617,
+        "fTr": 0.31,
+        "orbPercent": 14,
+        "drbPercent": 79.6,
+        "trbPercent": 48.9,
+        "astPercent": 78,
+        "stlPercent": 9,
+        "blkPercent": 7,
+        "tovPercent": 8.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501270CHI",
+    "date": "2025-01-27T13:00:00Z",
+    "visitorTeam": "DEN",
+    "visitorPts": 121,
+    "homeTeam": "CHI",
+    "homePts": 129,
+    "teamGameAdvStats": [
+      {
+        "team": "DEN",
+        "oRtg": 116.2,
+        "dRtg": 123.8,
+        "tsPercent": 0.577,
+        "fTr": 0.11,
+        "orbPercent": 26.1,
+        "drbPercent": 69.8,
+        "trbPercent": 47.2,
+        "astPercent": 69.2,
+        "stlPercent": 12.5,
+        "blkPercent": 11.1,
+        "tovPercent": 12.5
+      },
+      {
+        "team": "CHI",
+        "oRtg": 123.8,
+        "dRtg": 116.2,
+        "tsPercent": 0.635,
+        "fTr": 0.082,
+        "orbPercent": 30.2,
+        "drbPercent": 73.9,
+        "trbPercent": 52.8,
+        "astPercent": 71.4,
+        "stlPercent": 10.6,
+        "blkPercent": 6.8,
+        "tovPercent": 14.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501250CHI",
+    "date": "2025-01-25T13:00:00Z",
+    "visitorTeam": "PHI",
+    "visitorPts": 109,
+    "homeTeam": "CHI",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "PHI",
+        "oRtg": 108.7,
+        "dRtg": 96.8,
+        "tsPercent": 0.548,
+        "fTr": 0.185,
+        "orbPercent": 12.8,
+        "drbPercent": 72.3,
+        "trbPercent": 42.6,
+        "astPercent": 54.8,
+        "stlPercent": 10,
+        "blkPercent": 8.5,
+        "tovPercent": 9.1
+      },
+      {
+        "team": "CHI",
+        "oRtg": 96.8,
+        "dRtg": 108.7,
+        "tsPercent": 0.517,
+        "fTr": 0.235,
+        "orbPercent": 27.7,
+        "drbPercent": 87.2,
+        "trbPercent": 57.4,
+        "astPercent": 66.7,
+        "stlPercent": 6,
+        "blkPercent": 6.4,
+        "tovPercent": 17.6
+      }
+    ]
+  },
+  {
+    "gameId": "202501230GSW",
+    "date": "2025-01-23T15:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 106,
+    "homeTeam": "GSW",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 106.4,
+        "dRtg": 131.5,
+        "tsPercent": 0.536,
+        "fTr": 0.31,
+        "orbPercent": 21.3,
+        "drbPercent": 68.1,
+        "trbPercent": 44.7,
+        "astPercent": 64.7,
+        "stlPercent": 7,
+        "blkPercent": 4.4,
+        "tovPercent": 11.6
+      },
+      {
+        "team": "GSW",
+        "oRtg": 131.5,
+        "dRtg": 106.4,
+        "tsPercent": 0.606,
+        "fTr": 0.137,
+        "orbPercent": 31.9,
+        "drbPercent": 78.7,
+        "trbPercent": 55.3,
+        "astPercent": 80.4,
+        "stlPercent": 3,
+        "blkPercent": 12.8,
+        "tovPercent": 10
+      }
+    ]
+  },
+  {
+    "gameId": "202501200LAC",
+    "date": "2025-01-20T15:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 112,
+    "homeTeam": "LAC",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 116.3,
+        "dRtg": 102.8,
+        "tsPercent": 0.531,
+        "fTr": 0.277,
+        "orbPercent": 36.2,
+        "drbPercent": 78.7,
+        "trbPercent": 57.4,
+        "astPercent": 65.8,
+        "stlPercent": 7.3,
+        "blkPercent": 11.5,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "LAC",
+        "oRtg": 102.8,
+        "dRtg": 116.3,
+        "tsPercent": 0.488,
+        "fTr": 0.181,
+        "orbPercent": 21.3,
+        "drbPercent": 63.8,
+        "trbPercent": 42.6,
+        "astPercent": 64.9,
+        "stlPercent": 4.2,
+        "blkPercent": 14.6,
+        "tovPercent": 9
+      }
+    ]
+  },
+  {
+    "gameId": "202501190POR",
+    "date": "2025-01-19T14:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 102,
+    "homeTeam": "POR",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 102.6,
+        "dRtg": 113.6,
+        "tsPercent": 0.552,
+        "fTr": 0.321,
+        "orbPercent": 18.2,
+        "drbPercent": 66.7,
+        "trbPercent": 41.9,
+        "astPercent": 58.3,
+        "stlPercent": 10.1,
+        "blkPercent": 12.1,
+        "tovPercent": 14.8
+      },
+      {
+        "team": "POR",
+        "oRtg": 113.6,
+        "dRtg": 102.6,
+        "tsPercent": 0.565,
+        "fTr": 0.281,
+        "orbPercent": 33.3,
+        "drbPercent": 81.8,
+        "trbPercent": 58.1,
+        "astPercent": 50,
+        "stlPercent": 7,
+        "blkPercent": 11.5,
+        "tovPercent": 15.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501170CHI",
+    "date": "2025-01-17T13:00:00Z",
+    "visitorTeam": "CHA",
+    "visitorPts": 125,
+    "homeTeam": "CHI",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "CHO",
+        "oRtg": 123.7,
+        "dRtg": 121.8,
+        "tsPercent": 0.596,
+        "fTr": 0.208,
+        "orbPercent": 28.3,
+        "drbPercent": 72.1,
+        "trbPercent": 49.4,
+        "astPercent": 54.2,
+        "stlPercent": 8.9,
+        "blkPercent": 3.6,
+        "tovPercent": 10.3
+      },
+      {
+        "team": "CHI",
+        "oRtg": 121.8,
+        "dRtg": 123.7,
+        "tsPercent": 0.608,
+        "fTr": 0.147,
+        "orbPercent": 27.9,
+        "drbPercent": 71.7,
+        "trbPercent": 50.6,
+        "astPercent": 70.8,
+        "stlPercent": 8.9,
+        "blkPercent": 4.8,
+        "tovPercent": 12.2
+      }
+    ]
+  },
+  {
+    "gameId": "202501150CHI",
+    "date": "2025-01-15T13:00:00Z",
+    "visitorTeam": "ATL",
+    "visitorPts": 110,
+    "homeTeam": "CHI",
+    "homePts": 94,
+    "teamGameAdvStats": [
+      {
+        "team": "ATL",
+        "oRtg": 106,
+        "dRtg": 90.6,
+        "tsPercent": 0.501,
+        "fTr": 0.22,
+        "orbPercent": 23.7,
+        "drbPercent": 82.2,
+        "trbPercent": 49,
+        "astPercent": 68.3,
+        "stlPercent": 10.6,
+        "blkPercent": 8.2,
+        "tovPercent": 9.1
+      },
+      {
+        "team": "CHI",
+        "oRtg": 90.6,
+        "dRtg": 106,
+        "tsPercent": 0.509,
+        "fTr": 0.114,
+        "orbPercent": 17.8,
+        "drbPercent": 76.3,
+        "trbPercent": 51,
+        "astPercent": 59,
+        "stlPercent": 4.8,
+        "blkPercent": 8.8,
+        "tovPercent": 17.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501140CHI",
+    "date": "2025-01-14T13:00:00Z",
+    "visitorTeam": "NOP",
+    "visitorPts": 119,
+    "homeTeam": "CHI",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "NOP",
+        "oRtg": 117.7,
+        "dRtg": 111.8,
+        "tsPercent": 0.554,
+        "fTr": 0.271,
+        "orbPercent": 25,
+        "drbPercent": 64.7,
+        "trbPercent": 44.7,
+        "astPercent": 76.2,
+        "stlPercent": 10.9,
+        "blkPercent": 8.5,
+        "tovPercent": 8.5
+      },
+      {
+        "team": "CHI",
+        "oRtg": 111.8,
+        "dRtg": 117.7,
+        "tsPercent": 0.527,
+        "fTr": 0.118,
+        "orbPercent": 35.3,
+        "drbPercent": 75,
+        "trbPercent": 55.3,
+        "astPercent": 68.9,
+        "stlPercent": 7.9,
+        "blkPercent": 13,
+        "tovPercent": 12.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501120CHI",
+    "date": "2025-01-12T08:30:00Z",
+    "visitorTeam": "SAC",
+    "visitorPts": 124,
+    "homeTeam": "CHI",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "SAC",
+        "oRtg": 124,
+        "dRtg": 119,
+        "tsPercent": 0.595,
+        "fTr": 0.221,
+        "orbPercent": 22.9,
+        "drbPercent": 84,
+        "trbPercent": 54.1,
+        "astPercent": 70.2,
+        "stlPercent": 4,
+        "blkPercent": 5.4,
+        "tovPercent": 7.1
+      },
+      {
+        "team": "CHI",
+        "oRtg": 119,
+        "dRtg": 124,
+        "tsPercent": 0.584,
+        "fTr": 0.215,
+        "orbPercent": 16,
+        "drbPercent": 77.1,
+        "trbPercent": 45.9,
+        "astPercent": 60.5,
+        "stlPercent": 4,
+        "blkPercent": 7.1,
+        "tovPercent": 7.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501100CHI",
+    "date": "2025-01-10T13:00:00Z",
+    "visitorTeam": "WAS",
+    "visitorPts": 105,
+    "homeTeam": "CHI",
+    "homePts": 138,
+    "teamGameAdvStats": [
+      {
+        "team": "WAS",
+        "oRtg": 100.5,
+        "dRtg": 132.1,
+        "tsPercent": 0.506,
+        "fTr": 0.133,
+        "orbPercent": 22.8,
+        "drbPercent": 74.4,
+        "trbPercent": 45,
+        "astPercent": 66.7,
+        "stlPercent": 5.7,
+        "blkPercent": 8.7,
+        "tovPercent": 13.4
+      },
+      {
+        "team": "CHI",
+        "oRtg": 132.1,
+        "dRtg": 100.5,
+        "tsPercent": 0.682,
+        "fTr": 0.147,
+        "orbPercent": 25.6,
+        "drbPercent": 77.2,
+        "trbPercent": 55,
+        "astPercent": 73.6,
+        "stlPercent": 10.5,
+        "blkPercent": 13.5,
+        "tovPercent": 12.9
+      }
+    ]
+  },
+  {
+    "gameId": "202501080IND",
+    "date": "2025-01-08T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 113,
+    "homeTeam": "IND",
+    "homePts": 129,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 109.2,
+        "dRtg": 124.7,
+        "tsPercent": 0.599,
+        "fTr": 0.221,
+        "orbPercent": 22.5,
+        "drbPercent": 66.7,
+        "trbPercent": 45.9,
+        "astPercent": 52.3,
+        "stlPercent": 5.8,
+        "blkPercent": 8.5,
+        "tovPercent": 16
+      },
+      {
+        "team": "IND",
+        "oRtg": 124.7,
+        "dRtg": 109.2,
+        "tsPercent": 0.583,
+        "fTr": 0.24,
+        "orbPercent": 33.3,
+        "drbPercent": 77.5,
+        "trbPercent": 54.1,
+        "astPercent": 71.2,
+        "stlPercent": 10.6,
+        "blkPercent": 2,
+        "tovPercent": 10.5
+      }
+    ]
+  },
+  {
+    "gameId": "202501060CHI",
+    "date": "2025-01-06T13:00:00Z",
+    "visitorTeam": "SAS",
+    "visitorPts": 110,
+    "homeTeam": "CHI",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "SAS",
+        "oRtg": 107.3,
+        "dRtg": 111.2,
+        "tsPercent": 0.548,
+        "fTr": 0.126,
+        "orbPercent": 28.3,
+        "drbPercent": 72,
+        "trbPercent": 51,
+        "astPercent": 70.5,
+        "stlPercent": 7.8,
+        "blkPercent": 19,
+        "tovPercent": 14.5
+      },
+      {
+        "team": "CHI",
+        "oRtg": 111.2,
+        "dRtg": 107.3,
+        "tsPercent": 0.525,
+        "fTr": 0.147,
+        "orbPercent": 28,
+        "drbPercent": 71.7,
+        "trbPercent": 49,
+        "astPercent": 56.8,
+        "stlPercent": 11.7,
+        "blkPercent": 8.2,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202501040CHI",
+    "date": "2025-01-04T13:00:00Z",
+    "visitorTeam": "NYK",
+    "visitorPts": 126,
+    "homeTeam": "CHI",
+    "homePts": 139,
+    "teamGameAdvStats": [
+      {
+        "team": "NYK",
+        "oRtg": 121.8,
+        "dRtg": 134.4,
+        "tsPercent": 0.576,
+        "fTr": 0.289,
+        "orbPercent": 34.6,
+        "drbPercent": 77.5,
+        "trbPercent": 53.3,
+        "astPercent": 56.3,
+        "stlPercent": 6.8,
+        "blkPercent": 5.3,
+        "tovPercent": 10.6
+      },
+      {
+        "team": "CHI",
+        "oRtg": 134.4,
+        "dRtg": 121.8,
+        "tsPercent": 0.682,
+        "fTr": 0.191,
+        "orbPercent": 22.5,
+        "drbPercent": 65.4,
+        "trbPercent": 46.7,
+        "astPercent": 70.6,
+        "stlPercent": 5.8,
+        "blkPercent": 6,
+        "tovPercent": 11.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501010WAS",
+    "date": "2025-01-01T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 107,
+    "homeTeam": "WAS",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 98,
+        "dRtg": 114.5,
+        "tsPercent": 0.545,
+        "fTr": 0.152,
+        "orbPercent": 19,
+        "drbPercent": 81.8,
+        "trbPercent": 51.2,
+        "astPercent": 68.3,
+        "stlPercent": 10.1,
+        "blkPercent": 9.5,
+        "tovPercent": 16.9
+      },
+      {
+        "team": "WAS",
+        "oRtg": 114.5,
+        "dRtg": 98,
+        "tsPercent": 0.599,
+        "fTr": 0.121,
+        "orbPercent": 18.2,
+        "drbPercent": 81,
+        "trbPercent": 48.8,
+        "astPercent": 73.5,
+        "stlPercent": 10.1,
+        "blkPercent": 6.7,
+        "tovPercent": 14
+      }
+    ]
+  },
+  {
+    "gameId": "202412300CHO",
+    "date": "2024-12-30T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 115,
+    "homeTeam": "CHA",
+    "homePts": 108,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 101.3,
+        "dRtg": 95.1,
+        "tsPercent": 0.496,
+        "fTr": 0.26,
+        "orbPercent": 23,
+        "drbPercent": 84.5,
+        "trbPercent": 52.9,
+        "astPercent": 79.5,
+        "stlPercent": 9.7,
+        "blkPercent": 6.9,
+        "tovPercent": 11.5
+      },
+      {
+        "team": "CHO",
+        "oRtg": 95.1,
+        "dRtg": 101.3,
+        "tsPercent": 0.492,
+        "fTr": 0.198,
+        "orbPercent": 15.5,
+        "drbPercent": 77,
+        "trbPercent": 47.1,
+        "astPercent": 54.8,
+        "stlPercent": 7,
+        "blkPercent": 13.6,
+        "tovPercent": 11.3
+      }
+    ]
+  },
+  {
+    "gameId": "202412280CHI",
+    "date": "2024-12-28T13:00:00Z",
+    "visitorTeam": "MIL",
+    "visitorPts": 111,
+    "homeTeam": "CHI",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "MIL",
+        "oRtg": 106.8,
+        "dRtg": 111.6,
+        "tsPercent": 0.513,
+        "fTr": 0.137,
+        "orbPercent": 12.8,
+        "drbPercent": 77.1,
+        "trbPercent": 45.3,
+        "astPercent": 65.9,
+        "stlPercent": 5.8,
+        "blkPercent": 11.9,
+        "tovPercent": 6.9
+      },
+      {
+        "team": "CHI",
+        "oRtg": 111.6,
+        "dRtg": 106.8,
+        "tsPercent": 0.566,
+        "fTr": 0.179,
+        "orbPercent": 22.9,
+        "drbPercent": 87.2,
+        "trbPercent": 54.7,
+        "astPercent": 73.3,
+        "stlPercent": 3.8,
+        "blkPercent": 10.5,
+        "tovPercent": 9.7
+      }
+    ]
+  },
+  {
+    "gameId": "202412260ATL",
+    "date": "2024-12-26T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 133,
+    "homeTeam": "ATL",
+    "homePts": 141,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 127.7,
+        "dRtg": 135.4,
+        "tsPercent": 0.661,
+        "fTr": 0.061,
+        "orbPercent": 22,
+        "drbPercent": 69.2,
+        "trbPercent": 45,
+        "astPercent": 67.9,
+        "stlPercent": 7.7,
+        "blkPercent": 2.3,
+        "tovPercent": 13.7
+      },
+      {
+        "team": "ATL",
+        "oRtg": 135.4,
+        "dRtg": 127.7,
+        "tsPercent": 0.678,
+        "fTr": 0.382,
+        "orbPercent": 30.8,
+        "drbPercent": 78,
+        "trbPercent": 55,
+        "astPercent": 69.6,
+        "stlPercent": 8.6,
+        "blkPercent": 9.1,
+        "tovPercent": 11.9
+      }
+    ]
+  },
+  {
+    "gameId": "202412230CHI",
+    "date": "2024-12-23T13:00:00Z",
+    "visitorTeam": "MIL",
+    "visitorPts": 112,
+    "homeTeam": "CHI",
+    "homePts": 91,
+    "teamGameAdvStats": [
+      {
+        "team": "MIL",
+        "oRtg": 112.9,
+        "dRtg": 91.7,
+        "tsPercent": 0.593,
+        "fTr": 0.195,
+        "orbPercent": 15.9,
+        "drbPercent": 82.4,
+        "trbPercent": 51.6,
+        "astPercent": 60,
+        "stlPercent": 7.1,
+        "blkPercent": 2.4,
+        "tovPercent": 12.1
+      },
+      {
+        "team": "CHI",
+        "oRtg": 91.7,
+        "dRtg": 112.9,
+        "tsPercent": 0.478,
+        "fTr": 0.133,
+        "orbPercent": 17.6,
+        "drbPercent": 84.1,
+        "trbPercent": 48.4,
+        "astPercent": 75,
+        "stlPercent": 9.1,
+        "blkPercent": 2.3,
+        "tovPercent": 13.6
+      }
+    ]
+  },
+  {
+    "gameId": "202412210CHI",
+    "date": "2024-12-21T13:00:00Z",
+    "visitorTeam": "BOS",
+    "visitorPts": 123,
+    "homeTeam": "CHI",
+    "homePts": 98,
+    "teamGameAdvStats": [
+      {
+        "team": "BOS",
+        "oRtg": 122.1,
+        "dRtg": 97.3,
+        "tsPercent": 0.579,
+        "fTr": 0.14,
+        "orbPercent": 34,
+        "drbPercent": 80.8,
+        "trbPercent": 57.8,
+        "astPercent": 56.3,
+        "stlPercent": 7.9,
+        "blkPercent": 7,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "CHI",
+        "oRtg": 97.3,
+        "dRtg": 122.1,
+        "tsPercent": 0.476,
+        "fTr": 0.112,
+        "orbPercent": 19.2,
+        "drbPercent": 66,
+        "trbPercent": 42.2,
+        "astPercent": 75.7,
+        "stlPercent": 7.9,
+        "blkPercent": 7.3,
+        "tovPercent": 11.2
+      }
+    ]
+  },
+  {
+    "gameId": "202412190BOS",
+    "date": "2024-12-19T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 117,
+    "homeTeam": "BOS",
+    "homePts": 108,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 119.5,
+        "dRtg": 110.3,
+        "tsPercent": 0.579,
+        "fTr": 0.17,
+        "orbPercent": 24.4,
+        "drbPercent": 80.4,
+        "trbPercent": 55.4,
+        "astPercent": 54.8,
+        "stlPercent": 2,
+        "blkPercent": 4.9,
+        "tovPercent": 10.6
+      },
+      {
+        "team": "BOS",
+        "oRtg": 110.3,
+        "dRtg": 119.5,
+        "tsPercent": 0.508,
+        "fTr": 0.216,
+        "orbPercent": 19.6,
+        "drbPercent": 75.6,
+        "trbPercent": 44.6,
+        "astPercent": 55.3,
+        "stlPercent": 6.1,
+        "blkPercent": 19,
+        "tovPercent": 3.6
+      }
+    ]
+  },
+  {
+    "gameId": "202412160TOR",
+    "date": "2024-12-16T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 122,
+    "homeTeam": "TOR",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 112.8,
+        "dRtg": 111.9,
+        "tsPercent": 0.579,
+        "fTr": 0.301,
+        "orbPercent": 19,
+        "drbPercent": 76.7,
+        "trbPercent": 48.2,
+        "astPercent": 76.7,
+        "stlPercent": 11.1,
+        "blkPercent": 12.1,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "TOR",
+        "oRtg": 111.9,
+        "dRtg": 112.8,
+        "tsPercent": 0.575,
+        "fTr": 0.326,
+        "orbPercent": 23.3,
+        "drbPercent": 81,
+        "trbPercent": 51.8,
+        "astPercent": 62.2,
+        "stlPercent": 6.5,
+        "blkPercent": 11.3,
+        "tovPercent": 14.6
+      }
+    ]
+  },
+  {
+    "gameId": "202412130CHI",
+    "date": "2024-12-13T13:00:00Z",
+    "visitorTeam": "CHA",
+    "visitorPts": 95,
+    "homeTeam": "CHI",
+    "homePts": 109,
+    "teamGameAdvStats": [
+      {
+        "team": "CHO",
+        "oRtg": 92.6,
+        "dRtg": 106.3,
+        "tsPercent": 0.443,
+        "fTr": 0.214,
+        "orbPercent": 30.9,
+        "drbPercent": 72.5,
+        "trbPercent": 50.9,
+        "astPercent": 62.9,
+        "stlPercent": 6.8,
+        "blkPercent": 11.9,
+        "tovPercent": 13.7
+      },
+      {
+        "team": "CHI",
+        "oRtg": 106.3,
+        "dRtg": 92.6,
+        "tsPercent": 0.524,
+        "fTr": 0.269,
+        "orbPercent": 27.5,
+        "drbPercent": 69.1,
+        "trbPercent": 49.1,
+        "astPercent": 73,
+        "stlPercent": 11.7,
+        "blkPercent": 21.2,
+        "tovPercent": 13.3
+      }
+    ]
+  },
+  {
+    "gameId": "202412080CHI",
+    "date": "2024-12-08T06:00:00Z",
+    "visitorTeam": "PHI",
+    "visitorPts": 108,
+    "homeTeam": "CHI",
+    "homePts": 100,
+    "teamGameAdvStats": [
+      {
+        "team": "PHI",
+        "oRtg": 105.4,
+        "dRtg": 97.6,
+        "tsPercent": 0.55,
+        "fTr": 0.152,
+        "orbPercent": 23.3,
+        "drbPercent": 95.8,
+        "trbPercent": 61.5,
+        "astPercent": 58.1,
+        "stlPercent": 7.8,
+        "blkPercent": 15.6,
+        "tovPercent": 14
+      },
+      {
+        "team": "CHI",
+        "oRtg": 97.6,
+        "dRtg": 105.4,
+        "tsPercent": 0.548,
+        "fTr": 0.14,
+        "orbPercent": 4.2,
+        "drbPercent": 76.7,
+        "trbPercent": 38.5,
+        "astPercent": 82.9,
+        "stlPercent": 8.8,
+        "blkPercent": 5.4,
+        "tovPercent": 14.1
+      }
+    ]
+  },
+  {
+    "gameId": "202412060CHI",
+    "date": "2024-12-06T13:00:00Z",
+    "visitorTeam": "IND",
+    "visitorPts": 132,
+    "homeTeam": "CHI",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "IND",
+        "oRtg": 128,
+        "dRtg": 119.3,
+        "tsPercent": 0.678,
+        "fTr": 0.13,
+        "orbPercent": 18.9,
+        "drbPercent": 83,
+        "trbPercent": 54.8,
+        "astPercent": 63.5,
+        "stlPercent": 8.7,
+        "blkPercent": 8.5,
+        "tovPercent": 11.8
+      },
+      {
+        "team": "CHI",
+        "oRtg": 119.3,
+        "dRtg": 128,
+        "tsPercent": 0.601,
+        "fTr": 0.124,
+        "orbPercent": 17,
+        "drbPercent": 81.1,
+        "trbPercent": 45.2,
+        "astPercent": 71.7,
+        "stlPercent": 7.8,
+        "blkPercent": 9.7,
+        "tovPercent": 10.5
+      }
+    ]
+  },
+  {
+    "gameId": "202412050SAS",
+    "date": "2024-12-05T13:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 139,
+    "homeTeam": "SAS",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 130.8,
+        "dRtg": 116.7,
+        "tsPercent": 0.694,
+        "fTr": 0.256,
+        "orbPercent": 29.7,
+        "drbPercent": 72.2,
+        "trbPercent": 54.9,
+        "astPercent": 69.2,
+        "stlPercent": 5.6,
+        "blkPercent": 7.5,
+        "tovPercent": 16
+      },
+      {
+        "team": "SAS",
+        "oRtg": 116.7,
+        "dRtg": 130.8,
+        "tsPercent": 0.553,
+        "fTr": 0.411,
+        "orbPercent": 27.8,
+        "drbPercent": 70.3,
+        "trbPercent": 45.1,
+        "astPercent": 59.1,
+        "stlPercent": 10.4,
+        "blkPercent": 7.5,
+        "tovPercent": 8.9
+      }
+    ]
+  },
+  {
+    "gameId": "202412020CHI",
+    "date": "2024-12-02T13:00:00Z",
+    "visitorTeam": "BKN",
+    "visitorPts": 102,
+    "homeTeam": "CHI",
+    "homePts": 128,
+    "teamGameAdvStats": [
+      {
+        "team": "BRK",
+        "oRtg": 98.7,
+        "dRtg": 123.8,
+        "tsPercent": 0.502,
+        "fTr": 0.158,
+        "orbPercent": 18.9,
+        "drbPercent": 73.8,
+        "trbPercent": 43.2,
+        "astPercent": 63.2,
+        "stlPercent": 8.7,
+        "blkPercent": 11.1,
+        "tovPercent": 11.3
+      },
+      {
+        "team": "CHI",
+        "oRtg": 123.8,
+        "dRtg": 98.7,
+        "tsPercent": 0.638,
+        "fTr": 0.207,
+        "orbPercent": 26.2,
+        "drbPercent": 81.1,
+        "trbPercent": 56.8,
+        "astPercent": 68.8,
+        "stlPercent": 7.7,
+        "blkPercent": 9.4,
+        "tovPercent": 14.5
+      }
+    ]
+  },
+  {
+    "gameId": "202411290CHI",
+    "date": "2024-11-29T13:00:00Z",
+    "visitorTeam": "BOS",
+    "visitorPts": 138,
+    "homeTeam": "CHI",
+    "homePts": 129,
+    "teamGameAdvStats": [
+      {
+        "team": "BOS",
+        "oRtg": 133.7,
+        "dRtg": 125,
+        "tsPercent": 0.638,
+        "fTr": 0.235,
+        "orbPercent": 22.4,
+        "drbPercent": 88.9,
+        "trbPercent": 54.3,
+        "astPercent": 49,
+        "stlPercent": 5.8,
+        "blkPercent": 4.8,
+        "tovPercent": 7.7
+      },
+      {
+        "team": "CHI",
+        "oRtg": 125,
+        "dRtg": 133.7,
+        "tsPercent": 0.645,
+        "fTr": 0.172,
+        "orbPercent": 11.1,
+        "drbPercent": 77.6,
+        "trbPercent": 45.7,
+        "astPercent": 58.3,
+        "stlPercent": 6.8,
+        "blkPercent": 4.5,
+        "tovPercent": 7.4
+      }
+    ]
+  },
+  {
+    "gameId": "202411270ORL",
+    "date": "2024-11-27T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 119,
+    "homeTeam": "ORL",
+    "homePts": 133,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 114,
+        "dRtg": 127.4,
+        "tsPercent": 0.633,
+        "fTr": 0.184,
+        "orbPercent": 17.9,
+        "drbPercent": 81.1,
+        "trbPercent": 48.7,
+        "astPercent": 65.2,
+        "stlPercent": 8.6,
+        "blkPercent": 11.8,
+        "tovPercent": 16.1
+      },
+      {
+        "team": "ORL",
+        "oRtg": 127.4,
+        "dRtg": 114,
+        "tsPercent": 0.65,
+        "fTr": 0.311,
+        "orbPercent": 18.9,
+        "drbPercent": 82.1,
+        "trbPercent": 51.3,
+        "astPercent": 65.2,
+        "stlPercent": 9.6,
+        "blkPercent": 17.8,
+        "tovPercent": 11.3
+      }
+    ]
+  },
+  {
+    "gameId": "202411260WAS",
+    "date": "2024-11-26T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 127,
+    "homeTeam": "WAS",
+    "homePts": 108,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 117.3,
+        "dRtg": 99.8,
+        "tsPercent": 0.612,
+        "fTr": 0.234,
+        "orbPercent": 17.4,
+        "drbPercent": 89.4,
+        "trbPercent": 53.8,
+        "astPercent": 61.7,
+        "stlPercent": 5.5,
+        "blkPercent": 7.4,
+        "tovPercent": 9.6
+      },
+      {
+        "team": "WAS",
+        "oRtg": 99.8,
+        "dRtg": 117.3,
+        "tsPercent": 0.516,
+        "fTr": 0.341,
+        "orbPercent": 10.6,
+        "drbPercent": 82.6,
+        "trbPercent": 46.2,
+        "astPercent": 69.2,
+        "stlPercent": 6.5,
+        "blkPercent": 5.6,
+        "tovPercent": 11.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411230CHI",
+    "date": "2024-11-23T13:00:00Z",
+    "visitorTeam": "MEM",
+    "visitorPts": 142,
+    "homeTeam": "CHI",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "MEM",
+        "oRtg": 136.9,
+        "dRtg": 126.3,
+        "tsPercent": 0.677,
+        "fTr": 0.208,
+        "orbPercent": 34.2,
+        "drbPercent": 78.3,
+        "trbPercent": 58.3,
+        "astPercent": 69.1,
+        "stlPercent": 4.8,
+        "blkPercent": 7.3,
+        "tovPercent": 11.8
+      },
+      {
+        "team": "CHI",
+        "oRtg": 126.3,
+        "dRtg": 136.9,
+        "tsPercent": 0.622,
+        "fTr": 0.196,
+        "orbPercent": 21.7,
+        "drbPercent": 65.8,
+        "trbPercent": 41.7,
+        "astPercent": 59.2,
+        "stlPercent": 3.9,
+        "blkPercent": 14.8,
+        "tovPercent": 9.5
+      }
+    ]
+  },
+  {
+    "gameId": "202411220CHI",
+    "date": "2024-11-22T13:00:00Z",
+    "visitorTeam": "ATL",
+    "visitorPts": 122,
+    "homeTeam": "CHI",
+    "homePts": 136,
+    "teamGameAdvStats": [
+      {
+        "team": "ATL",
+        "oRtg": 113.2,
+        "dRtg": 126.1,
+        "tsPercent": 0.529,
+        "fTr": 0.178,
+        "orbPercent": 28,
+        "drbPercent": 84.8,
+        "trbPercent": 50.6,
+        "astPercent": 65.3,
+        "stlPercent": 10.2,
+        "blkPercent": 9.3,
+        "tovPercent": 8.7
+      },
+      {
+        "team": "CHI",
+        "oRtg": 126.1,
+        "dRtg": 113.2,
+        "tsPercent": 0.714,
+        "fTr": 0.244,
+        "orbPercent": 15.2,
+        "drbPercent": 72,
+        "trbPercent": 49.4,
+        "astPercent": 73.5,
+        "stlPercent": 7.4,
+        "blkPercent": 13.7,
+        "tovPercent": 16.6
+      }
+    ]
+  },
+  {
+    "gameId": "202411200MIL",
+    "date": "2024-11-20T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 106,
+    "homeTeam": "MIL",
+    "homePts": 122,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 110,
+        "dRtg": 126.6,
+        "tsPercent": 0.582,
+        "fTr": 0.08,
+        "orbPercent": 12.5,
+        "drbPercent": 73.7,
+        "trbPercent": 42.3,
+        "astPercent": 61,
+        "stlPercent": 7.3,
+        "blkPercent": 4.5,
+        "tovPercent": 13.3
+      },
+      {
+        "team": "MIL",
+        "oRtg": 126.6,
+        "dRtg": 110,
+        "tsPercent": 0.651,
+        "fTr": 0.388,
+        "orbPercent": 26.3,
+        "drbPercent": 87.5,
+        "trbPercent": 57.7,
+        "astPercent": 68.2,
+        "stlPercent": 7.3,
+        "blkPercent": 4.7,
+        "tovPercent": 11.4
+      }
+    ]
+  },
+  {
+    "gameId": "202411180DET",
+    "date": "2024-11-18T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 122,
+    "homeTeam": "DET",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 127.2,
+        "dRtg": 116.8,
+        "tsPercent": 0.628,
+        "fTr": 0.154,
+        "orbPercent": 23.8,
+        "drbPercent": 69.2,
+        "trbPercent": 48.9,
+        "astPercent": 63.6,
+        "stlPercent": 3.1,
+        "blkPercent": 9.3,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "DET",
+        "oRtg": 116.8,
+        "dRtg": 127.2,
+        "tsPercent": 0.527,
+        "fTr": 0.194,
+        "orbPercent": 30.8,
+        "drbPercent": 76.2,
+        "trbPercent": 51.1,
+        "astPercent": 64.3,
+        "stlPercent": 3.1,
+        "blkPercent": 6.7,
+        "tovPercent": 7.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411170CHI",
+    "date": "2024-11-17T12:00:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 143,
+    "homeTeam": "CHI",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 125,
+        "dRtg": 93.5,
+        "tsPercent": 0.6,
+        "fTr": 0.305,
+        "orbPercent": 29.2,
+        "drbPercent": 80,
+        "trbPercent": 58.4,
+        "astPercent": 61.8,
+        "stlPercent": 7,
+        "blkPercent": 17.6,
+        "tovPercent": 8.5
+      },
+      {
+        "team": "CHI",
+        "oRtg": 93.5,
+        "dRtg": 125,
+        "tsPercent": 0.459,
+        "fTr": 0.206,
+        "orbPercent": 20,
+        "drbPercent": 70.8,
+        "trbPercent": 41.6,
+        "astPercent": 72.2,
+        "stlPercent": 7,
+        "blkPercent": 9.9,
+        "tovPercent": 11.4
+      }
+    ]
+  },
+  {
+    "gameId": "202411150CLE",
+    "date": "2024-11-15T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 126,
+    "homeTeam": "CLE",
+    "homePts": 144,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 114.4,
+        "dRtg": 130.8,
+        "tsPercent": 0.651,
+        "fTr": 0.227,
+        "orbPercent": 7.7,
+        "drbPercent": 89.2,
+        "trbPercent": 47.4,
+        "astPercent": 71.1,
+        "stlPercent": 6.4,
+        "blkPercent": 8,
+        "tovPercent": 14.9
+      },
+      {
+        "team": "CLE",
+        "oRtg": 130.8,
+        "dRtg": 114.4,
+        "tsPercent": 0.695,
+        "fTr": 0.258,
+        "orbPercent": 10.8,
+        "drbPercent": 92.3,
+        "trbPercent": 52.6,
+        "astPercent": 64.7,
+        "stlPercent": 10,
+        "blkPercent": 13,
+        "tovPercent": 11.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411130NYK",
+    "date": "2024-11-13T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 124,
+    "homeTeam": "NYK",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 119.3,
+        "dRtg": 118.3,
+        "tsPercent": 0.66,
+        "fTr": 0.329,
+        "orbPercent": 18.9,
+        "drbPercent": 76.7,
+        "trbPercent": 50,
+        "astPercent": 70.5,
+        "stlPercent": 9.6,
+        "blkPercent": 10.5,
+        "tovPercent": 16.1
+      },
+      {
+        "team": "NYK",
+        "oRtg": 118.3,
+        "dRtg": 119.3,
+        "tsPercent": 0.603,
+        "fTr": 0.191,
+        "orbPercent": 23.3,
+        "drbPercent": 81.1,
+        "trbPercent": 50,
+        "astPercent": 64.6,
+        "stlPercent": 6.7,
+        "blkPercent": 6.5,
+        "tovPercent": 12.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411110CHI",
+    "date": "2024-11-11T13:00:00Z",
+    "visitorTeam": "CLE",
+    "visitorPts": 119,
+    "homeTeam": "CHI",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "CLE",
+        "oRtg": 114.6,
+        "dRtg": 108.8,
+        "tsPercent": 0.553,
+        "fTr": 0.247,
+        "orbPercent": 21.8,
+        "drbPercent": 79.5,
+        "trbPercent": 45.7,
+        "astPercent": 60.5,
+        "stlPercent": 13.5,
+        "blkPercent": 6.1,
+        "tovPercent": 7.7
+      },
+      {
+        "team": "CHI",
+        "oRtg": 108.8,
+        "dRtg": 114.6,
+        "tsPercent": 0.601,
+        "fTr": 0.184,
+        "orbPercent": 20.5,
+        "drbPercent": 78.2,
+        "trbPercent": 54.3,
+        "astPercent": 60.5,
+        "stlPercent": 6.7,
+        "blkPercent": 9.6,
+        "tovPercent": 18.3
+      }
+    ]
+  },
+  {
+    "gameId": "202411090ATL",
+    "date": "2024-11-09T12:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 125,
+    "homeTeam": "ATL",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 120.6,
+        "dRtg": 109,
+        "tsPercent": 0.612,
+        "fTr": 0.25,
+        "orbPercent": 31,
+        "drbPercent": 77.3,
+        "trbPercent": 54.7,
+        "astPercent": 65.2,
+        "stlPercent": 11.6,
+        "blkPercent": 10,
+        "tovPercent": 15
+      },
+      {
+        "team": "ATL",
+        "oRtg": 109,
+        "dRtg": 120.6,
+        "tsPercent": 0.553,
+        "fTr": 0.337,
+        "orbPercent": 22.7,
+        "drbPercent": 69,
+        "trbPercent": 45.3,
+        "astPercent": 75.6,
+        "stlPercent": 7.7,
+        "blkPercent": 9.4,
+        "tovPercent": 12
+      }
+    ]
+  },
+  {
+    "gameId": "202411070CHI",
+    "date": "2024-11-07T13:00:00Z",
+    "visitorTeam": "MIN",
+    "visitorPts": 135,
+    "homeTeam": "CHI",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "MIN",
+        "oRtg": 137.9,
+        "dRtg": 121.6,
+        "tsPercent": 0.672,
+        "fTr": 0.183,
+        "orbPercent": 31.3,
+        "drbPercent": 75,
+        "trbPercent": 55.6,
+        "astPercent": 56.9,
+        "stlPercent": 7.2,
+        "blkPercent": 7.7,
+        "tovPercent": 12.2
+      },
+      {
+        "team": "CHI",
+        "oRtg": 121.6,
+        "dRtg": 137.9,
+        "tsPercent": 0.629,
+        "fTr": 0.17,
+        "orbPercent": 25,
+        "drbPercent": 68.8,
+        "trbPercent": 44.4,
+        "astPercent": 63.8,
+        "stlPercent": 9.2,
+        "blkPercent": 7.3,
+        "tovPercent": 12.1
+      }
+    ]
+  },
+  {
+    "gameId": "202411060DAL",
+    "date": "2024-11-06T13:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 99,
+    "homeTeam": "DAL",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 94.2,
+        "dRtg": 113.3,
+        "tsPercent": 0.515,
+        "fTr": 0.267,
+        "orbPercent": 26.9,
+        "drbPercent": 80.4,
+        "trbPercent": 52,
+        "astPercent": 69.4,
+        "stlPercent": 7.6,
+        "blkPercent": 3.6,
+        "tovPercent": 19.3
+      },
+      {
+        "team": "DAL",
+        "oRtg": 113.3,
+        "dRtg": 94.2,
+        "tsPercent": 0.582,
+        "fTr": 0.226,
+        "orbPercent": 19.6,
+        "drbPercent": 73.1,
+        "trbPercent": 48,
+        "astPercent": 73.3,
+        "stlPercent": 10.5,
+        "blkPercent": 9.1,
+        "tovPercent": 12.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411040CHI",
+    "date": "2024-11-04T13:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 135,
+    "homeTeam": "CHI",
+    "homePts": 126,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 133.2,
+        "dRtg": 124.3,
+        "tsPercent": 0.66,
+        "fTr": 0.337,
+        "orbPercent": 31.6,
+        "drbPercent": 78.7,
+        "trbPercent": 57.6,
+        "astPercent": 72.9,
+        "stlPercent": 3,
+        "blkPercent": 10.3,
+        "tovPercent": 11.3
+      },
+      {
+        "team": "CHI",
+        "oRtg": 124.3,
+        "dRtg": 133.2,
+        "tsPercent": 0.594,
+        "fTr": 0.263,
+        "orbPercent": 21.3,
+        "drbPercent": 68.4,
+        "trbPercent": 42.4,
+        "astPercent": 80,
+        "stlPercent": 6.9,
+        "blkPercent": 13.2,
+        "tovPercent": 7.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411010BRK",
+    "date": "2024-11-01T11:30:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 112,
+    "homeTeam": "BKN",
+    "homePts": 120,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 110.7,
+        "dRtg": 118.6,
+        "tsPercent": 0.568,
+        "fTr": 0.273,
+        "orbPercent": 21.3,
+        "drbPercent": 79.1,
+        "trbPercent": 48.9,
+        "astPercent": 63.2,
+        "stlPercent": 4.9,
+        "blkPercent": 5.2,
+        "tovPercent": 14
+      },
+      {
+        "team": "BRK",
+        "oRtg": 118.6,
+        "dRtg": 110.7,
+        "tsPercent": 0.602,
+        "fTr": 0.138,
+        "orbPercent": 20.9,
+        "drbPercent": 78.7,
+        "trbPercent": 51.1,
+        "astPercent": 69.4,
+        "stlPercent": 10.9,
+        "blkPercent": 13.6,
+        "tovPercent": 9.9
+      }
+    ]
+  },
+  {
+    "gameId": "202410300CHI",
+    "date": "2024-10-30T12:00:00Z",
+    "visitorTeam": "ORL",
+    "visitorPts": 99,
+    "homeTeam": "CHI",
+    "homePts": 102,
+    "teamGameAdvStats": [
+      {
+        "team": "ORL",
+        "oRtg": 99.8,
+        "dRtg": 102.9,
+        "tsPercent": 0.522,
+        "fTr": 0.233,
+        "orbPercent": 11.8,
+        "drbPercent": 80,
+        "trbPercent": 43.8,
+        "astPercent": 71.4,
+        "stlPercent": 9.1,
+        "blkPercent": 16,
+        "tovPercent": 11.2
+      },
+      {
+        "team": "CHI",
+        "oRtg": 102.9,
+        "dRtg": 99.8,
+        "tsPercent": 0.537,
+        "fTr": 0.298,
+        "orbPercent": 20,
+        "drbPercent": 88.2,
+        "trbPercent": 56.3,
+        "astPercent": 63.9,
+        "stlPercent": 6.1,
+        "blkPercent": 5,
+        "tovPercent": 13.6
+      }
+    ]
+  },
+  {
+    "gameId": "202410280MEM",
+    "date": "2024-10-28T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 126,
+    "homeTeam": "MEM",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 120.3,
+        "dRtg": 117.4,
+        "tsPercent": 0.586,
+        "fTr": 0.17,
+        "orbPercent": 20.8,
+        "drbPercent": 68.4,
+        "trbPercent": 45.5,
+        "astPercent": 80,
+        "stlPercent": 4.8,
+        "blkPercent": 8.8,
+        "tovPercent": 7.7
+      },
+      {
+        "team": "MEM",
+        "oRtg": 117.4,
+        "dRtg": 120.3,
+        "tsPercent": 0.527,
+        "fTr": 0.117,
+        "orbPercent": 31.6,
+        "drbPercent": 79.2,
+        "trbPercent": 54.5,
+        "astPercent": 72.5,
+        "stlPercent": 4.8,
+        "blkPercent": 19.1,
+        "tovPercent": 7.9
+      }
+    ]
+  },
+  {
+    "gameId": "202410260CHI",
+    "date": "2024-10-26T12:00:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 114,
+    "homeTeam": "CHI",
+    "homePts": 95,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 99.5,
+        "dRtg": 82.9,
+        "tsPercent": 0.492,
+        "fTr": 0.187,
+        "orbPercent": 15.3,
+        "drbPercent": 80.4,
+        "trbPercent": 47,
+        "astPercent": 46.7,
+        "stlPercent": 13.1,
+        "blkPercent": 12.8,
+        "tovPercent": 7.9
+      },
+      {
+        "team": "CHI",
+        "oRtg": 82.9,
+        "dRtg": 99.5,
+        "tsPercent": 0.467,
+        "fTr": 0.239,
+        "orbPercent": 19.6,
+        "drbPercent": 84.7,
+        "trbPercent": 53,
+        "astPercent": 71.9,
+        "stlPercent": 5.2,
+        "blkPercent": 3,
+        "tovPercent": 20.4
+      }
+    ]
+  },
+  {
+    "gameId": "202410250MIL",
+    "date": "2024-10-25T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 133,
+    "homeTeam": "MIL",
+    "homePts": 122,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 124.2,
+        "dRtg": 113.9,
+        "tsPercent": 0.627,
+        "fTr": 0.24,
+        "orbPercent": 18.8,
+        "drbPercent": 82.2,
+        "trbPercent": 49.5,
+        "astPercent": 65.2,
+        "stlPercent": 9.3,
+        "blkPercent": 7.5,
+        "tovPercent": 8.6
+      },
+      {
+        "team": "MIL",
+        "oRtg": 113.9,
+        "dRtg": 124.2,
+        "tsPercent": 0.587,
+        "fTr": 0.269,
+        "orbPercent": 17.8,
+        "drbPercent": 81.3,
+        "trbPercent": 50.5,
+        "astPercent": 52.2,
+        "stlPercent": 4.7,
+        "blkPercent": 6.1,
+        "tovPercent": 12.6
+      }
+    ]
+  },
+  {
+    "gameId": "202410230NOP",
+    "date": "2024-10-23T12:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 111,
+    "homeTeam": "NOP",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 102.7,
+        "dRtg": 113.8,
+        "tsPercent": 0.572,
+        "fTr": 0.291,
+        "orbPercent": 20.5,
+        "drbPercent": 84.4,
+        "trbPercent": 52.8,
+        "astPercent": 61.9,
+        "stlPercent": 3.7,
+        "blkPercent": 3.3,
+        "tovPercent": 17.8
+      },
+      {
+        "team": "NOP",
+        "oRtg": 113.8,
+        "dRtg": 102.7,
+        "tsPercent": 0.579,
+        "fTr": 0.216,
+        "orbPercent": 15.6,
+        "drbPercent": 79.5,
+        "trbPercent": 47.2,
+        "astPercent": 64.4,
+        "stlPercent": 13.9,
+        "blkPercent": 19.2,
+        "tovPercent": 10.1
+      }
+    ]
+  },
+  {
+    "gameId": "202404190MIA",
+    "date": "2024-04-19T11:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 91,
+    "homeTeam": "MIA",
+    "homePts": 112,
+    "teamGameAdvStats": []
+  }
+]

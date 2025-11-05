@@ -1,0 +1,3136 @@
+[
+  {
+    "gameId": "202504130MIN",
+    "date": "2025-04-13T07:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 105,
+    "homeTeam": "MIN",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 107.8,
+        "dRtg": 119.1,
+        "tsPercent": 0.559,
+        "fTr": 0.124,
+        "orbPercent": 19.6,
+        "drbPercent": 64.6,
+        "trbPercent": 42.6,
+        "astPercent": 60,
+        "stlPercent": 6.2,
+        "blkPercent": 9.1,
+        "tovPercent": 13
+      },
+      {
+        "team": "MIN",
+        "oRtg": 119.1,
+        "dRtg": 107.8,
+        "tsPercent": 0.552,
+        "fTr": 0.163,
+        "orbPercent": 35.4,
+        "drbPercent": 80.4,
+        "trbPercent": 57.4,
+        "astPercent": 50,
+        "stlPercent": 9.2,
+        "blkPercent": 19.1,
+        "tovPercent": 11
+      }
+    ]
+  },
+  {
+    "gameId": "202504110UTA",
+    "date": "2025-04-11T13:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 145,
+    "homeTeam": "UTA",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 134.6,
+        "dRtg": 103.1,
+        "tsPercent": 0.686,
+        "fTr": 0.13,
+        "orbPercent": 11.6,
+        "drbPercent": 68.9,
+        "trbPercent": 45.2,
+        "astPercent": 73.2,
+        "stlPercent": 11.1,
+        "blkPercent": 10,
+        "tovPercent": 8.6
+      },
+      {
+        "team": "UTA",
+        "oRtg": 103.1,
+        "dRtg": 134.6,
+        "tsPercent": 0.496,
+        "fTr": 0.194,
+        "orbPercent": 31.1,
+        "drbPercent": 88.4,
+        "trbPercent": 54.8,
+        "astPercent": 59,
+        "stlPercent": 6.5,
+        "blkPercent": 6.4,
+        "tovPercent": 12.5
+      }
+    ]
+  },
+  {
+    "gameId": "202504090UTA",
+    "date": "2025-04-09T13:00:00Z",
+    "visitorTeam": "POR",
+    "visitorPts": 126,
+    "homeTeam": "UTA",
+    "homePts": 133,
+    "teamGameAdvStats": [
+      {
+        "team": "POR",
+        "oRtg": 109.9,
+        "dRtg": 116.1,
+        "tsPercent": 0.542,
+        "fTr": 0.269,
+        "orbPercent": 25.9,
+        "drbPercent": 64.4,
+        "trbPercent": 43.4,
+        "astPercent": 56.3,
+        "stlPercent": 11.3,
+        "blkPercent": 8.1,
+        "tovPercent": 12.8
+      },
+      {
+        "team": "UTA",
+        "oRtg": 116.1,
+        "dRtg": 109.9,
+        "tsPercent": 0.618,
+        "fTr": 0.224,
+        "orbPercent": 35.6,
+        "drbPercent": 74.1,
+        "trbPercent": 56.6,
+        "astPercent": 54,
+        "stlPercent": 12.2,
+        "blkPercent": 6.8,
+        "tovPercent": 18.2
+      }
+    ]
+  },
+  {
+    "gameId": "202504060ATL",
+    "date": "2025-04-06T10:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 134,
+    "homeTeam": "ATL",
+    "homePts": 147,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 133,
+        "dRtg": 145.9,
+        "tsPercent": 0.675,
+        "fTr": 0.322,
+        "orbPercent": 18.4,
+        "drbPercent": 69.4,
+        "trbPercent": 43.2,
+        "astPercent": 64.4,
+        "stlPercent": 9.9,
+        "blkPercent": 7.4,
+        "tovPercent": 9.1
+      },
+      {
+        "team": "ATL",
+        "oRtg": 145.9,
+        "dRtg": 133,
+        "tsPercent": 0.708,
+        "fTr": 0.211,
+        "orbPercent": 30.6,
+        "drbPercent": 81.6,
+        "trbPercent": 56.8,
+        "astPercent": 79.6,
+        "stlPercent": 6.9,
+        "blkPercent": 7.5,
+        "tovPercent": 10.4
+      }
+    ]
+  },
+  {
+    "gameId": "202504040IND",
+    "date": "2025-04-04T11:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 112,
+    "homeTeam": "IND",
+    "homePts": 140,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 109.8,
+        "dRtg": 137.2,
+        "tsPercent": 0.495,
+        "fTr": 0.202,
+        "orbPercent": 32.2,
+        "drbPercent": 75,
+        "trbPercent": 50.5,
+        "astPercent": 53.8,
+        "stlPercent": 4.9,
+        "blkPercent": 1.8,
+        "tovPercent": 10.3
+      },
+      {
+        "team": "IND",
+        "oRtg": 137.2,
+        "dRtg": 109.8,
+        "tsPercent": 0.662,
+        "fTr": 0.427,
+        "orbPercent": 25,
+        "drbPercent": 67.8,
+        "trbPercent": 49.5,
+        "astPercent": 74.5,
+        "stlPercent": 7.8,
+        "blkPercent": 32.7,
+        "tovPercent": 6.2
+      }
+    ]
+  },
+  {
+    "gameId": "202504020HOU",
+    "date": "2025-04-02T12:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 105,
+    "homeTeam": "HOU",
+    "homePts": 143,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 102.6,
+        "dRtg": 139.8,
+        "tsPercent": 0.504,
+        "fTr": 0.245,
+        "orbPercent": 18.2,
+        "drbPercent": 61.7,
+        "trbPercent": 38.2,
+        "astPercent": 62.5,
+        "stlPercent": 6.8,
+        "blkPercent": 10.2,
+        "tovPercent": 8.8
+      },
+      {
+        "team": "HOU",
+        "oRtg": 139.8,
+        "dRtg": 102.6,
+        "tsPercent": 0.636,
+        "fTr": 0.183,
+        "orbPercent": 38.3,
+        "drbPercent": 81.8,
+        "trbPercent": 61.8,
+        "astPercent": 53.6,
+        "stlPercent": 3.9,
+        "blkPercent": 11.1,
+        "tovPercent": 8.2
+      }
+    ]
+  },
+  {
+    "gameId": "202503310CHO",
+    "date": "2025-03-31T11:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 106,
+    "homeTeam": "CHA",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 112.7,
+        "dRtg": 116.9,
+        "tsPercent": 0.517,
+        "fTr": 0.156,
+        "orbPercent": 27.5,
+        "drbPercent": 73,
+        "trbPercent": 46.6,
+        "astPercent": 64.1,
+        "stlPercent": 13.8,
+        "blkPercent": 4.8,
+        "tovPercent": 8.9
+      },
+      {
+        "team": "CHO",
+        "oRtg": 116.9,
+        "dRtg": 112.7,
+        "tsPercent": 0.638,
+        "fTr": 0.175,
+        "orbPercent": 27,
+        "drbPercent": 72.5,
+        "trbPercent": 53.4,
+        "astPercent": 76.7,
+        "stlPercent": 3.2,
+        "blkPercent": 11.4,
+        "tovPercent": 17.3
+      }
+    ]
+  },
+  {
+    "gameId": "202503280DEN",
+    "date": "2025-03-28T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 93,
+    "homeTeam": "DEN",
+    "homePts": 129,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 90.4,
+        "dRtg": 125.4,
+        "tsPercent": 0.449,
+        "fTr": 0.258,
+        "orbPercent": 28,
+        "drbPercent": 75.7,
+        "trbPercent": 48.3,
+        "astPercent": 63.6,
+        "stlPercent": 9.7,
+        "blkPercent": 0,
+        "tovPercent": 14.8
+      },
+      {
+        "team": "DEN",
+        "oRtg": 125.4,
+        "dRtg": 90.4,
+        "tsPercent": 0.677,
+        "fTr": 0.337,
+        "orbPercent": 24.3,
+        "drbPercent": 72,
+        "trbPercent": 51.7,
+        "astPercent": 79.2,
+        "stlPercent": 11.7,
+        "blkPercent": 24.5,
+        "tovPercent": 15.9
+      }
+    ]
+  },
+  {
+    "gameId": "202503270UTA",
+    "date": "2025-03-27T13:00:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 121,
+    "homeTeam": "UTA",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 124,
+        "dRtg": 112.8,
+        "tsPercent": 0.548,
+        "fTr": 0.186,
+        "orbPercent": 37.5,
+        "drbPercent": 91.7,
+        "trbPercent": 60.7,
+        "astPercent": 55.3,
+        "stlPercent": 7.2,
+        "blkPercent": 8.9,
+        "tovPercent": 7.5
+      },
+      {
+        "team": "UTA",
+        "oRtg": 112.8,
+        "dRtg": 124,
+        "tsPercent": 0.636,
+        "fTr": 0.215,
+        "orbPercent": 8.3,
+        "drbPercent": 62.5,
+        "trbPercent": 39.3,
+        "astPercent": 67.4,
+        "stlPercent": 5.1,
+        "blkPercent": 7.7,
+        "tovPercent": 15.6
+      }
+    ]
+  },
+  {
+    "gameId": "202503250UTA",
+    "date": "2025-03-25T13:00:00Z",
+    "visitorTeam": "MEM",
+    "visitorPts": 140,
+    "homeTeam": "UTA",
+    "homePts": 103,
+    "teamGameAdvStats": [
+      {
+        "team": "MEM",
+        "oRtg": 147.6,
+        "dRtg": 108.6,
+        "tsPercent": 0.661,
+        "fTr": 0.184,
+        "orbPercent": 41.5,
+        "drbPercent": 89.7,
+        "trbPercent": 65,
+        "astPercent": 73.1,
+        "stlPercent": 7.4,
+        "blkPercent": 11.1,
+        "tovPercent": 7.8
+      },
+      {
+        "team": "UTA",
+        "oRtg": 108.6,
+        "dRtg": 147.6,
+        "tsPercent": 0.587,
+        "fTr": 0.282,
+        "orbPercent": 10.3,
+        "drbPercent": 58.5,
+        "trbPercent": 35,
+        "astPercent": 70.6,
+        "stlPercent": 6.3,
+        "blkPercent": 5.7,
+        "tovPercent": 13.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503230UTA",
+    "date": "2025-03-23T07:30:00Z",
+    "visitorTeam": "CLE",
+    "visitorPts": 120,
+    "homeTeam": "UTA",
+    "homePts": 91,
+    "teamGameAdvStats": [
+      {
+        "team": "CLE",
+        "oRtg": 118.8,
+        "dRtg": 90.1,
+        "tsPercent": 0.547,
+        "fTr": 0.323,
+        "orbPercent": 26.4,
+        "drbPercent": 74,
+        "trbPercent": 49.5,
+        "astPercent": 63.6,
+        "stlPercent": 8.9,
+        "blkPercent": 17.9,
+        "tovPercent": 6
+      },
+      {
+        "team": "UTA",
+        "oRtg": 90.1,
+        "dRtg": 118.8,
+        "tsPercent": 0.469,
+        "fTr": 0.202,
+        "orbPercent": 26,
+        "drbPercent": 73.6,
+        "trbPercent": 50.5,
+        "astPercent": 78.1,
+        "stlPercent": 4,
+        "blkPercent": 10.4,
+        "tovPercent": 17.8
+      }
+    ]
+  },
+  {
+    "gameId": "202503210UTA",
+    "date": "2025-03-21T13:30:00Z",
+    "visitorTeam": "BOS",
+    "visitorPts": 121,
+    "homeTeam": "UTA",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "BOS",
+        "oRtg": 127.6,
+        "dRtg": 104.4,
+        "tsPercent": 0.582,
+        "fTr": 0.165,
+        "orbPercent": 35.6,
+        "drbPercent": 78,
+        "trbPercent": 55.8,
+        "astPercent": 60,
+        "stlPercent": 13.7,
+        "blkPercent": 8.2,
+        "tovPercent": 9.6
+      },
+      {
+        "team": "UTA",
+        "oRtg": 104.4,
+        "dRtg": 127.6,
+        "tsPercent": 0.554,
+        "fTr": 0.143,
+        "orbPercent": 22,
+        "drbPercent": 64.4,
+        "trbPercent": 44.2,
+        "astPercent": 63.2,
+        "stlPercent": 7.4,
+        "blkPercent": 4.3,
+        "tovPercent": 16
+      }
+    ]
+  },
+  {
+    "gameId": "202503190UTA",
+    "date": "2025-03-19T13:00:00Z",
+    "visitorTeam": "WAS",
+    "visitorPts": 112,
+    "homeTeam": "UTA",
+    "homePts": 128,
+    "teamGameAdvStats": [
+      {
+        "team": "WAS",
+        "oRtg": 111.5,
+        "dRtg": 127.4,
+        "tsPercent": 0.555,
+        "fTr": 0.194,
+        "orbPercent": 28.3,
+        "drbPercent": 72.7,
+        "trbPercent": 46.8,
+        "astPercent": 69.8,
+        "stlPercent": 11.9,
+        "blkPercent": 8.5,
+        "tovPercent": 12.2
+      },
+      {
+        "team": "UTA",
+        "oRtg": 127.4,
+        "dRtg": 111.5,
+        "tsPercent": 0.66,
+        "fTr": 0.202,
+        "orbPercent": 27.3,
+        "drbPercent": 71.7,
+        "trbPercent": 53.2,
+        "astPercent": 60,
+        "stlPercent": 7,
+        "blkPercent": 2.1,
+        "tovPercent": 14.9
+      }
+    ]
+  },
+  {
+    "gameId": "202503170UTA",
+    "date": "2025-03-17T13:00:00Z",
+    "visitorTeam": "CHI",
+    "visitorPts": 111,
+    "homeTeam": "UTA",
+    "homePts": 97,
+    "teamGameAdvStats": [
+      {
+        "team": "CHI",
+        "oRtg": 105.1,
+        "dRtg": 91.8,
+        "tsPercent": 0.533,
+        "fTr": 0.165,
+        "orbPercent": 17,
+        "drbPercent": 90.9,
+        "trbPercent": 50.5,
+        "astPercent": 69,
+        "stlPercent": 11.4,
+        "blkPercent": 6.8,
+        "tovPercent": 9.6
+      },
+      {
+        "team": "UTA",
+        "oRtg": 91.8,
+        "dRtg": 105.1,
+        "tsPercent": 0.507,
+        "fTr": 0.256,
+        "orbPercent": 9.1,
+        "drbPercent": 83,
+        "trbPercent": 49.5,
+        "astPercent": 57.1,
+        "stlPercent": 3.8,
+        "blkPercent": 7.7,
+        "tovPercent": 15.1
+      }
+    ]
+  },
+  {
+    "gameId": "202503160MIN",
+    "date": "2025-03-16T11:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 102,
+    "homeTeam": "MIN",
+    "homePts": 128,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 99.1,
+        "dRtg": 124.3,
+        "tsPercent": 0.528,
+        "fTr": 0.167,
+        "orbPercent": 23.3,
+        "drbPercent": 68,
+        "trbPercent": 47.3,
+        "astPercent": 59,
+        "stlPercent": 3.9,
+        "blkPercent": 0,
+        "tovPercent": 18.5
+      },
+      {
+        "team": "MIN",
+        "oRtg": 124.3,
+        "dRtg": 99.1,
+        "tsPercent": 0.59,
+        "fTr": 0.268,
+        "orbPercent": 32,
+        "drbPercent": 76.7,
+        "trbPercent": 52.7,
+        "astPercent": 62.5,
+        "stlPercent": 13.6,
+        "blkPercent": 11.5,
+        "tovPercent": 8.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503140UTA",
+    "date": "2025-03-14T13:30:00Z",
+    "visitorTeam": "TOR",
+    "visitorPts": 126,
+    "homeTeam": "UTA",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "TOR",
+        "oRtg": 115.2,
+        "dRtg": 107.9,
+        "tsPercent": 0.592,
+        "fTr": 0.385,
+        "orbPercent": 25.6,
+        "drbPercent": 87.2,
+        "trbPercent": 59.3,
+        "astPercent": 63.6,
+        "stlPercent": 8.2,
+        "blkPercent": 11.8,
+        "tovPercent": 12.4
+      },
+      {
+        "team": "UTA",
+        "oRtg": 107.9,
+        "dRtg": 115.2,
+        "tsPercent": 0.575,
+        "fTr": 0.348,
+        "orbPercent": 12.8,
+        "drbPercent": 74.4,
+        "trbPercent": 40.7,
+        "astPercent": 59,
+        "stlPercent": 11,
+        "blkPercent": 3.4,
+        "tovPercent": 14.2
+      }
+    ]
+  },
+  {
+    "gameId": "202503120MEM",
+    "date": "2025-03-12T12:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 115,
+    "homeTeam": "MEM",
+    "homePts": 122,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 108.1,
+        "dRtg": 114.7,
+        "tsPercent": 0.562,
+        "fTr": 0.311,
+        "orbPercent": 33.3,
+        "drbPercent": 89.6,
+        "trbPercent": 60.6,
+        "astPercent": 57.1,
+        "stlPercent": 5.6,
+        "blkPercent": 16,
+        "tovPercent": 18.4
+      },
+      {
+        "team": "MEM",
+        "oRtg": 114.7,
+        "dRtg": 108.1,
+        "tsPercent": 0.591,
+        "fTr": 0.223,
+        "orbPercent": 10.4,
+        "drbPercent": 66.7,
+        "trbPercent": 39.4,
+        "astPercent": 69.8,
+        "stlPercent": 14.1,
+        "blkPercent": 10.7,
+        "tovPercent": 8
+      }
+    ]
+  },
+  {
+    "gameId": "202503100BOS",
+    "date": "2025-03-10T11:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 108,
+    "homeTeam": "BOS",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 113.5,
+        "dRtg": 119.8,
+        "tsPercent": 0.538,
+        "fTr": 0.126,
+        "orbPercent": 28.6,
+        "drbPercent": 73.9,
+        "trbPercent": 50.5,
+        "astPercent": 67.4,
+        "stlPercent": 3.2,
+        "blkPercent": 10,
+        "tovPercent": 10.7
+      },
+      {
+        "team": "BOS",
+        "oRtg": 119.8,
+        "dRtg": 113.5,
+        "tsPercent": 0.565,
+        "fTr": 0.194,
+        "orbPercent": 26.1,
+        "drbPercent": 71.4,
+        "trbPercent": 49.5,
+        "astPercent": 70,
+        "stlPercent": 11.6,
+        "blkPercent": 14,
+        "tovPercent": 8.2
+      }
+    ]
+  },
+  {
+    "gameId": "202503090PHI",
+    "date": "2025-03-09T11:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 122,
+    "homeTeam": "PHI",
+    "homePts": 126,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 111.8,
+        "dRtg": 115.4,
+        "tsPercent": 0.572,
+        "fTr": 0.333,
+        "orbPercent": 21.7,
+        "drbPercent": 70.8,
+        "trbPercent": 46.8,
+        "astPercent": 64.1,
+        "stlPercent": 11,
+        "blkPercent": 8.2,
+        "tovPercent": 14.4
+      },
+      {
+        "team": "PHI",
+        "oRtg": 115.4,
+        "dRtg": 111.8,
+        "tsPercent": 0.589,
+        "fTr": 0.26,
+        "orbPercent": 29.2,
+        "drbPercent": 78.3,
+        "trbPercent": 53.2,
+        "astPercent": 62.8,
+        "stlPercent": 10.1,
+        "blkPercent": 19.1,
+        "tovPercent": 14.4
+      }
+    ]
+  },
+  {
+    "gameId": "202503070TOR",
+    "date": "2025-03-07T12:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 109,
+    "homeTeam": "TOR",
+    "homePts": 118,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 106.9,
+        "dRtg": 115.7,
+        "tsPercent": 0.539,
+        "fTr": 0.464,
+        "orbPercent": 42.2,
+        "drbPercent": 62.7,
+        "trbPercent": 53.8,
+        "astPercent": 53.8,
+        "stlPercent": 4.9,
+        "blkPercent": 17.2,
+        "tovPercent": 19.8
+      },
+      {
+        "team": "TOR",
+        "oRtg": 115.7,
+        "dRtg": 106.9,
+        "tsPercent": 0.507,
+        "fTr": 0.269,
+        "orbPercent": 37.3,
+        "drbPercent": 57.8,
+        "trbPercent": 46.2,
+        "astPercent": 67.5,
+        "stlPercent": 12.7,
+        "blkPercent": 9.4,
+        "tovPercent": 7.9
+      }
+    ]
+  },
+  {
+    "gameId": "202503050WAS",
+    "date": "2025-03-05T12:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 122,
+    "homeTeam": "WAS",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 116.4,
+        "dRtg": 119.3,
+        "tsPercent": 0.556,
+        "fTr": 0.198,
+        "orbPercent": 32.7,
+        "drbPercent": 80.4,
+        "trbPercent": 56.3,
+        "astPercent": 44.7,
+        "stlPercent": 4.8,
+        "blkPercent": 6.3,
+        "tovPercent": 12
+      },
+      {
+        "team": "WAS",
+        "oRtg": 119.3,
+        "dRtg": 116.4,
+        "tsPercent": 0.58,
+        "fTr": 0.305,
+        "orbPercent": 19.6,
+        "drbPercent": 67.3,
+        "trbPercent": 43.7,
+        "astPercent": 76.2,
+        "stlPercent": 8.6,
+        "blkPercent": 19.7,
+        "tovPercent": 7.7
+      }
+    ]
+  },
+  {
+    "gameId": "202503030UTA",
+    "date": "2025-03-03T14:00:00Z",
+    "visitorTeam": "DET",
+    "visitorPts": 134,
+    "homeTeam": "UTA",
+    "homePts": 106,
+    "teamGameAdvStats": [
+      {
+        "team": "DET",
+        "oRtg": 122.4,
+        "dRtg": 96.8,
+        "tsPercent": 0.642,
+        "fTr": 0.304,
+        "orbPercent": 20,
+        "drbPercent": 77.5,
+        "trbPercent": 48.8,
+        "astPercent": 62.7,
+        "stlPercent": 14.6,
+        "blkPercent": 16.3,
+        "tovPercent": 11.1
+      },
+      {
+        "team": "UTA",
+        "oRtg": 96.8,
+        "dRtg": 122.4,
+        "tsPercent": 0.552,
+        "fTr": 0.39,
+        "orbPercent": 22.5,
+        "drbPercent": 80,
+        "trbPercent": 51.3,
+        "astPercent": 54.3,
+        "stlPercent": 6.4,
+        "blkPercent": 2,
+        "tovPercent": 22.6
+      }
+    ]
+  },
+  {
+    "gameId": "202503020UTA",
+    "date": "2025-03-02T13:00:00Z",
+    "visitorTeam": "NOP",
+    "visitorPts": 128,
+    "homeTeam": "UTA",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "NOP",
+        "oRtg": 123.1,
+        "dRtg": 116.4,
+        "tsPercent": 0.594,
+        "fTr": 0.127,
+        "orbPercent": 28.9,
+        "drbPercent": 79.5,
+        "trbPercent": 53.9,
+        "astPercent": 66,
+        "stlPercent": 7.7,
+        "blkPercent": 9.6,
+        "tovPercent": 9.3
+      },
+      {
+        "team": "UTA",
+        "oRtg": 116.4,
+        "dRtg": 123.1,
+        "tsPercent": 0.585,
+        "fTr": 0.177,
+        "orbPercent": 20.5,
+        "drbPercent": 71.1,
+        "trbPercent": 46.1,
+        "astPercent": 76.1,
+        "stlPercent": 3.8,
+        "blkPercent": 6.9,
+        "tovPercent": 11.2
+      }
+    ]
+  },
+  {
+    "gameId": "202502280UTA",
+    "date": "2025-02-28T14:30:00Z",
+    "visitorTeam": "MIN",
+    "visitorPts": 116,
+    "homeTeam": "UTA",
+    "homePts": 117,
+    "teamGameAdvStats": [
+      {
+        "team": "MIN",
+        "oRtg": 114.4,
+        "dRtg": 115.4,
+        "tsPercent": 0.541,
+        "fTr": 0.139,
+        "orbPercent": 19.6,
+        "drbPercent": 65.9,
+        "trbPercent": 40,
+        "astPercent": 79.5,
+        "stlPercent": 16.8,
+        "blkPercent": 7,
+        "tovPercent": 6.1
+      },
+      {
+        "team": "UTA",
+        "oRtg": 115.4,
+        "dRtg": 114.4,
+        "tsPercent": 0.596,
+        "fTr": 0.152,
+        "orbPercent": 34.1,
+        "drbPercent": 80.4,
+        "trbPercent": 60,
+        "astPercent": 74.5,
+        "stlPercent": 3,
+        "blkPercent": 8.2,
+        "tovPercent": 16.9
+      }
+    ]
+  },
+  {
+    "gameId": "202502260UTA",
+    "date": "2025-02-26T14:00:00Z",
+    "visitorTeam": "SAC",
+    "visitorPts": 118,
+    "homeTeam": "UTA",
+    "homePts": 101,
+    "teamGameAdvStats": [
+      {
+        "team": "SAC",
+        "oRtg": 122.8,
+        "dRtg": 105.1,
+        "tsPercent": 0.639,
+        "fTr": 0.138,
+        "orbPercent": 20.6,
+        "drbPercent": 85.1,
+        "trbPercent": 58,
+        "astPercent": 60.9,
+        "stlPercent": 6.2,
+        "blkPercent": 17.5,
+        "tovPercent": 14.8
+      },
+      {
+        "team": "UTA",
+        "oRtg": 105.1,
+        "dRtg": 122.8,
+        "tsPercent": 0.552,
+        "fTr": 0.202,
+        "orbPercent": 14.9,
+        "drbPercent": 79.4,
+        "trbPercent": 42,
+        "astPercent": 84.2,
+        "stlPercent": 9.4,
+        "blkPercent": 3.9,
+        "tovPercent": 9.9
+      }
+    ]
+  },
+  {
+    "gameId": "202502240UTA",
+    "date": "2025-02-24T14:00:00Z",
+    "visitorTeam": "POR",
+    "visitorPts": 114,
+    "homeTeam": "UTA",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "POR",
+        "oRtg": 110.4,
+        "dRtg": 108.4,
+        "tsPercent": 0.525,
+        "fTr": 0.245,
+        "orbPercent": 32,
+        "drbPercent": 76.1,
+        "trbPercent": 53.1,
+        "astPercent": 63.4,
+        "stlPercent": 6.8,
+        "blkPercent": 11.1,
+        "tovPercent": 10.7
+      },
+      {
+        "team": "UTA",
+        "oRtg": 108.4,
+        "dRtg": 110.4,
+        "tsPercent": 0.527,
+        "fTr": 0.194,
+        "orbPercent": 23.9,
+        "drbPercent": 68,
+        "trbPercent": 46.9,
+        "astPercent": 61.5,
+        "stlPercent": 6.8,
+        "blkPercent": 3.7,
+        "tovPercent": 12.4
+      }
+    ]
+  },
+  {
+    "gameId": "202502220UTA",
+    "date": "2025-02-22T14:30:00Z",
+    "visitorTeam": "HOU",
+    "visitorPts": 115,
+    "homeTeam": "UTA",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "HOU",
+        "oRtg": 112.6,
+        "dRtg": 121.4,
+        "tsPercent": 0.533,
+        "fTr": 0.18,
+        "orbPercent": 16,
+        "drbPercent": 67.3,
+        "trbPercent": 41.4,
+        "astPercent": 75,
+        "stlPercent": 2.9,
+        "blkPercent": 3.4,
+        "tovPercent": 6.1
+      },
+      {
+        "team": "UTA",
+        "oRtg": 121.4,
+        "dRtg": 112.6,
+        "tsPercent": 0.564,
+        "fTr": 0.276,
+        "orbPercent": 32.7,
+        "drbPercent": 84,
+        "trbPercent": 58.6,
+        "astPercent": 57.1,
+        "stlPercent": 3.9,
+        "blkPercent": 5.3,
+        "tovPercent": 6.8
+      }
+    ]
+  },
+  {
+    "gameId": "202502210UTA",
+    "date": "2025-02-21T14:30:00Z",
+    "visitorTeam": "OKC",
+    "visitorPts": 130,
+    "homeTeam": "UTA",
+    "homePts": 107,
+    "teamGameAdvStats": [
+      {
+        "team": "OKC",
+        "oRtg": 130.2,
+        "dRtg": 107.1,
+        "tsPercent": 0.614,
+        "fTr": 0.206,
+        "orbPercent": 37,
+        "drbPercent": 70.8,
+        "trbPercent": 54.3,
+        "astPercent": 82.6,
+        "stlPercent": 10,
+        "blkPercent": 20.4,
+        "tovPercent": 10.2
+      },
+      {
+        "team": "UTA",
+        "oRtg": 107.1,
+        "dRtg": 130.2,
+        "tsPercent": 0.546,
+        "fTr": 0.2,
+        "orbPercent": 29.2,
+        "drbPercent": 63,
+        "trbPercent": 45.7,
+        "astPercent": 65.9,
+        "stlPercent": 7,
+        "blkPercent": 3.7,
+        "tovPercent": 17.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502130UTA",
+    "date": "2025-02-13T14:00:00Z",
+    "visitorTeam": "LAC",
+    "visitorPts": 120,
+    "homeTeam": "UTA",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "LAC",
+        "oRtg": 114.3,
+        "dRtg": 110.5,
+        "tsPercent": 0.546,
+        "fTr": 0.383,
+        "orbPercent": 25.5,
+        "drbPercent": 76.9,
+        "trbPercent": 47.8,
+        "astPercent": 56.4,
+        "stlPercent": 15.2,
+        "blkPercent": 15.2,
+        "tovPercent": 9.8
+      },
+      {
+        "team": "UTA",
+        "oRtg": 110.5,
+        "dRtg": 114.3,
+        "tsPercent": 0.648,
+        "fTr": 0.333,
+        "orbPercent": 23.1,
+        "drbPercent": 74.5,
+        "trbPercent": 52.2,
+        "astPercent": 60.5,
+        "stlPercent": 6.7,
+        "blkPercent": 1.8,
+        "tovPercent": 22.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502120UTA",
+    "date": "2025-02-12T14:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 119,
+    "homeTeam": "UTA",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 117.4,
+        "dRtg": 129.2,
+        "tsPercent": 0.566,
+        "fTr": 0.326,
+        "orbPercent": 27.5,
+        "drbPercent": 73.8,
+        "trbPercent": 48.4,
+        "astPercent": 75.6,
+        "stlPercent": 4.9,
+        "blkPercent": 6.7,
+        "tovPercent": 11.7
+      },
+      {
+        "team": "UTA",
+        "oRtg": 129.2,
+        "dRtg": 117.4,
+        "tsPercent": 0.652,
+        "fTr": 0.384,
+        "orbPercent": 26.2,
+        "drbPercent": 72.5,
+        "trbPercent": 51.6,
+        "astPercent": 66.7,
+        "stlPercent": 9.9,
+        "blkPercent": 19,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202502100LAL",
+    "date": "2025-02-10T15:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 113,
+    "homeTeam": "LAL",
+    "homePts": 132,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 111.7,
+        "dRtg": 130.4,
+        "tsPercent": 0.589,
+        "fTr": 0.321,
+        "orbPercent": 24.4,
+        "drbPercent": 73.7,
+        "trbPercent": 47,
+        "astPercent": 74.4,
+        "stlPercent": 5.9,
+        "blkPercent": 6,
+        "tovPercent": 16.5
+      },
+      {
+        "team": "LAL",
+        "oRtg": 130.4,
+        "dRtg": 111.7,
+        "tsPercent": 0.661,
+        "fTr": 0.196,
+        "orbPercent": 26.3,
+        "drbPercent": 75.6,
+        "trbPercent": 53,
+        "astPercent": 56,
+        "stlPercent": 10.9,
+        "blkPercent": 4.5,
+        "tovPercent": 11.5
+      }
+    ]
+  },
+  {
+    "gameId": "202502080LAC",
+    "date": "2025-02-08T15:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 110,
+    "homeTeam": "LAC",
+    "homePts": 130,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 110.8,
+        "dRtg": 131,
+        "tsPercent": 0.605,
+        "fTr": 0.217,
+        "orbPercent": 29.3,
+        "drbPercent": 76.5,
+        "trbPercent": 50.7,
+        "astPercent": 66.7,
+        "stlPercent": 7.1,
+        "blkPercent": 6.5,
+        "tovPercent": 18
+      },
+      {
+        "team": "LAC",
+        "oRtg": 131,
+        "dRtg": 110.8,
+        "tsPercent": 0.668,
+        "fTr": 0.239,
+        "orbPercent": 23.5,
+        "drbPercent": 70.7,
+        "trbPercent": 49.3,
+        "astPercent": 70.6,
+        "stlPercent": 8.1,
+        "blkPercent": 5,
+        "tovPercent": 13.4
+      }
+    ]
+  },
+  {
+    "gameId": "202502070PHO",
+    "date": "2025-02-07T15:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 127,
+    "homeTeam": "PHX",
+    "homePts": 135,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 119.3,
+        "dRtg": 126.8,
+        "tsPercent": 0.505,
+        "fTr": 0.171,
+        "orbPercent": 40.3,
+        "drbPercent": 76,
+        "trbPercent": 56.3,
+        "astPercent": 60.4,
+        "stlPercent": 4.7,
+        "blkPercent": 14.6,
+        "tovPercent": 8.7
+      },
+      {
+        "team": "PHO",
+        "oRtg": 126.8,
+        "dRtg": 119.3,
+        "tsPercent": 0.596,
+        "fTr": 0.202,
+        "orbPercent": 24,
+        "drbPercent": 59.7,
+        "trbPercent": 43.8,
+        "astPercent": 66,
+        "stlPercent": 5.6,
+        "blkPercent": 21.7,
+        "tovPercent": 6.6
+      }
+    ]
+  },
+  {
+    "gameId": "202502050UTA",
+    "date": "2025-02-05T14:00:00Z",
+    "visitorTeam": "GSW",
+    "visitorPts": 128,
+    "homeTeam": "UTA",
+    "homePts": 131,
+    "teamGameAdvStats": [
+      {
+        "team": "GSW",
+        "oRtg": 123.4,
+        "dRtg": 126.3,
+        "tsPercent": 0.572,
+        "fTr": 0.27,
+        "orbPercent": 25,
+        "drbPercent": 70.7,
+        "trbPercent": 46.1,
+        "astPercent": 71.7,
+        "stlPercent": 5.8,
+        "blkPercent": 7.3,
+        "tovPercent": 7.4
+      },
+      {
+        "team": "UTA",
+        "oRtg": 126.3,
+        "dRtg": 123.4,
+        "tsPercent": 0.631,
+        "fTr": 0.293,
+        "orbPercent": 29.3,
+        "drbPercent": 75,
+        "trbPercent": 53.9,
+        "astPercent": 62.5,
+        "stlPercent": 4.8,
+        "blkPercent": 9.6,
+        "tovPercent": 11.1
+      }
+    ]
+  },
+  {
+    "gameId": "202502030UTA",
+    "date": "2025-02-03T14:00:00Z",
+    "visitorTeam": "IND",
+    "visitorPts": 112,
+    "homeTeam": "UTA",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "IND",
+        "oRtg": 109.8,
+        "dRtg": 108.8,
+        "tsPercent": 0.561,
+        "fTr": 0.22,
+        "orbPercent": 12.2,
+        "drbPercent": 64.6,
+        "trbPercent": 38.1,
+        "astPercent": 74.4,
+        "stlPercent": 12.7,
+        "blkPercent": 18.5,
+        "tovPercent": 8.3
+      },
+      {
+        "team": "UTA",
+        "oRtg": 108.8,
+        "dRtg": 109.8,
+        "tsPercent": 0.533,
+        "fTr": 0.33,
+        "orbPercent": 35.4,
+        "drbPercent": 87.8,
+        "trbPercent": 61.9,
+        "astPercent": 79.5,
+        "stlPercent": 4.9,
+        "blkPercent": 8.2,
+        "tovPercent": 15.4
+      }
+    ]
+  },
+  {
+    "gameId": "202502010UTA",
+    "date": "2025-02-01T10:00:00Z",
+    "visitorTeam": "ORL",
+    "visitorPts": 99,
+    "homeTeam": "UTA",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "ORL",
+        "oRtg": 99.2,
+        "dRtg": 113.2,
+        "tsPercent": 0.465,
+        "fTr": 0.385,
+        "orbPercent": 20.4,
+        "drbPercent": 80,
+        "trbPercent": 45.7,
+        "astPercent": 63.3,
+        "stlPercent": 9,
+        "blkPercent": 14.3,
+        "tovPercent": 7
+      },
+      {
+        "team": "UTA",
+        "oRtg": 113.2,
+        "dRtg": 99.2,
+        "tsPercent": 0.598,
+        "fTr": 0.286,
+        "orbPercent": 20,
+        "drbPercent": 79.6,
+        "trbPercent": 54.3,
+        "astPercent": 66.7,
+        "stlPercent": 5,
+        "blkPercent": 14,
+        "tovPercent": 14.5
+      }
+    ]
+  },
+  {
+    "gameId": "202501300UTA",
+    "date": "2025-01-30T14:00:00Z",
+    "visitorTeam": "MIN",
+    "visitorPts": 138,
+    "homeTeam": "UTA",
+    "homePts": 113,
+    "teamGameAdvStats": [
+      {
+        "team": "MIN",
+        "oRtg": 143.8,
+        "dRtg": 117.7,
+        "tsPercent": 0.745,
+        "fTr": 0.293,
+        "orbPercent": 31,
+        "drbPercent": 90.9,
+        "trbPercent": 62.9,
+        "astPercent": 77.6,
+        "stlPercent": 5.2,
+        "blkPercent": 20.9,
+        "tovPercent": 12.3
+      },
+      {
+        "team": "UTA",
+        "oRtg": 117.7,
+        "dRtg": 143.8,
+        "tsPercent": 0.642,
+        "fTr": 0.325,
+        "orbPercent": 9.1,
+        "drbPercent": 69,
+        "trbPercent": 37.1,
+        "astPercent": 53.8,
+        "stlPercent": 6.3,
+        "blkPercent": 9.1,
+        "tovPercent": 14.6
+      }
+    ]
+  },
+  {
+    "gameId": "202501280GSW",
+    "date": "2025-01-28T15:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 103,
+    "homeTeam": "GSW",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 108.8,
+        "dRtg": 120.4,
+        "tsPercent": 0.595,
+        "fTr": 0.316,
+        "orbPercent": 13.9,
+        "drbPercent": 68,
+        "trbPercent": 45.3,
+        "astPercent": 76.9,
+        "stlPercent": 4.2,
+        "blkPercent": 14,
+        "tovPercent": 14.8
+      },
+      {
+        "team": "GSW",
+        "oRtg": 120.4,
+        "dRtg": 108.8,
+        "tsPercent": 0.54,
+        "fTr": 0.337,
+        "orbPercent": 32,
+        "drbPercent": 86.1,
+        "trbPercent": 54.7,
+        "astPercent": 80.6,
+        "stlPercent": 8.5,
+        "blkPercent": 8,
+        "tovPercent": 7.9
+      }
+    ]
+  },
+  {
+    "gameId": "202501270UTA",
+    "date": "2025-01-27T14:00:00Z",
+    "visitorTeam": "MIL",
+    "visitorPts": 125,
+    "homeTeam": "UTA",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "MIL",
+        "oRtg": 125.6,
+        "dRtg": 110.5,
+        "tsPercent": 0.669,
+        "fTr": 0.198,
+        "orbPercent": 13.9,
+        "drbPercent": 73.2,
+        "trbPercent": 50,
+        "astPercent": 63.5,
+        "stlPercent": 6,
+        "blkPercent": 10.9,
+        "tovPercent": 11.4
+      },
+      {
+        "team": "UTA",
+        "oRtg": 110.5,
+        "dRtg": 125.6,
+        "tsPercent": 0.52,
+        "fTr": 0.13,
+        "orbPercent": 26.8,
+        "drbPercent": 86.1,
+        "trbPercent": 50,
+        "astPercent": 68.3,
+        "stlPercent": 8,
+        "blkPercent": 1.9,
+        "tovPercent": 9.4
+      }
+    ]
+  },
+  {
+    "gameId": "202501250MEM",
+    "date": "2025-01-25T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 103,
+    "homeTeam": "MEM",
+    "homePts": 125,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 104,
+        "dRtg": 126.2,
+        "tsPercent": 0.52,
+        "fTr": 0.174,
+        "orbPercent": 30.4,
+        "drbPercent": 66.7,
+        "trbPercent": 47.1,
+        "astPercent": 69.2,
+        "stlPercent": 8.1,
+        "blkPercent": 10.9,
+        "tovPercent": 14.7
+      },
+      {
+        "team": "MEM",
+        "oRtg": 126.2,
+        "dRtg": 104,
+        "tsPercent": 0.632,
+        "fTr": 0.405,
+        "orbPercent": 33.3,
+        "drbPercent": 69.6,
+        "trbPercent": 52.9,
+        "astPercent": 65.1,
+        "stlPercent": 10.1,
+        "blkPercent": 20,
+        "tovPercent": 14.7
+      }
+    ]
+  },
+  {
+    "gameId": "202501220OKC",
+    "date": "2025-01-22T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 114,
+    "homeTeam": "OKC",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 113.1,
+        "dRtg": 122,
+        "tsPercent": 0.567,
+        "fTr": 0.267,
+        "orbPercent": 46.9,
+        "drbPercent": 69,
+        "trbPercent": 57.1,
+        "astPercent": 59.5,
+        "stlPercent": 3,
+        "blkPercent": 10.7,
+        "tovPercent": 21.2
+      },
+      {
+        "team": "OKC",
+        "oRtg": 122,
+        "dRtg": 113.1,
+        "tsPercent": 0.58,
+        "fTr": 0.263,
+        "orbPercent": 31,
+        "drbPercent": 53.1,
+        "trbPercent": 42.9,
+        "astPercent": 45.5,
+        "stlPercent": 14.9,
+        "blkPercent": 7.5,
+        "tovPercent": 9.4
+      }
+    ]
+  },
+  {
+    "gameId": "202501200NOP",
+    "date": "2025-01-20T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 119,
+    "homeTeam": "NOP",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 107.9,
+        "dRtg": 111.5,
+        "tsPercent": 0.499,
+        "fTr": 0.283,
+        "orbPercent": 32.8,
+        "drbPercent": 88,
+        "trbPercent": 58.3,
+        "astPercent": 59.5,
+        "stlPercent": 5.4,
+        "blkPercent": 7.8,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "NOP",
+        "oRtg": 111.5,
+        "dRtg": 107.9,
+        "tsPercent": 0.587,
+        "fTr": 0.315,
+        "orbPercent": 12,
+        "drbPercent": 67.2,
+        "trbPercent": 41.7,
+        "astPercent": 68.3,
+        "stlPercent": 10.9,
+        "blkPercent": 13.3,
+        "tovPercent": 11.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501170NOP",
+    "date": "2025-01-17T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 123,
+    "homeTeam": "NOP",
+    "homePts": 136,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 117.3,
+        "dRtg": 129.7,
+        "tsPercent": 0.62,
+        "fTr": 0.349,
+        "orbPercent": 16.7,
+        "drbPercent": 61.1,
+        "trbPercent": 41.7,
+        "astPercent": 69.8,
+        "stlPercent": 6.7,
+        "blkPercent": 16,
+        "tovPercent": 13.9
+      },
+      {
+        "team": "NOP",
+        "oRtg": 129.7,
+        "dRtg": 117.3,
+        "tsPercent": 0.598,
+        "fTr": 0.31,
+        "orbPercent": 38.9,
+        "drbPercent": 83.3,
+        "trbPercent": 58.3,
+        "astPercent": 72.3,
+        "stlPercent": 8.6,
+        "blkPercent": 16.7,
+        "tovPercent": 10.3
+      }
+    ]
+  },
+  {
+    "gameId": "202501150UTA",
+    "date": "2025-01-15T14:00:00Z",
+    "visitorTeam": "CHA",
+    "visitorPts": 117,
+    "homeTeam": "UTA",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "CHO",
+        "oRtg": 117.2,
+        "dRtg": 112.2,
+        "tsPercent": 0.621,
+        "fTr": 0.247,
+        "orbPercent": 28.9,
+        "drbPercent": 79.1,
+        "trbPercent": 55.6,
+        "astPercent": 60,
+        "stlPercent": 6,
+        "blkPercent": 12,
+        "tovPercent": 16
+      },
+      {
+        "team": "UTA",
+        "oRtg": 112.2,
+        "dRtg": 117.2,
+        "tsPercent": 0.557,
+        "fTr": 0.183,
+        "orbPercent": 20.9,
+        "drbPercent": 71.1,
+        "trbPercent": 44.4,
+        "astPercent": 69.8,
+        "stlPercent": 5,
+        "blkPercent": 8.7,
+        "tovPercent": 10.7
+      }
+    ]
+  },
+  {
+    "gameId": "202501120UTA",
+    "date": "2025-01-12T13:00:00Z",
+    "visitorTeam": "BKN",
+    "visitorPts": 111,
+    "homeTeam": "UTA",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "BRK",
+        "oRtg": 110,
+        "dRtg": 111,
+        "tsPercent": 0.517,
+        "fTr": 0.38,
+        "orbPercent": 30,
+        "drbPercent": 86.7,
+        "trbPercent": 56.8,
+        "astPercent": 66.7,
+        "stlPercent": 5,
+        "blkPercent": 10.9,
+        "tovPercent": 9.3
+      },
+      {
+        "team": "UTA",
+        "oRtg": 111,
+        "dRtg": 110,
+        "tsPercent": 0.567,
+        "fTr": 0.222,
+        "orbPercent": 13.3,
+        "drbPercent": 70,
+        "trbPercent": 43.2,
+        "astPercent": 62.5,
+        "stlPercent": 6.9,
+        "blkPercent": 11.5,
+        "tovPercent": 10
+      }
+    ]
+  },
+  {
+    "gameId": "202501110PHO",
+    "date": "2025-01-11T10:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 106,
+    "homeTeam": "PHX",
+    "homePts": 114,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 116.6,
+        "dRtg": 125.4,
+        "tsPercent": 0.51,
+        "fTr": 0.188,
+        "orbPercent": 44.7,
+        "drbPercent": 70.7,
+        "trbPercent": 56.8,
+        "astPercent": 61.9,
+        "stlPercent": 6.6,
+        "blkPercent": 4.1,
+        "tovPercent": 11.1
+      },
+      {
+        "team": "PHO",
+        "oRtg": 125.4,
+        "dRtg": 116.6,
+        "tsPercent": 0.604,
+        "fTr": 0.221,
+        "orbPercent": 29.3,
+        "drbPercent": 55.3,
+        "trbPercent": 43.2,
+        "astPercent": 59.1,
+        "stlPercent": 9.9,
+        "blkPercent": 7.4,
+        "tovPercent": 10.4
+      }
+    ]
+  },
+  {
+    "gameId": "202501090UTA",
+    "date": "2025-01-09T14:00:00Z",
+    "visitorTeam": "MIA",
+    "visitorPts": 97,
+    "homeTeam": "UTA",
+    "homePts": 92,
+    "teamGameAdvStats": [
+      {
+        "team": "MIA",
+        "oRtg": 102,
+        "dRtg": 96.7,
+        "tsPercent": 0.497,
+        "fTr": 0.165,
+        "orbPercent": 25.5,
+        "drbPercent": 76.6,
+        "trbPercent": 50,
+        "astPercent": 72.2,
+        "stlPercent": 10.5,
+        "blkPercent": 14.9,
+        "tovPercent": 12.5
+      },
+      {
+        "team": "UTA",
+        "oRtg": 96.7,
+        "dRtg": 102,
+        "tsPercent": 0.508,
+        "fTr": 0.205,
+        "orbPercent": 23.4,
+        "drbPercent": 74.5,
+        "trbPercent": 50,
+        "astPercent": 60.6,
+        "stlPercent": 9.5,
+        "blkPercent": 17.1,
+        "tovPercent": 15.8
+      }
+    ]
+  },
+  {
+    "gameId": "202501070UTA",
+    "date": "2025-01-07T14:00:00Z",
+    "visitorTeam": "ATL",
+    "visitorPts": 124,
+    "homeTeam": "UTA",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "ATL",
+        "oRtg": 121.3,
+        "dRtg": 118.4,
+        "tsPercent": 0.593,
+        "fTr": 0.153,
+        "orbPercent": 26.1,
+        "drbPercent": 71.1,
+        "trbPercent": 48.4,
+        "astPercent": 74.5,
+        "stlPercent": 5.9,
+        "blkPercent": 22.9,
+        "tovPercent": 8.7
+      },
+      {
+        "team": "UTA",
+        "oRtg": 118.4,
+        "dRtg": 121.3,
+        "tsPercent": 0.565,
+        "fTr": 0.26,
+        "orbPercent": 28.9,
+        "drbPercent": 73.9,
+        "trbPercent": 51.6,
+        "astPercent": 62.5,
+        "stlPercent": 7.8,
+        "blkPercent": 7.4,
+        "tovPercent": 13
+      }
+    ]
+  },
+  {
+    "gameId": "202501050ORL",
+    "date": "2025-01-05T11:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 105,
+    "homeTeam": "ORL",
+    "homePts": 92,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 108.1,
+        "dRtg": 94.7,
+        "tsPercent": 0.59,
+        "fTr": 0.222,
+        "orbPercent": 27.5,
+        "drbPercent": 73.6,
+        "trbPercent": 53.8,
+        "astPercent": 53.8,
+        "stlPercent": 6.2,
+        "blkPercent": 9.8,
+        "tovPercent": 19.8
+      },
+      {
+        "team": "ORL",
+        "oRtg": 94.7,
+        "dRtg": 108.1,
+        "tsPercent": 0.444,
+        "fTr": 0.133,
+        "orbPercent": 26.4,
+        "drbPercent": 72.5,
+        "trbPercent": 46.2,
+        "astPercent": 71.4,
+        "stlPercent": 8.2,
+        "blkPercent": 8.2,
+        "tovPercent": 9.6
+      }
+    ]
+  },
+  {
+    "gameId": "202501040MIA",
+    "date": "2025-01-04T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 136,
+    "homeTeam": "MIA",
+    "homePts": 100,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 134,
+        "dRtg": 98.5,
+        "tsPercent": 0.635,
+        "fTr": 0.16,
+        "orbPercent": 37.2,
+        "drbPercent": 89.1,
+        "trbPercent": 64,
+        "astPercent": 59.6,
+        "stlPercent": 10.8,
+        "blkPercent": 8.9,
+        "tovPercent": 11.6
+      },
+      {
+        "team": "MIA",
+        "oRtg": 98.5,
+        "dRtg": 134,
+        "tsPercent": 0.536,
+        "fTr": 0.375,
+        "orbPercent": 10.9,
+        "drbPercent": 62.8,
+        "trbPercent": 36,
+        "astPercent": 71.4,
+        "stlPercent": 8.9,
+        "blkPercent": 13,
+        "tovPercent": 13.9
+      }
+    ]
+  },
+  {
+    "gameId": "202501010NYK",
+    "date": "2025-01-01T12:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 103,
+    "homeTeam": "NYK",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 100.9,
+        "dRtg": 116.6,
+        "tsPercent": 0.502,
+        "fTr": 0.156,
+        "orbPercent": 25.5,
+        "drbPercent": 83.8,
+        "trbPercent": 48.9,
+        "astPercent": 59,
+        "stlPercent": 6.9,
+        "blkPercent": 9.7,
+        "tovPercent": 14.2
+      },
+      {
+        "team": "NYK",
+        "oRtg": 116.6,
+        "dRtg": 100.9,
+        "tsPercent": 0.626,
+        "fTr": 0.271,
+        "orbPercent": 16.2,
+        "drbPercent": 74.5,
+        "trbPercent": 51.1,
+        "astPercent": 66,
+        "stlPercent": 9.8,
+        "blkPercent": 11.3,
+        "tovPercent": 12
+      }
+    ]
+  },
+  {
+    "gameId": "202412300UTA",
+    "date": "2024-12-30T14:00:00Z",
+    "visitorTeam": "DEN",
+    "visitorPts": 132,
+    "homeTeam": "UTA",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "DEN",
+        "oRtg": 130.3,
+        "dRtg": 119.4,
+        "tsPercent": 0.582,
+        "fTr": 0.181,
+        "orbPercent": 36.2,
+        "drbPercent": 82.9,
+        "trbPercent": 58,
+        "astPercent": 71.7,
+        "stlPercent": 12.8,
+        "blkPercent": 6.3,
+        "tovPercent": 5.8
+      },
+      {
+        "team": "UTA",
+        "oRtg": 119.4,
+        "dRtg": 130.3,
+        "tsPercent": 0.632,
+        "fTr": 0.256,
+        "orbPercent": 17.1,
+        "drbPercent": 63.8,
+        "trbPercent": 42,
+        "astPercent": 63.6,
+        "stlPercent": 5.9,
+        "blkPercent": 2.7,
+        "tovPercent": 14.3
+      }
+    ]
+  },
+  {
+    "gameId": "202412280UTA",
+    "date": "2024-12-28T14:30:00Z",
+    "visitorTeam": "PHI",
+    "visitorPts": 114,
+    "homeTeam": "UTA",
+    "homePts": 111,
+    "teamGameAdvStats": [
+      {
+        "team": "PHI",
+        "oRtg": 118.6,
+        "dRtg": 115.5,
+        "tsPercent": 0.574,
+        "fTr": 0.446,
+        "orbPercent": 22.7,
+        "drbPercent": 61.1,
+        "trbPercent": 40,
+        "astPercent": 61.1,
+        "stlPercent": 15.6,
+        "blkPercent": 15.1,
+        "tovPercent": 7.5
+      },
+      {
+        "team": "UTA",
+        "oRtg": 115.5,
+        "dRtg": 118.6,
+        "tsPercent": 0.581,
+        "fTr": 0.169,
+        "orbPercent": 38.9,
+        "drbPercent": 77.3,
+        "trbPercent": 60,
+        "astPercent": 62.8,
+        "stlPercent": 3.1,
+        "blkPercent": 6.4,
+        "tovPercent": 18.7
+      }
+    ]
+  },
+  {
+    "gameId": "202412260POR",
+    "date": "2024-12-26T15:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 120,
+    "homeTeam": "POR",
+    "homePts": 122,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 122.2,
+        "dRtg": 124.2,
+        "tsPercent": 0.619,
+        "fTr": 0.291,
+        "orbPercent": 24.4,
+        "drbPercent": 79.5,
+        "trbPercent": 51.7,
+        "astPercent": 63.4,
+        "stlPercent": 9.2,
+        "blkPercent": 9.8,
+        "tovPercent": 11.8
+      },
+      {
+        "team": "POR",
+        "oRtg": 124.2,
+        "dRtg": 122.2,
+        "tsPercent": 0.618,
+        "fTr": 0.247,
+        "orbPercent": 20.5,
+        "drbPercent": 75.6,
+        "trbPercent": 48.3,
+        "astPercent": 57.8,
+        "stlPercent": 10.2,
+        "blkPercent": 18.2,
+        "tovPercent": 10
+      }
+    ]
+  },
+  {
+    "gameId": "202412230CLE",
+    "date": "2024-12-23T12:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 113,
+    "homeTeam": "CLE",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 115.9,
+        "dRtg": 127.2,
+        "tsPercent": 0.546,
+        "fTr": 0.283,
+        "orbPercent": 37.5,
+        "drbPercent": 76.7,
+        "trbPercent": 56,
+        "astPercent": 71.1,
+        "stlPercent": 6.2,
+        "blkPercent": 11.1,
+        "tovPercent": 14.1
+      },
+      {
+        "team": "CLE",
+        "oRtg": 127.2,
+        "dRtg": 115.9,
+        "tsPercent": 0.613,
+        "fTr": 0.253,
+        "orbPercent": 23.3,
+        "drbPercent": 62.5,
+        "trbPercent": 44,
+        "astPercent": 76.7,
+        "stlPercent": 10.3,
+        "blkPercent": 6.3,
+        "tovPercent": 8.2
+      }
+    ]
+  },
+  {
+    "gameId": "202412210BRK",
+    "date": "2024-12-21T12:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 105,
+    "homeTeam": "BKN",
+    "homePts": 94,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 105.6,
+        "dRtg": 94.5,
+        "tsPercent": 0.562,
+        "fTr": 0.198,
+        "orbPercent": 22.7,
+        "drbPercent": 68.6,
+        "trbPercent": 47.4,
+        "astPercent": 61,
+        "stlPercent": 11.1,
+        "blkPercent": 14.8,
+        "tovPercent": 16.1
+      },
+      {
+        "team": "BRK",
+        "oRtg": 94.5,
+        "dRtg": 105.6,
+        "tsPercent": 0.473,
+        "fTr": 0.128,
+        "orbPercent": 31.4,
+        "drbPercent": 77.3,
+        "trbPercent": 52.6,
+        "astPercent": 63.2,
+        "stlPercent": 9.1,
+        "blkPercent": 6.7,
+        "tovPercent": 16.1
+      }
+    ]
+  },
+  {
+    "gameId": "202412190DET",
+    "date": "2024-12-19T12:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 126,
+    "homeTeam": "DET",
+    "homePts": 119,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 117.9,
+        "dRtg": 111.4,
+        "tsPercent": 0.652,
+        "fTr": 0.373,
+        "orbPercent": 36.6,
+        "drbPercent": 78.3,
+        "trbPercent": 61.4,
+        "astPercent": 59,
+        "stlPercent": 4.7,
+        "blkPercent": 13.8,
+        "tovPercent": 21.8
+      },
+      {
+        "team": "DET",
+        "oRtg": 111.4,
+        "dRtg": 117.9,
+        "tsPercent": 0.527,
+        "fTr": 0.171,
+        "orbPercent": 21.7,
+        "drbPercent": 63.4,
+        "trbPercent": 38.6,
+        "astPercent": 56.5,
+        "stlPercent": 9.4,
+        "blkPercent": 18.6,
+        "tovPercent": 8.1
+      }
+    ]
+  },
+  {
+    "gameId": "202412160LAC",
+    "date": "2024-12-16T15:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 107,
+    "homeTeam": "LAC",
+    "homePts": 144,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 103.2,
+        "dRtg": 138.9,
+        "tsPercent": 0.574,
+        "fTr": 0.375,
+        "orbPercent": 22.7,
+        "drbPercent": 78.1,
+        "trbPercent": 46.1,
+        "astPercent": 61.1,
+        "stlPercent": 7.7,
+        "blkPercent": 7,
+        "tovPercent": 19.8
+      },
+      {
+        "team": "LAC",
+        "oRtg": 138.9,
+        "dRtg": 103.2,
+        "tsPercent": 0.749,
+        "fTr": 0.39,
+        "orbPercent": 21.9,
+        "drbPercent": 77.3,
+        "trbPercent": 53.9,
+        "astPercent": 57.1,
+        "stlPercent": 12.5,
+        "blkPercent": 14.6,
+        "tovPercent": 14.3
+      }
+    ]
+  },
+  {
+    "gameId": "202412130UTA",
+    "date": "2024-12-13T14:30:00Z",
+    "visitorTeam": "PHX",
+    "visitorPts": 134,
+    "homeTeam": "UTA",
+    "homePts": 126,
+    "teamGameAdvStats": [
+      {
+        "team": "PHO",
+        "oRtg": 142.2,
+        "dRtg": 133.7,
+        "tsPercent": 0.685,
+        "fTr": 0.225,
+        "orbPercent": 24.3,
+        "drbPercent": 82.4,
+        "trbPercent": 52.1,
+        "astPercent": 76.6,
+        "stlPercent": 10.6,
+        "blkPercent": 18.4,
+        "tovPercent": 7.6
+      },
+      {
+        "team": "UTA",
+        "oRtg": 133.7,
+        "dRtg": 142.2,
+        "tsPercent": 0.727,
+        "fTr": 0.286,
+        "orbPercent": 17.6,
+        "drbPercent": 75.7,
+        "trbPercent": 47.9,
+        "astPercent": 69.8,
+        "stlPercent": 5.3,
+        "blkPercent": 13.6,
+        "tovPercent": 14.8
+      }
+    ]
+  },
+  {
+    "gameId": "202412080SAC",
+    "date": "2024-12-08T14:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 97,
+    "homeTeam": "SAC",
+    "homePts": 141,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 98.1,
+        "dRtg": 142.6,
+        "tsPercent": 0.543,
+        "fTr": 0.263,
+        "orbPercent": 20.9,
+        "drbPercent": 76.3,
+        "trbPercent": 46.9,
+        "astPercent": 67.7,
+        "stlPercent": 6.1,
+        "blkPercent": 10.7,
+        "tovPercent": 18.3
+      },
+      {
+        "team": "SAC",
+        "oRtg": 142.6,
+        "dRtg": 98.1,
+        "tsPercent": 0.681,
+        "fTr": 0.08,
+        "orbPercent": 23.7,
+        "drbPercent": 79.1,
+        "trbPercent": 53.1,
+        "astPercent": 68.4,
+        "stlPercent": 10.1,
+        "blkPercent": 18.4,
+        "tovPercent": 7.2
+      }
+    ]
+  },
+  {
+    "gameId": "202412060POR",
+    "date": "2024-12-06T15:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 141,
+    "homeTeam": "POR",
+    "homePts": 99,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 132.8,
+        "dRtg": 93.2,
+        "tsPercent": 0.664,
+        "fTr": 0.24,
+        "orbPercent": 28.2,
+        "drbPercent": 89.3,
+        "trbPercent": 64.2,
+        "astPercent": 64.2,
+        "stlPercent": 5.7,
+        "blkPercent": 22.9,
+        "tovPercent": 11.7
+      },
+      {
+        "team": "POR",
+        "oRtg": 93.2,
+        "dRtg": 132.8,
+        "tsPercent": 0.483,
+        "fTr": 0.179,
+        "orbPercent": 10.7,
+        "drbPercent": 71.8,
+        "trbPercent": 35.8,
+        "astPercent": 62.2,
+        "stlPercent": 3.8,
+        "blkPercent": 10.9,
+        "tovPercent": 9.7
+      }
+    ]
+  },
+  {
+    "gameId": "202412030OKC",
+    "date": "2024-12-03T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 106,
+    "homeTeam": "OKC",
+    "homePts": 133,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 111.6,
+        "dRtg": 140,
+        "tsPercent": 0.665,
+        "fTr": 0.314,
+        "orbPercent": 36.7,
+        "drbPercent": 62.5,
+        "trbPercent": 51.4,
+        "astPercent": 55.3,
+        "stlPercent": 3.2,
+        "blkPercent": 10.9,
+        "tovPercent": 26.7
+      },
+      {
+        "team": "OKC",
+        "oRtg": 140,
+        "dRtg": 111.6,
+        "tsPercent": 0.622,
+        "fTr": 0.108,
+        "orbPercent": 37.5,
+        "drbPercent": 63.3,
+        "trbPercent": 48.6,
+        "astPercent": 60.4,
+        "stlPercent": 18.9,
+        "blkPercent": 8.6,
+        "tovPercent": 7
+      }
+    ]
+  },
+  {
+    "gameId": "202412010UTA",
+    "date": "2024-12-01T13:00:00Z",
+    "visitorTeam": "LAL",
+    "visitorPts": 105,
+    "homeTeam": "UTA",
+    "homePts": 104,
+    "teamGameAdvStats": [
+      {
+        "team": "LAL",
+        "oRtg": 114.3,
+        "dRtg": 113.3,
+        "tsPercent": 0.53,
+        "fTr": 0.284,
+        "orbPercent": 21.7,
+        "drbPercent": 80,
+        "trbPercent": 48.8,
+        "astPercent": 59,
+        "stlPercent": 7.6,
+        "blkPercent": 10.3,
+        "tovPercent": 4.8
+      },
+      {
+        "team": "UTA",
+        "oRtg": 113.3,
+        "dRtg": 114.3,
+        "tsPercent": 0.604,
+        "fTr": 0.203,
+        "orbPercent": 20,
+        "drbPercent": 78.3,
+        "trbPercent": 51.2,
+        "astPercent": 67.5,
+        "stlPercent": 4.4,
+        "blkPercent": 7.3,
+        "tovPercent": 14.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411300UTA",
+    "date": "2024-11-30T14:30:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 106,
+    "homeTeam": "UTA",
+    "homePts": 94,
+    "teamGameAdvStats": [
+      {
+        "team": "DAL",
+        "oRtg": 109.7,
+        "dRtg": 97.3,
+        "tsPercent": 0.549,
+        "fTr": 0.167,
+        "orbPercent": 26.1,
+        "drbPercent": 65.5,
+        "trbPercent": 47.5,
+        "astPercent": 73.2,
+        "stlPercent": 12.4,
+        "blkPercent": 10.7,
+        "tovPercent": 13.4
+      },
+      {
+        "team": "UTA",
+        "oRtg": 97.3,
+        "dRtg": 109.7,
+        "tsPercent": 0.451,
+        "fTr": 0.221,
+        "orbPercent": 34.5,
+        "drbPercent": 73.9,
+        "trbPercent": 52.5,
+        "astPercent": 58.8,
+        "stlPercent": 10.4,
+        "blkPercent": 13.7,
+        "tovPercent": 12.6
+      }
+    ]
+  },
+  {
+    "gameId": "202411270UTA",
+    "date": "2024-11-27T14:00:00Z",
+    "visitorTeam": "DEN",
+    "visitorPts": 122,
+    "homeTeam": "UTA",
+    "homePts": 103,
+    "teamGameAdvStats": [
+      {
+        "team": "DEN",
+        "oRtg": 131.4,
+        "dRtg": 110.9,
+        "tsPercent": 0.648,
+        "fTr": 0.274,
+        "orbPercent": 27.8,
+        "drbPercent": 58,
+        "trbPercent": 45.3,
+        "astPercent": 65.2,
+        "stlPercent": 10.8,
+        "blkPercent": 17,
+        "tovPercent": 10.5
+      },
+      {
+        "team": "UTA",
+        "oRtg": 110.9,
+        "dRtg": 131.4,
+        "tsPercent": 0.526,
+        "fTr": 0.2,
+        "orbPercent": 42,
+        "drbPercent": 72.2,
+        "trbPercent": 54.7,
+        "astPercent": 65.8,
+        "stlPercent": 7.5,
+        "blkPercent": 9.8,
+        "tovPercent": 16.3
+      }
+    ]
+  },
+  {
+    "gameId": "202411260UTA",
+    "date": "2024-11-26T14:00:00Z",
+    "visitorTeam": "SAS",
+    "visitorPts": 128,
+    "homeTeam": "UTA",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "SAS",
+        "oRtg": 128.6,
+        "dRtg": 115.6,
+        "tsPercent": 0.613,
+        "fTr": 0.28,
+        "orbPercent": 29.5,
+        "drbPercent": 72.2,
+        "trbPercent": 48.8,
+        "astPercent": 66.7,
+        "stlPercent": 12.1,
+        "blkPercent": 10.2,
+        "tovPercent": 8.7
+      },
+      {
+        "team": "UTA",
+        "oRtg": 115.6,
+        "dRtg": 128.6,
+        "tsPercent": 0.62,
+        "fTr": 0.238,
+        "orbPercent": 27.8,
+        "drbPercent": 70.5,
+        "trbPercent": 51.3,
+        "astPercent": 55.8,
+        "stlPercent": 6,
+        "blkPercent": 8.9,
+        "tovPercent": 18.5
+      }
+    ]
+  },
+  {
+    "gameId": "202411230UTA",
+    "date": "2024-11-23T10:00:00Z",
+    "visitorTeam": "NYK",
+    "visitorPts": 106,
+    "homeTeam": "UTA",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "NYK",
+        "oRtg": 104.8,
+        "dRtg": 119.7,
+        "tsPercent": 0.503,
+        "fTr": 0.12,
+        "orbPercent": 20.4,
+        "drbPercent": 76.3,
+        "trbPercent": 43.5,
+        "astPercent": 64.1,
+        "stlPercent": 9.9,
+        "blkPercent": 18.9,
+        "tovPercent": 7.9
+      },
+      {
+        "team": "UTA",
+        "oRtg": 119.7,
+        "dRtg": 104.8,
+        "tsPercent": 0.634,
+        "fTr": 0.218,
+        "orbPercent": 23.7,
+        "drbPercent": 79.6,
+        "trbPercent": 56.5,
+        "astPercent": 68.2,
+        "stlPercent": 4,
+        "blkPercent": 8.2,
+        "tovPercent": 15.9
+      }
+    ]
+  },
+  {
+    "gameId": "202411210SAS",
+    "date": "2024-11-21T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 118,
+    "homeTeam": "SAS",
+    "homePts": 126,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 110.2,
+        "dRtg": 117.6,
+        "tsPercent": 0.539,
+        "fTr": 0.265,
+        "orbPercent": 23.1,
+        "drbPercent": 77.1,
+        "trbPercent": 49,
+        "astPercent": 53.7,
+        "stlPercent": 3.7,
+        "blkPercent": 12.5,
+        "tovPercent": 11.3
+      },
+      {
+        "team": "SAS",
+        "oRtg": 117.6,
+        "dRtg": 110.2,
+        "tsPercent": 0.582,
+        "fTr": 0.523,
+        "orbPercent": 22.9,
+        "drbPercent": 76.9,
+        "trbPercent": 51,
+        "astPercent": 78,
+        "stlPercent": 7.5,
+        "blkPercent": 17,
+        "tovPercent": 9.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411190LAL",
+    "date": "2024-11-19T15:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 118,
+    "homeTeam": "LAL",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 118.9,
+        "dRtg": 124.9,
+        "tsPercent": 0.6,
+        "fTr": 0.211,
+        "orbPercent": 28.2,
+        "drbPercent": 83.8,
+        "trbPercent": 55.3,
+        "astPercent": 62.2,
+        "stlPercent": 9.1,
+        "blkPercent": 0,
+        "tovPercent": 14
+      },
+      {
+        "team": "LAL",
+        "oRtg": 124.9,
+        "dRtg": 118.9,
+        "tsPercent": 0.675,
+        "fTr": 0.474,
+        "orbPercent": 16.2,
+        "drbPercent": 71.8,
+        "trbPercent": 44.7,
+        "astPercent": 71.4,
+        "stlPercent": 9.1,
+        "blkPercent": 9.3,
+        "tovPercent": 13.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411170LAC",
+    "date": "2024-11-17T14:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 105,
+    "homeTeam": "LAC",
+    "homePts": 116,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 111.3,
+        "dRtg": 123,
+        "tsPercent": 0.604,
+        "fTr": 0.228,
+        "orbPercent": 25,
+        "drbPercent": 69.6,
+        "trbPercent": 50,
+        "astPercent": 61.5,
+        "stlPercent": 7.4,
+        "blkPercent": 1.9,
+        "tovPercent": 17.9
+      },
+      {
+        "team": "LAC",
+        "oRtg": 123,
+        "dRtg": 111.3,
+        "tsPercent": 0.572,
+        "fTr": 0.181,
+        "orbPercent": 30.4,
+        "drbPercent": 75,
+        "trbPercent": 50,
+        "astPercent": 65.2,
+        "stlPercent": 11.7,
+        "blkPercent": 12.8,
+        "tovPercent": 8.1
+      }
+    ]
+  },
+  {
+    "gameId": "202411160SAC",
+    "date": "2024-11-16T15:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 117,
+    "homeTeam": "SAC",
+    "homePts": 121,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 123.2,
+        "dRtg": 127.4,
+        "tsPercent": 0.626,
+        "fTr": 0.56,
+        "orbPercent": 29.7,
+        "drbPercent": 71,
+        "trbPercent": 48.5,
+        "astPercent": 43.2,
+        "stlPercent": 11.6,
+        "blkPercent": 7.1,
+        "tovPercent": 14.6
+      },
+      {
+        "team": "SAC",
+        "oRtg": 127.4,
+        "dRtg": 123.2,
+        "tsPercent": 0.644,
+        "fTr": 0.301,
+        "orbPercent": 29,
+        "drbPercent": 70.3,
+        "trbPercent": 51.5,
+        "astPercent": 57.1,
+        "stlPercent": 6.3,
+        "blkPercent": 6.1,
+        "tovPercent": 13
+      }
+    ]
+  },
+  {
+    "gameId": "202411140UTA",
+    "date": "2024-11-14T14:00:00Z",
+    "visitorTeam": "DAL",
+    "visitorPts": 113,
+    "homeTeam": "UTA",
+    "homePts": 115,
+    "teamGameAdvStats": [
+      {
+        "team": "DAL",
+        "oRtg": 119.7,
+        "dRtg": 121.9,
+        "tsPercent": 0.602,
+        "fTr": 0.235,
+        "orbPercent": 31.4,
+        "drbPercent": 54.3,
+        "trbPercent": 42.9,
+        "astPercent": 58.1,
+        "stlPercent": 11.7,
+        "blkPercent": 19.6,
+        "tovPercent": 15.3
+      },
+      {
+        "team": "UTA",
+        "oRtg": 121.9,
+        "dRtg": 119.7,
+        "tsPercent": 0.61,
+        "fTr": 0.247,
+        "orbPercent": 45.7,
+        "drbPercent": 68.6,
+        "trbPercent": 57.1,
+        "astPercent": 58.1,
+        "stlPercent": 11.7,
+        "blkPercent": 4.3,
+        "tovPercent": 17.5
+      }
+    ]
+  },
+  {
+    "gameId": "202411120UTA",
+    "date": "2024-11-12T14:00:00Z",
+    "visitorTeam": "PHX",
+    "visitorPts": 120,
+    "homeTeam": "UTA",
+    "homePts": 112,
+    "teamGameAdvStats": [
+      {
+        "team": "PHO",
+        "oRtg": 128.2,
+        "dRtg": 119.6,
+        "tsPercent": 0.627,
+        "fTr": 0.256,
+        "orbPercent": 27,
+        "drbPercent": 72.7,
+        "trbPercent": 51.9,
+        "astPercent": 48.8,
+        "stlPercent": 6.4,
+        "blkPercent": 20.4,
+        "tovPercent": 9.5
+      },
+      {
+        "team": "UTA",
+        "oRtg": 119.6,
+        "dRtg": 128.2,
+        "tsPercent": 0.584,
+        "fTr": 0.098,
+        "orbPercent": 27.3,
+        "drbPercent": 73,
+        "trbPercent": 48.1,
+        "astPercent": 71.1,
+        "stlPercent": 7.5,
+        "blkPercent": 6.4,
+        "tovPercent": 11.9
+      }
+    ]
+  },
+  {
+    "gameId": "202411090SAS",
+    "date": "2024-11-09T10:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 111,
+    "homeTeam": "SAS",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 106.3,
+        "dRtg": 105.4,
+        "tsPercent": 0.57,
+        "fTr": 0.427,
+        "orbPercent": 22.5,
+        "drbPercent": 85.7,
+        "trbPercent": 54.9,
+        "astPercent": 60.5,
+        "stlPercent": 12.5,
+        "blkPercent": 10.5,
+        "tovPercent": 15.6
+      },
+      {
+        "team": "SAS",
+        "oRtg": 105.4,
+        "dRtg": 106.3,
+        "tsPercent": 0.589,
+        "fTr": 0.224,
+        "orbPercent": 14.3,
+        "drbPercent": 77.5,
+        "trbPercent": 45.1,
+        "astPercent": 76.3,
+        "stlPercent": 7.7,
+        "blkPercent": 20.4,
+        "tovPercent": 17.6
+      }
+    ]
+  },
+  {
+    "gameId": "202411070MIL",
+    "date": "2024-11-07T13:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 100,
+    "homeTeam": "MIL",
+    "homePts": 123,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 104.3,
+        "dRtg": 128.3,
+        "tsPercent": 0.589,
+        "fTr": 0.234,
+        "orbPercent": 21.1,
+        "drbPercent": 73.8,
+        "trbPercent": 48.8,
+        "astPercent": 72.7,
+        "stlPercent": 5.2,
+        "blkPercent": 10.2,
+        "tovPercent": 20.6
+      },
+      {
+        "team": "MIL",
+        "oRtg": 128.3,
+        "dRtg": 104.3,
+        "tsPercent": 0.633,
+        "fTr": 0.357,
+        "orbPercent": 26.2,
+        "drbPercent": 78.9,
+        "trbPercent": 51.3,
+        "astPercent": 46.5,
+        "stlPercent": 13.6,
+        "blkPercent": 8.3,
+        "tovPercent": 10.2
+      }
+    ]
+  },
+  {
+    "gameId": "202411040CHI",
+    "date": "2024-11-04T13:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 135,
+    "homeTeam": "CHI",
+    "homePts": 126,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 133.2,
+        "dRtg": 124.3,
+        "tsPercent": 0.66,
+        "fTr": 0.337,
+        "orbPercent": 31.6,
+        "drbPercent": 78.7,
+        "trbPercent": 57.6,
+        "astPercent": 72.9,
+        "stlPercent": 3,
+        "blkPercent": 10.3,
+        "tovPercent": 11.3
+      },
+      {
+        "team": "CHI",
+        "oRtg": 124.3,
+        "dRtg": 133.2,
+        "tsPercent": 0.594,
+        "fTr": 0.263,
+        "orbPercent": 21.3,
+        "drbPercent": 68.4,
+        "trbPercent": 42.4,
+        "astPercent": 80,
+        "stlPercent": 6.9,
+        "blkPercent": 13.2,
+        "tovPercent": 7.8
+      }
+    ]
+  },
+  {
+    "gameId": "202411020DEN",
+    "date": "2024-11-02T14:00:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 103,
+    "homeTeam": "DEN",
+    "homePts": 129,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 98.3,
+        "dRtg": 123.2,
+        "tsPercent": 0.568,
+        "fTr": 0.403,
+        "orbPercent": 19.5,
+        "drbPercent": 62,
+        "trbPercent": 42.9,
+        "astPercent": 75,
+        "stlPercent": 6.7,
+        "blkPercent": 11.9,
+        "tovPercent": 20.9
+      },
+      {
+        "team": "DEN",
+        "oRtg": 123.2,
+        "dRtg": 98.3,
+        "tsPercent": 0.591,
+        "fTr": 0.232,
+        "orbPercent": 38,
+        "drbPercent": 80.5,
+        "trbPercent": 57.1,
+        "astPercent": 68.8,
+        "stlPercent": 13.4,
+        "blkPercent": 2.9,
+        "tovPercent": 14.2
+      }
+    ]
+  },
+  {
+    "gameId": "202410310UTA",
+    "date": "2024-10-31T13:00:00Z",
+    "visitorTeam": "SAS",
+    "visitorPts": 106,
+    "homeTeam": "UTA",
+    "homePts": 88,
+    "teamGameAdvStats": [
+      {
+        "team": "SAS",
+        "oRtg": 107.4,
+        "dRtg": 89.2,
+        "tsPercent": 0.519,
+        "fTr": 0.25,
+        "orbPercent": 22.4,
+        "drbPercent": 67.4,
+        "trbPercent": 44.2,
+        "astPercent": 65.8,
+        "stlPercent": 17.2,
+        "blkPercent": 14,
+        "tovPercent": 9.7
+      },
+      {
+        "team": "UTA",
+        "oRtg": 89.2,
+        "dRtg": 107.4,
+        "tsPercent": 0.487,
+        "fTr": 0.232,
+        "orbPercent": 32.6,
+        "drbPercent": 77.6,
+        "trbPercent": 55.8,
+        "astPercent": 59.4,
+        "stlPercent": 6.1,
+        "blkPercent": 12.2,
+        "tovPercent": 22.3
+      }
+    ]
+  },
+  {
+    "gameId": "202410290UTA",
+    "date": "2024-10-29T13:00:00Z",
+    "visitorTeam": "SAC",
+    "visitorPts": 113,
+    "homeTeam": "UTA",
+    "homePts": 96,
+    "teamGameAdvStats": [
+      {
+        "team": "SAC",
+        "oRtg": 114.7,
+        "dRtg": 97.5,
+        "tsPercent": 0.576,
+        "fTr": 0.152,
+        "orbPercent": 23.1,
+        "drbPercent": 76.9,
+        "trbPercent": 53.8,
+        "astPercent": 54.2,
+        "stlPercent": 9.1,
+        "blkPercent": 22,
+        "tovPercent": 10.9
+      },
+      {
+        "team": "UTA",
+        "oRtg": 97.5,
+        "dRtg": 114.7,
+        "tsPercent": 0.504,
+        "fTr": 0.157,
+        "orbPercent": 23.1,
+        "drbPercent": 76.9,
+        "trbPercent": 46.2,
+        "astPercent": 68.6,
+        "stlPercent": 7.1,
+        "blkPercent": 6.6,
+        "tovPercent": 15.2
+      }
+    ]
+  },
+  {
+    "gameId": "202410280DAL",
+    "date": "2024-10-28T12:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 102,
+    "homeTeam": "DAL",
+    "homePts": 110,
+    "teamGameAdvStats": [
+      {
+        "team": "UTA",
+        "oRtg": 101.3,
+        "dRtg": 109.2,
+        "tsPercent": 0.487,
+        "fTr": 0.315,
+        "orbPercent": 28.8,
+        "drbPercent": 72.9,
+        "trbPercent": 50,
+        "astPercent": 70.6,
+        "stlPercent": 7,
+        "blkPercent": 8.9,
+        "tovPercent": 12.5
+      },
+      {
+        "team": "DAL",
+        "oRtg": 109.2,
+        "dRtg": 101.3,
+        "tsPercent": 0.537,
+        "fTr": 0.179,
+        "orbPercent": 27.1,
+        "drbPercent": 71.2,
+        "trbPercent": 50,
+        "astPercent": 62.8,
+        "stlPercent": 8.9,
+        "blkPercent": 21.1,
+        "tovPercent": 12
+      }
+    ]
+  },
+  {
+    "gameId": "202410250UTA",
+    "date": "2024-10-25T13:30:00Z",
+    "visitorTeam": "GSW",
+    "visitorPts": 127,
+    "homeTeam": "UTA",
+    "homePts": 86,
+    "teamGameAdvStats": [
+      {
+        "team": "GSW",
+        "oRtg": 122,
+        "dRtg": 82.6,
+        "tsPercent": 0.584,
+        "fTr": 0.057,
+        "orbPercent": 38,
+        "drbPercent": 74.5,
+        "trbPercent": 57.1,
+        "astPercent": 68.6,
+        "stlPercent": 14.4,
+        "blkPercent": 12,
+        "tovPercent": 12.1
+      },
+      {
+        "team": "UTA",
+        "oRtg": 82.6,
+        "dRtg": 122,
+        "tsPercent": 0.416,
+        "fTr": 0.283,
+        "orbPercent": 25.5,
+        "drbPercent": 62,
+        "trbPercent": 42.9,
+        "astPercent": 62.1,
+        "stlPercent": 7.7,
+        "blkPercent": 8.9,
+        "tovPercent": 17.5
+      }
+    ]
+  },
+  {
+    "gameId": "202410230UTA",
+    "date": "2024-10-23T13:00:00Z",
+    "visitorTeam": "MEM",
+    "visitorPts": 126,
+    "homeTeam": "UTA",
+    "homePts": 124,
+    "teamGameAdvStats": [
+      {
+        "team": "MEM",
+        "oRtg": 121.8,
+        "dRtg": 119.9,
+        "tsPercent": 0.6,
+        "fTr": 0.352,
+        "orbPercent": 27.1,
+        "drbPercent": 66.7,
+        "trbPercent": 45.6,
+        "astPercent": 65.1,
+        "stlPercent": 6.8,
+        "blkPercent": 8.5,
+        "tovPercent": 11
+      },
+      {
+        "team": "UTA",
+        "oRtg": 119.9,
+        "dRtg": 121.8,
+        "tsPercent": 0.592,
+        "fTr": 0.529,
+        "orbPercent": 33.3,
+        "drbPercent": 72.9,
+        "trbPercent": 54.4,
+        "astPercent": 52.5,
+        "stlPercent": 6.8,
+        "blkPercent": 19.6,
+        "tovPercent": 14
+      }
+    ]
+  },
+  {
+    "gameId": "202404140GSW",
+    "date": "2024-04-14T07:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 116,
+    "homeTeam": "GSW",
+    "homePts": 123,
+    "teamGameAdvStats": []
+  },
+  {
+    "gameId": "202404120LAC",
+    "date": "2024-04-12T14:30:00Z",
+    "visitorTeam": "UTA",
+    "visitorPts": 110,
+    "homeTeam": "LAC",
+    "homePts": 109,
+    "teamGameAdvStats": []
+  }
+]
