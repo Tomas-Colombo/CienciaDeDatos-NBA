@@ -9,12 +9,14 @@ st.markdown("""
 
 Esta app muestra:
 1) **Exploración de datos** (gráficos interactivos)  
-2) **Modelo y Predicción** (cargar valores y obtener la predicción del modelo entrenado)
+2) **Modelo y Predicción** (cargar valores y obtener la predicción del modelo entrenado)  
+3) **Resultados y Métricas**  
+4) **Equipo**
 
 > La app usa datasets **ya procesados** y un **pipeline entrenado** exportado desde la Entrega 3.
 """)
 
-# Estado rápido de artefactos (opcional, útil para deploy)
+# Estado rápido de artefactos (útil para deploy)
 data_ok  = Path("data/processed/games_final_csv.csv").exists()
 model_ok = Path("models/model_pipeline.pkl").exists()
 meta_ok  = Path("models/metadata.json").exists()
@@ -31,4 +33,4 @@ cols[2].write("**models/metadata.json**")
 cols[2].success("OK") if meta_ok else cols[2].error("Falta")
 
 st.markdown("---")
-st.write("Usá el menú lateral para ir a **Modelo y Predicción**.")
+st.write("Usá el menú lateral para navegar: **Exploración de datos**, **Modelo y Predicción**, **Resultados y Métricas**, **Equipo**.")
