@@ -1,6 +1,7 @@
 import streamlit as st
 from pathlib import Path
 
+
 st.set_page_config(page_title="NBA Predictions", page_icon="🏀", layout="wide")
 
 st.title("🏀 Predicción de Partidos NBA")
