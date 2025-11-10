@@ -27,7 +27,7 @@ st.subheader("📊 Rendimiento del Modelo (Validación)")
 data = pd.DataFrame({
     "Real": ["Derrota", "Derrota", "Victoria", "Victoria"],
     "Predicción": ["Derrota", "Victoria", "Derrota", "Victoria"],
-    "Cantidad": [77, 36, 42, 93]
+    "Cantidad": [79, 34, 42, 93]
 })
 
 # --- Crear gráfico Altair ---
@@ -62,12 +62,12 @@ col1, col2 = st.columns([1, 1.2])
 with col1:
     st.altair_chart(chart + text, use_container_width=True)
 with col2:
-    st.metric("Accuracy", "68.5 %")
-    st.metric("ROC-AUC", "0.7366")
-    st.metric("F1 (Test)", "0.7045")
+    st.metric("Accuracy", "69.3 %")
+    st.metric("ROC-AUC", "0.7396")
+    st.metric("F1 (Test)", "0.7099")
     st.markdown("""
     **Interpretación rápida:**
     - La diagonal principal son aciertos (predicciones correctas).  
     - Los valores fuera de la diagonal son errores.  
-    - El modelo acierta el **68 %** de los partidos, con un **F1 ≈ 0.70**.  
+    - El modelo acierta el **69.3 %** de los partidos, con un **F1 ≈ 0.7099**.  
     """)

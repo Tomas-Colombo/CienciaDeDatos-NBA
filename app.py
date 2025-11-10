@@ -9,29 +9,12 @@ st.markdown("""
 **Proyecto Integrador – Visualización e Integración (Entrega 4)**
 
 Esta app muestra:
-1) **Exploración de datos** (gráficos interactivos)  
-2) **Modelo y Predicción** (cargar valores y obtener la predicción del modelo entrenado)  
-3) **Resultados y Métricas**  
-4) **Equipo**
+1) **Explora datos e interactua con graficos** (gráficos interactivos)  
+2) Análisis EDA, mira nuestras hipótesis de investigación
+3) Explora nuestro Dataset e información del modelo de predicción.
+4) **Haz tu propia predicción**
+5) ¡Conoce nuestro **Equipo**!
 
-> La app usa datasets **ya procesados** y un **pipeline entrenado** exportado desde la Entrega 3.
+> La app usa datasets **ya procesados** y un **pipeline entrenado** .
 """)
 
-# Estado rápido de artefactos (útil para deploy)
-data_ok  = Path("data/processed/games_final_csv.csv").exists()
-model_ok = Path("models/model_pipeline.pkl").exists()
-meta_ok  = Path("models/metadata.json").exists()
-
-st.subheader("Estado de artefactos")
-cols = st.columns(3)
-cols[0].write("**data/processed/games_final_csv.csv**")
-cols[0].success("OK") if data_ok else cols[0].error("Falta")
-
-cols[1].write("**models/model_pipeline.pkl**")
-cols[1].success("OK") if model_ok else cols[1].error("Falta")
-
-cols[2].write("**models/metadata.json**")
-cols[2].success("OK") if meta_ok else cols[2].error("Falta")
-
-st.markdown("---")
-st.write("Usá el menú lateral para navegar: **Exploración de datos**, **Modelo y Predicción**, **Resultados y Métricas**, **Equipo**.")

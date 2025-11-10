@@ -5,7 +5,7 @@ from pathlib import Path
 import math
 
 st.title("🤖 Modelo y Predicción")
-
+st.subheader("Consulta las estadísticas actuales de la nba en : https://www.nba.com/stats/teams/advanced?Season=2024-25")
 MODEL_PATH = Path("models/logreg_no_percents_pipeline.pkl")
 
 # --- parche robusto para unpickle de __main__.DropColumns ---
@@ -138,8 +138,7 @@ with st.form("pred_v3"):
                                help="Puntos recibidos por 100 posesiones (DEF RTG).")
     h_wins = c1.number_input("Victorias del local en la temporada ",  min_value=0, max_value=100, value=50, step=1)
     h_game_number = c1.number_input("Total partidos local en la temporada ", min_value=1, max_value=100, value=60, step=1)
-    home_pts = c1.number_input("Puntos estimados del local", value=112.0, step=0.1,
-                               help="Estimación de puntos del local para el partido.")
+    
     h_streak = c1.number_input("Racha actual del local (±)", value=1, step=1,
                                help="Racha total (positiva o negativa) sin discriminar local/visita.")
     home_home_str = c1.number_input("Racha del local jugando de local (±)", value=1, step=1,
@@ -156,7 +155,6 @@ with st.form("pred_v3"):
     v_def_rating = c2.number_input("Rating defensivo del visitante", value=109.0, step=0.1)
     v_wins = c2.number_input("Victorias del visitante en la temporada ", min_value=0, max_value=82, value=35, step=1)
     v_game_number = c2.number_input("Total partidos visitante en la temporada ",min_value=1, max_value=82, value=60, step=1)
-    vis_pts = c2.number_input("Puntos estimados del visitante", value=110.0, step=0.1)
     v_streak = c2.number_input("Racha actual del visitante (±)", value=0, step=1)
     vis_home_str = c2.number_input("Racha del visitante jugando de local (±)", value=0, step=1)
     vis_away_str = c2.number_input("Racha del visitante jugando de visitante (±)", value=0, step=1)
@@ -231,8 +229,8 @@ if ok:
         "defensive_rating_diff": defensive_rating_diff,
         "net_rating_diff": net_rating_diff,
 
-        "home_estimated_points": home_pts,
-        "visitor_estimated_points": vis_pts,
+        "home_estimated_points": h_estimated_points,
+        "visitor_estimated_points": v_estimated_points,
         "estimated_point_diff": estimated_point_diff,
 
         "home_streak_extreme": home_streak_extreme,
