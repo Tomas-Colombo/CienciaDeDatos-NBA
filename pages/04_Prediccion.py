@@ -2,11 +2,11 @@ import streamlit as st
 import pandas as pd
 import joblib
 from pathlib import Path
-import math
 
 st.title("🤖 Modelo y Predicción")
-st.subheader("Consulta las estadísticas actuales de la nba en : https://www.nba.com/stats/teams/advanced?Season=2024-25")
 MODEL_PATH = Path("models/logreg_no_percents_pipeline.pkl")
+TEAMS_PATH = Path("data/prediction/teams_advanced_2024_25.csv")
+
 
 # --- parche robusto para unpickle de __main__.DropColumns ---
 import sys, types
@@ -86,14 +86,67 @@ def load_model():
 
 model = load_model()
 
-# ====== Helpers  ======
-#def categorize_team_quality(wins_pct):
-#    if pd.isna(wins_pct): return 'Desconocido'
-#    elif wins_pct < 0.35: return 'Muy Débil'
-#    elif wins_pct < 0.45: return 'Débil'
-#    elif wins_pct < 0.55: return 'Promedio'
-#    elif wins_pct < 0.65: return 'Fuerte'
-#    else: return 'Muy Fuerte'
+
+# ====== Carga de datos actuales de equipos desde el csv ======
+@st.cache_data
+def load_teams():
+    try:
+        df = pd.read_csv(TEAMS_PATH,  sep=";") 
+    except FileNotFoundError:
+        st.warning(f"No se encontró el archivo de equipos: {TEAMS_PATH}")
+        return pd.DataFrame()
+
+    # columnas que realmente usás de ese Excel
+    cols_necesarias = ["TEAM", "GP", "W", "OffRtg", "DefRtg", "streak", "streak_as_local", "streak_as_visitor"]
+    faltan = [c for c in cols_necesarias if c not in df.columns]
+    if faltan:
+        st.error(f"Faltan columnas {faltan} en {TEAMS_PATH}")
+        return pd.DataFrame()
+
+    return df
+
+teams_df = load_teams()
+
+
+def get_team_data(team_name, df):
+    match = df[df["TEAM"] == team_name]
+    if match.empty:
+        return None
+    row = match.iloc[0]
+    return normalize_team_row(row)
+
+
+def get_team_data(team_name: str, df: pd.DataFrame):
+    """
+    Busca el equipo por nombre en el DataFrame y devuelve el dict normalizado.
+    """
+    if df.empty or not team_name:
+        return None
+
+    match = df[df["TEAM"] == team_name]
+    if match.empty:
+        return None
+
+    row = match.iloc[0]
+    return normalize_team_row(row)
+
+def normalize_team_row(row):
+    """
+    Convierte una fila del CSV (TEAM, GP, W, OffRtg, DefRtg)
+    a las estadísticas que usa tu modelo para ese equipo.
+    """
+    return {
+        "off_rating": float(row["OffRtg"]),
+        "def_rating": float(row["DefRtg"]),
+        "wins": int(row["W"]),
+        "game_number": int(row["GP"]),
+        "streak": int(row["streak"]),
+        "streak_as_local": int(row["streak_as_local"]),
+        "streak_as_visitor": int(row["streak_as_visitor"]),
+    }
+
+
+
 
 import pandas as pd
 
@@ -126,53 +179,66 @@ def categorize_streak_extreme(streak: int) -> int:
 # ====== Formulario en español ======
 st.markdown("Completá los datos del **equipo local** y **visitante**. Los nombres están en lenguaje común (NBA).")
 
+PLACEHOLDER = "— Seleccioná —"
+TEAM_LIST = sorted(teams_df["TEAM"].unique())
+
 with st.form("pred_v3"):
     c1, c2 = st.columns(2)
 
     # ---------- Local (home) ----------
     c1.subheader("Equipo Local")
-    home_name = c1.text_input("Nombre equipo local (opcional)", value="")
-    h_off_rating = c1.number_input("Rating ofensivo del local", value=110.0, step=0.1,
-                               help="Puntos anotados por 100 posesiones (OFF RTG).")
-    h_def_rating = c1.number_input("Rating defensivo del local", value=110.0, step=0.1,
-                               help="Puntos recibidos por 100 posesiones (DEF RTG).")
-    h_wins = c1.number_input("Victorias del local en la temporada ",  min_value=0, max_value=100, value=50, step=1)
-    h_game_number = c1.number_input("Total partidos local en la temporada ", min_value=1, max_value=100, value=60, step=1)
-    
-    h_streak = c1.number_input("Racha actual del local (±)", value=1, step=1,
-                               help="Racha total (positiva o negativa) sin discriminar local/visita.")
-    home_home_str = c1.number_input("Racha del local jugando de local (±)", value=1, step=1,
-                                    help="Racha del local solo en partidos como local.")
-    home_away_str = c1.number_input("Racha del local jugando de visitante (±)", value=0, step=1,
-                                    help="Racha del local solo en partidos como visitante.")
-    home_game_n = c1.number_input("Número de partido del local en la temporada (1–82)", min_value=1, max_value=82, value=41, step=1,
-                                  help="Progresión del calendario del local (1 a 82).")
+    home_choice = c1.selectbox("Elegí el equipo local", [PLACEHOLDER] + TEAM_LIST, index=0, key="home_lbl")
+    home_name = None if home_choice == PLACEHOLDER else home_choice
+
+    home_stats = get_team_data(home_name, teams_df) or {}
+
+    h_off_rating   = home_stats.get("off_rating", 110.0)
+    h_def_rating   = home_stats.get("def_rating", 110.0)
+    h_wins         = home_stats.get("wins", 50)
+    h_game_number  = home_stats.get("game_number", 60)
+
+    h_streak = home_stats.get("streak", 0)
+    home_home_str = home_stats.get("streak_as_local", 0)
+    home_away_str = home_stats.get("streak_as_visitor", 0)
 
     # ---------- Visitante (visitor) ----------
     c2.subheader("Equipo Visitante")
-    visitor_name = c2.text_input("Nombre equipo visitante (opcional)", value="")
-    v_off_rating = c2.number_input("Rating ofensivo del visitante", value=109.0, step=0.1)
-    v_def_rating = c2.number_input("Rating defensivo del visitante", value=109.0, step=0.1)
-    v_wins = c2.number_input("Victorias del visitante en la temporada ", min_value=0, max_value=82, value=35, step=1)
-    v_game_number = c2.number_input("Total partidos visitante en la temporada ",min_value=1, max_value=82, value=60, step=1)
-    v_streak = c2.number_input("Racha actual del visitante (±)", value=0, step=1)
-    vis_home_str = c2.number_input("Racha del visitante jugando de local (±)", value=0, step=1)
-    vis_away_str = c2.number_input("Racha del visitante jugando de visitante (±)", value=0, step=1)
-    vis_game_n = c2.number_input("Número de partido del visitante en la temporada (1–82)", min_value=1, max_value=82, value=41, step=1)
+    visitor_choice = c2.selectbox("Elegí el equipo visitante", [PLACEHOLDER] + TEAM_LIST, index=0, key="away_lbl")
+    visitor_name = None if visitor_choice == PLACEHOLDER else visitor_choice
 
+    # Datos del visitante automáticamente desde el CSV
+    visitor_stats = get_team_data(visitor_name, teams_df) or {}
+
+    v_off_rating = visitor_stats.get("off_rating", 109.0)
+    v_def_rating = visitor_stats.get("def_rating", 109.0)
+    v_wins = visitor_stats.get("wins", 35)
+    v_game_number = visitor_stats.get("game_number", 60)
+
+    v_streak = visitor_stats.get("streak", 0)
+    vis_home_str = visitor_stats.get("streak_as_local", 0)
+    vis_away_str = visitor_stats.get("streak_as_visitor", 0)
+
+    # Botón (sin disabled; validamos después)
     ok = st.form_submit_button("Predecir", use_container_width=True)
+
+# Validación mínima post-submit (evita equipos iguales o sin elegir)
+if ok:
+    if (home_name is None) or (visitor_name is None):
+        st.error("Debés seleccionar **ambos** equipos.")
+        st.stop()
+    if home_name == visitor_name:
+        st.error("El equipo visitante no puede ser el mismo que el local.")
+        st.stop()
 
 # ====== Construcción EXACTA de features que pide tu pipeline ====== h_wins 
 if ok:
     # Etiquetas para mostrar resultado
-    home_label = home_name.strip() if home_name.strip() else "Local"
-    visitor_label = visitor_name.strip() if visitor_name.strip() else "Visitante"
+    home_label = home_name if home_name else "Local"
+    visitor_label = visitor_name if visitor_name else "Visitante"
 
     # Diferenciales 
-
     h_win_perent = h_wins / h_game_number           #home_wins_percent
     v_win_perent = v_wins / v_game_number
-
 
     wins_percent_diff     = h_win_perent - v_win_perent     
     offensive_rating_diff = h_off_rating - v_off_rating     
@@ -197,21 +263,22 @@ if ok:
     streak_extreme_diff    = home_streak_extreme - visitor_streak_extreme
 
     home_last10 = h_win_perent 
-    vis_last10  = v_win_perent   
+    vis_last10  = v_win_perent
 
 
+  
 
     # DataFrame con TODAS las features de entrenamiento (nombres EXACTOS)
     X = pd.DataFrame([{
         # --- Núcleo base ---
-        "home_game_number": home_game_n,
+        "home_game_number": h_game_number,
         "home_streak": h_streak,
         "home_home_streak": home_home_str,
         "home_away_streak": home_away_str,
         "home_offensive_rating": h_off_rating,
         "home_defensive_rating": h_def_rating,
 
-        "visitor_game_number": vis_game_n,
+        "visitor_game_number": v_game_number,
         "visitor_streak": v_streak,
         "visitor_home_streak": vis_home_str,
         "visitor_away_streak": vis_away_str,
@@ -250,9 +317,9 @@ if ok:
         y = model.predict(X)[0]
         # Mensaje usando nombres si se ingresaron (sino Local/Visitante)
         if int(y) == 1:
-            st.success(f"Predicción: **{home_label} gana** frente a **{visitor_label}**")
-        else:
             st.success(f"Predicción: **{visitor_label} gana** frente a **{home_label}**")
+        else:
+            st.success(f"Predicción: **{home_label} gana** frente a **{visitor_label}**")
         st.caption(f"Valor binario predicho: {int(y)} (1 = gana {home_label}, 0 = gana {visitor_label})")
 
         if hasattr(model, "predict_proba"):
