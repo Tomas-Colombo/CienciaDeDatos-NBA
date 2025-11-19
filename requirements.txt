@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+numpy
+joblib               # <-- ¡Esta línea es CRUCIAL!
+scikit-learn
+# Agrega cualquier otra librería que use tu proyecto (matplotlib, seaborn, etc.)
