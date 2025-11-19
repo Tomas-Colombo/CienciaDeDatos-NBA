@@ -10,10 +10,9 @@ st.markdown("""
 
 Esta app muestra:
 1) **Explora datos e interactua con graficos** (gráficos interactivos)  
-2) Análisis EDA, mira nuestras hipótesis de investigación
-3) Explora nuestro Dataset e información del modelo de predicción.
-4) **Haz tu propia predicción**
-5) ¡Conoce nuestro **Equipo**!
+2) Explora nuestro Dataset e información del modelo de predicción.
+3) **Haz tu propia predicción**
+4) ¡Conoce nuestro **Equipo**!
 
 > La app usa datasets **ya procesados** y un **pipeline entrenado** .
 """)

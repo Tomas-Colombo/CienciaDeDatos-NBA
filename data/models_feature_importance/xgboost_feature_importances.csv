@@ -1,0 +1,15 @@
+feature,importance
+num__net_rating_diff,0.19261198
+num__estimated_point_diff,0.18914129
+num__offensive_rating_diff,0.16925393
+num__wins_percent_diff,0.16920333
+num__defensive_rating_diff,0.15080611
+num__ts_percent_diff,0.12898338
+num__home_rebound_percent,0.0
+num__visitor_rebound_percent,0.0
+num__turnover_percent_diff,0.0
+num__assist_percent_diff,0.0
+num__steal_percent_diff,0.0
+num__rebound_percent_diff,0.0
+num__streak_extreme_diff,0.0
+num__streak_diff,0.0

@@ -1,0 +1,44 @@
+feature,importance
+num__home_wins_percent,63
+num__wins_percent_diff,62
+num__home_game_number,58
+num__offensive_rating_diff,58
+num__net_rating_diff,57
+num__home_defensive_rating,55
+num__visitor_assist_percent,51
+num__home_assist_percent,50
+num__estimated_point_diff,49
+num__visitor_offensive_rating,48
+num__turnover_percent_diff,47
+num__assist_percent_diff,46
+num__home_estimated_points,45
+num__home_offensive_rating,42
+num__visitor_game_number,41
+num__visitor_defensive_rating,38
+num__defensive_rating_diff,38
+num__rebound_percent_diff,37
+num__visitor_turnover_percent,33
+num__ts_percent_diff,33
+num__visitor_ts_percent,32
+num__visitor_wins_percent,27
+num__home_turnover_percent,26
+num__visitor_rebound_percent,23
+num__visitor_steal_percent,22
+num__home_steal_percent,21
+num__steal_percent_diff,20
+num__visitor_estimated_points,19
+num__home_rebound_percent,13
+num__home_ts_percent,13
+cat__visitor_quality_Muy Débil,13
+cat__home_quality_Débil,5
+num__home_much_better,5
+num__visitor_much_better,4
+cat__home_quality_Fuerte,2
+cat__home_quality_Muy Débil,2
+num__teams_evenly_matched,1
+cat__visitor_quality_Muy Fuerte,1
+cat__visitor_quality_Débil,1
+cat__visitor_quality_Promedio,1
+cat__home_quality_Muy Fuerte,0
+cat__home_quality_Promedio,0
+cat__visitor_quality_Fuerte,0

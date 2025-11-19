@@ -201,6 +201,23 @@ with st.form("pred_v3"):
     home_home_str = home_stats.get("streak_as_local", 0)
     home_away_str = home_stats.get("streak_as_visitor", 0)
 
+    # Mostrar datos del equipo local directamente debajo de la selección
+    if home_name is not None:
+        try:
+            c1.markdown("**Datos del equipo local:**")
+            c1.table(pd.DataFrame({
+                "OffRtg": [h_off_rating],
+                "DefRtg": [h_def_rating],
+                "Wins": [h_wins],
+                "GP": [h_game_number],
+                "Streak": [h_streak],
+                "Streak local": [home_home_str],
+                "Streak visitante": [home_away_str]
+            }).T)
+        except Exception:
+            # no bloquear si hay algún dato faltante
+            pass
+
     # ---------- Visitante (visitor) ----------
     c2.subheader("Equipo Visitante")
     visitor_choice = c2.selectbox("Elegí el equipo visitante", [PLACEHOLDER] + TEAM_LIST, index=0, key="away_lbl")
@@ -217,6 +234,22 @@ with st.form("pred_v3"):
     v_streak = visitor_stats.get("streak", 0)
     vis_home_str = visitor_stats.get("streak_as_local", 0)
     vis_away_str = visitor_stats.get("streak_as_visitor", 0)
+
+    # Mostrar datos del equipo visitante directamente debajo de la selección
+    if visitor_name is not None:
+        try:
+            c2.markdown("**Datos del equipo visitante:**")
+            c2.table(pd.DataFrame({
+                "OffRtg": [v_off_rating],
+                "DefRtg": [v_def_rating],
+                "Wins": [v_wins],
+                "GP": [v_game_number],
+                "Streak": [v_streak],
+                "Streak local": [vis_home_str],
+                "Streak visitante": [vis_away_str]
+            }).T)
+        except Exception:
+            pass
 
     # Botón (sin disabled; validamos después)
     ok = st.form_submit_button("Predecir", use_container_width=True)
